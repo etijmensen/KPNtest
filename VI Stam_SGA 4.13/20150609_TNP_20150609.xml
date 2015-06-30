@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:tnp:v1 Stam_TNP_v4.13.xsd" IngangsMoment="2015-06-09T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:tnp:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TreindienstNormaalPrognoseInput>
+    <TreindienstNormaalCode>1</TreindienstNormaalCode>
+    <SituatieDuidelijkIndicator>N</SituatieDuidelijkIndicator>
+    <OmschrijvingGUI>1. onduidelijk</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Later meer</common:Kort>
+      <common:Middel>Later meer informatie</common:Middel>
+      <common:Lang>Later volgt meer informatie</common:Lang>
+    </Omschrijving>
+    <AantalPrognosetijden>0</AantalPrognosetijden>
+    <PrognoseTijdPubliceren>N</PrognoseTijdPubliceren>
+  </TreindienstNormaalPrognoseInput>
+  <TreindienstNormaalPrognoseInput>
+    <TreindienstNormaalCode>2</TreindienstNormaalCode>
+    <SituatieDuidelijkIndicator>J</SituatieDuidelijkIndicator>
+    <OmschrijvingGUI>2. onbekend</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Duur onbekend</common:Kort>
+      <common:Middel>Duur nog niet bekend</common:Middel>
+      <common:Lang>Het is nog niet bekend hoe lang dit zal duren</common:Lang>
+    </Omschrijving>
+    <AantalPrognosetijden>0</AantalPrognosetijden>
+    <PrognoseTijdPubliceren>N</PrognoseTijdPubliceren>
+  </TreindienstNormaalPrognoseInput>
+  <TreindienstNormaalPrognoseInput>
+    <TreindienstNormaalCode>3</TreindienstNormaalCode>
+    <SituatieDuidelijkIndicator>J</SituatieDuidelijkIndicator>
+    <OmschrijvingGUI>3. duurt tot ong.</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Duurt tot ong.</common:Kort>
+      <common:Middel>Dit duurt tot ongeveer</common:Middel>
+      <common:Lang>Dit duurt tot ongeveer</common:Lang>
+    </Omschrijving>
+    <AantalPrognosetijden>1</AantalPrognosetijden>
+    <PrognoseTijdPubliceren>N</PrognoseTijdPubliceren>
+  </TreindienstNormaalPrognoseInput>
+  <TreindienstNormaalPrognoseInput>
+    <TreindienstNormaalCode>4</TreindienstNormaalCode>
+    <SituatieDuidelijkIndicator>J</SituatieDuidelijkIndicator>
+    <OmschrijvingGUI>4. 1e opstart</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Opstart treinen na</common:Kort>
+      <common:Middel>Weer treinen vanaf ongeveer</common:Middel>
+      <common:Lang>Naar verwachting rijden de eerste treinen vanaf</common:Lang>
+    </Omschrijving>
+    <AantalPrognosetijden>1</AantalPrognosetijden>
+    <PrognoseTijdPubliceren>N</PrognoseTijdPubliceren>
+  </TreindienstNormaalPrognoseInput>
+  <TreindienstNormaalPrognoseInput>
+    <TreindienstNormaalCode>5</TreindienstNormaalCode>
+    <SituatieDuidelijkIndicator>J</SituatieDuidelijkIndicator>
+    <OmschrijvingGUI>5. normaal vanaf</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Treindienst normaal:</common:Kort>
+      <common:Middel>Treindienst normaal rond</common:Middel>
+      <common:Lang>De treinen rijden weer normaal rond</common:Lang>
+    </Omschrijving>
+    <AantalPrognosetijden>1</AantalPrognosetijden>
+    <PrognoseTijdPubliceren>N</PrognoseTijdPubliceren>
+  </TreindienstNormaalPrognoseInput>
+  <TreindienstNormaalPrognoseInput>
+    <TreindienstNormaalCode>6</TreindienstNormaalCode>
+    <SituatieDuidelijkIndicator>J</SituatieDuidelijkIndicator>
+    <OmschrijvingGUI>6. eind van de dag</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Dit duurt de rest vd dag</common:Kort>
+      <common:Middel>Dit duurt de rest van de dag</common:Middel>
+      <common:Lang>Dit duurt de rest van de dag</common:Lang>
+    </Omschrijving>
+    <AantalPrognosetijden>0</AantalPrognosetijden>
+    <PrognoseTijdPubliceren>N</PrognoseTijdPubliceren>
+  </TreindienstNormaalPrognoseInput>
+</StamInput>
