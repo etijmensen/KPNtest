@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:vtw:v1 Stam_VTW_v4.13.xsd" IngangsMoment="2015-06-09T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:vtw:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <VertragingsWaardeInput>0</VertragingsWaardeInput>
+  <VertragingsWaardeInput>15</VertragingsWaardeInput>
+  <VertragingsWaardeInput>30</VertragingsWaardeInput>
+  <VertragingsWaardeInput>45</VertragingsWaardeInput>
+  <VertragingsWaardeInput>60</VertragingsWaardeInput>
+  <VertragingsWaardeInput>90</VertragingsWaardeInput>
+  <VertragingsWaardeInput>120</VertragingsWaardeInput>
+</StamInput>
