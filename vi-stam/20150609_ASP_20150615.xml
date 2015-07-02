@@ -1,0 +1,1037 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:asp:v1 Stam_ASP_v4.13.xsd" IngangsMoment="2015-06-09T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:asp:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <StopPlaatsAVVInput>
+    <Code>AC900</Code>
+    <StationCode>AC</StationCode>
+    <CodeStandaardStopplaats>3</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>AH1</Code>
+    <StationCode>AH</StationCode>
+    <OmschrijvingGUI>Sonsbeekzijde</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Sonsbeekzijde</common:Kort>
+      <common:Middel>Sonsbeekzijde</common:Middel>
+      <common:Lang>vanaf de Sonsbeekzijde (Nachtnet busterminal)</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>AH900</Code>
+    <StationCode>AH</StationCode>
+    <CodeStandaardStopplaats>002</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>AH</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>11</Code>
+    <StationCode>ALMM</StationCode>
+    <OmschrijvingGUI>Pinasplein</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Pinaspl.</common:Kort>
+      <common:Middel>Pinasplein</common:Middel>
+      <common:Lang>vanaf de achterzijde van het station op de parkeerplaats het Pinasplein</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>ALMM</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>ALMM</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>16</Code>
+    <StationCode>AMFS</StationCode>
+    <OmschrijvingGUI>Parkeerplaats Inputplein</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Inputpl.</common:Kort>
+      <common:Middel>Parkeerplaats Inputplein</common:Middel>
+      <common:Lang>vanaf de Parkeerplaats Inputplein</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>21</Code>
+    <StationCode>APN</StationCode>
+    <OmschrijvingGUI>APN GUI</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>APN KORT</common:Kort>
+      <common:Middel>APN MIDDEL</common:Middel>
+      <common:Lang>APN LANG</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>46</Code>
+    <StationCode>ARN</StationCode>
+    <OmschrijvingGUI>Doeleweg</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Doelew.</common:Kort>
+      <common:Middel>Doeleweg</common:Middel>
+      <common:Lang>vanaf de Doeleweg</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>ARN</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>ARN</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>26</Code>
+    <StationCode>ASD</StationCode>
+    <OmschrijvingGUI>Hotel Barbizon</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Barbizon</common:Kort>
+      <common:Middel>Hotel Barbizon</common:Middel>
+      <common:Lang>vanaf de voorzijde van het station ter hoogte van Hotel Barbizon Palace</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>31</Code>
+    <StationCode>ASD</StationCode>
+    <OmschrijvingGUI>Hotel Barbizon</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Barbizon</common:Kort>
+      <common:Middel>Hotel Barbizon</common:Middel>
+      <common:Lang>vanaf de voorzijde van het station ter hoogte van Hotel Barbizon Palace</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>65</Code>
+    <StationCode>ASD</StationCode>
+    <OmschrijvingGUI>Hotel Barbizon</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Barbizon</common:Kort>
+      <common:Middel>Hotel Barbizon</common:Middel>
+      <common:Lang>vanaf de voorzijde van het station ter hoogte van Hotel Barbizon Palace</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>ASD</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>ASD</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>36</Code>
+    <StationCode>ASDL</StationCode>
+    <OmschrijvingGUI>W. Frogerplein</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>W. Frogerpl.</common:Kort>
+      <common:Middel>W. Frogerplein</common:Middel>
+      <common:Lang>vanaf het Willem Frogerplein aan de voorzijde van het station</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>ASDL</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>ASDL</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>41</Code>
+    <StationCode>ASDZ</StationCode>
+    <OmschrijvingGUI>Strawinskylaan</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Strawinskyl.</common:Kort>
+      <common:Middel>Strawinskylaan</common:Middel>
+      <common:Lang>vanaf de Strawinskylaan aan de centrumzijde van het station</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>ASDZ</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>ASDZ</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>71</Code>
+    <StationCode>BD</StationCode>
+    <OmschrijvingGUI>Gravinnen van Nassau</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Nassauboulev.</common:Kort>
+      <common:Middel>Van Nassauboulevard</common:Middel>
+      <common:Lang>vanaf de Gravinnen van Nassauboulevard</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>BD</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>BD</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>76</Code>
+    <StationCode>BKL</StationCode>
+    <OmschrijvingGUI>....</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>....</common:Kort>
+      <common:Middel>.....</common:Middel>
+      <common:Lang>.....</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>BKL</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>BKL</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>51</Code>
+    <StationCode>BNK</StationCode>
+    <OmschrijvingGUI>Runnenburg</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Runnenburg</common:Kort>
+      <common:Middel>bushalte Runnenburg</common:Middel>
+      <common:Lang>vanaf de bushalte Runnenburg</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>56</Code>
+    <StationCode>BSD</StationCode>
+    <OmschrijvingGUI>Stationsweg</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Stationsw.</common:Kort>
+      <common:Middel>Stationsweg</common:Middel>
+      <common:Lang>vanaf de Stationsweg</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>BSD</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>BSD</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>61</Code>
+    <StationCode>BSMZ</StationCode>
+    <OmschrijvingGUI>Bussummergrindweg</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>B.grindw.</common:Kort>
+      <common:Middel>halte Bussummergrindweg</common:Middel>
+      <common:Lang>vanaf halte Bussummergrindweg richting Hilversum</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>66</Code>
+    <StationCode>BSMZ</StationCode>
+    <OmschrijvingGUI>Stationsstraat</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>BSM Stationsstr.</common:Kort>
+      <common:Middel>BSM Stationsstraat</common:Middel>
+      <common:Lang>BSM vanaf de Stationsstraat</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>81</Code>
+    <StationCode>DLD</StationCode>
+    <OmschrijvingGUI>Stationsopgang/Bushalte</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>opgang/halte</common:Kort>
+      <common:Middel>stationsopgang/bushalte</common:Middel>
+      <common:Lang>vanaf de bushalte naar Amersfoort en de stationsopgang naar Baarn en Bilthoven</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>DLD</StationCode>
+    <CodeStandaardStopplaats>10</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>86</Code>
+    <StationCode>DTZ</StationCode>
+    <OmschrijvingGUI>Stationsopgang/Bushalte</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>DTZ opgang/halte</common:Kort>
+      <common:Middel>DTZ stationsopgang/bushalte</common:Middel>
+      <common:Lang>DTZ vanaf de bushalte naar Amersfoort en de opgang naar Baarn en Bilthoven</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>DTZ</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>DTZ</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>91</Code>
+    <StationCode>EML</StationCode>
+    <OmschrijvingGUI>Busplein</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>EML buspl.</common:Kort>
+      <common:Middel>EML busplein</common:Middel>
+      <common:Lang>EML vanaf het busplein</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>EML</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>EML</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>96</Code>
+    <StationCode>GD</StationCode>
+    <OmschrijvingGUI>Bloemendaal</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>centrumzijde</common:Kort>
+      <common:Middel>centrumzijde</common:Middel>
+      <common:Lang>vanaf de centrumzijde van het station, Bloemendaal</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>GD</StationCode>
+    <CodeStandaardStopplaats>13</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>101</Code>
+    <StationCode>GDM</StationCode>
+    <OmschrijvingGUI>Veilingzijde</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>GND veilingzijde</common:Kort>
+      <common:Middel>GND bushalte veilingzijde</common:Middel>
+      <common:Lang>GND vanaf de bushalte veilingzijde</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>116</Code>
+    <StationCode>GND</StationCode>
+    <OmschrijvingGUI>Veilingzijde</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>GND    veilingzijde</common:Kort>
+      <common:Middel>GND   bushalte veilingzijde</common:Middel>
+      <common:Lang>GND   vanaf de bushalte veilingzijde</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>GND</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>GND</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>111</Code>
+    <StationCode>GR</StationCode>
+    <OmschrijvingGUI>Stationsweg</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Stationsw.</common:Kort>
+      <common:Middel>Stationsweg</common:Middel>
+      <common:Lang>vanaf de Stationsweg</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>GR</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>GR</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>106</Code>
+    <StationCode>GVC</StationCode>
+    <OmschrijvingGUI>Waldorpstraat</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>GVC Waldorpstr.</common:Kort>
+      <common:Middel>GVC Waldorpstraat</common:Middel>
+      <common:Lang>GVC vanaf de Waldorpstraat aan de achterzijde van het station</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>GVC</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>GVC</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>121</Code>
+    <StationCode>HDE</StationCode>
+    <OmschrijvingGUI>Parkeerplaats w-zijde</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>HDE P-westzijde</common:Kort>
+      <common:Middel>HDE parkeerplaats westzijde</common:Middel>
+      <common:Lang>HDE vanaf de parkeerplaats westzijde</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>HDE</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>HDE</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>156</Code>
+    <StationCode>HLDS</StationCode>
+    <OmschrijvingGUI>Strandweg</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Strandweg</common:Kort>
+      <common:Middel>Strandweg</common:Middel>
+      <common:Lang>vanaf de Strandweg</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>HLDS</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>HLDS</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>126</Code>
+    <StationCode>HR</StationCode>
+    <OmschrijvingGUI>Snelweg AN005</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>HR snelweg</common:Kort>
+      <common:Middel>HR snelweg ANO05</common:Middel>
+      <common:Lang>HR vanaf de halte aan de snelweg ANO05</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>HR</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>HR</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>131</Code>
+    <StationCode>HT</StationCode>
+    <OmschrijvingGUI>NS-bushalte</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>NS-bushalte</common:Kort>
+      <common:Middel>NS-bushalte langs spoor 1</common:Middel>
+      <common:Lang>vanaf de NS-bushalte langs spoor 1</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>HT</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>HT</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>136</Code>
+    <StationCode>HTN</StationCode>
+    <OmschrijvingGUI>Busstation de Molen</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>halte de Molen</common:Kort>
+      <common:Middel>busstation de Molen</common:Middel>
+      <common:Lang>vanaf het busstation de Molen</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>139</Code>
+    <StationCode>HTO</StationCode>
+    <OmschrijvingGUI>Bouwman Boulevard</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>HTO Bouwman Boulev.</common:Kort>
+      <common:Middel>HTO Mies Bouwman Boulevard</common:Middel>
+      <common:Lang>HTO vanaf de Mies Bouwman Boulevard</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>141</Code>
+    <StationCode>HVSM</StationCode>
+    <OmschrijvingGUI>Bouwman Boulevard</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>HVSM Bouwman Boulev.</common:Kort>
+      <common:Middel>HVSM Mies Bouwman Boulevard</common:Middel>
+      <common:Lang>HVSM vanaf de Mies Bouwman Boulevard</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>146</Code>
+    <StationCode>HVSM</StationCode>
+    <OmschrijvingGUI>Bouwman Boulevard</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Bouwman Boulev.</common:Kort>
+      <common:Middel>Mies Bouwman Boulevard</common:Middel>
+      <common:Lang>vanaf de Mies Bouwman Boulevard</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>151</Code>
+    <StationCode>HVSP</StationCode>
+    <OmschrijvingGUI>Haarlemmerweg</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>HVSP Haarlemmerw.</common:Kort>
+      <common:Middel>HVSP Haarlemmerweg</common:Middel>
+      <common:Lang>HVSP vanaf de halte Haarlemmerweg ter hoogt van Sugarcity</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>HVSP</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>HVSP</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>161</Code>
+    <StationCode>KBW</StationCode>
+    <OmschrijvingGUI>Provincialeweg</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>KBW Provincialew.</common:Kort>
+      <common:Middel>KBW Provincialeweg</common:Middel>
+      <common:Lang>KBW vanaf de bushalte aan de Provincialeweg</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>KBW</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>KBW</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>166</Code>
+    <StationCode>LDM</StationCode>
+    <OmschrijvingGUI>Stationsweg</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Stationsw.</common:Kort>
+      <common:Middel>Stationsweg</common:Middel>
+      <common:Lang>vanaf de Stationsweg</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>LDM</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>LDM</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>171</Code>
+    <StationCode>LTN</StationCode>
+    <OmschrijvingGUI>Weg langs station</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>langs station</common:Kort>
+      <common:Middel>weg langs station</common:Middel>
+      <common:Lang>vanaf de doorgaande weg langs het station</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>LTN</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>LTN</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>176</Code>
+    <StationCode>MAS</StationCode>
+    <OmschrijvingGUI>Buswijk</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>buswijk</common:Kort>
+      <common:Middel>buswijk</common:Middel>
+      <common:Lang>vanaf de buswijk</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>MAS</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>MAS</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>181</Code>
+    <StationCode>MDB</StationCode>
+    <OmschrijvingGUI>Kanaalweg</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Kanaalw.</common:Kort>
+      <common:Middel>Kanaalweg</common:Middel>
+      <common:Lang>vanaf de Kanaalweg</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>186</Code>
+    <StationCode>MT</StationCode>
+    <OmschrijvingGUI>Taxi-standplaats voor</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>taxi-plaats</common:Kort>
+      <common:Middel>taxi-standplaats</common:Middel>
+      <common:Lang>vanaf de voorzijde taxi-standplaats</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>191</Code>
+    <StationCode>MT</StationCode>
+    <OmschrijvingGUI>Busstation voor</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>busstation</common:Kort>
+      <common:Middel>voorzijde busstation</common:Middel>
+      <common:Lang>vanaf de voorzijde van het station bij het busstation</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>201</Code>
+    <StationCode>NM</StationCode>
+    <OmschrijvingGUI>Busplein</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>buspl.</common:Kort>
+      <common:Middel>busplein</common:Middel>
+      <common:Lang>vanaf het busplein</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>NM</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>NM</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>206</Code>
+    <StationCode>NS</StationCode>
+    <OmschrijvingGUI>Natuurtransferium</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>transferium</common:Kort>
+      <common:Middel>Natuurtransferium</common:Middel>
+      <common:Lang>vanaf het P+R-terrein Nunspeet Natuurtransferium</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>NS</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>NS</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>196</Code>
+    <StationCode>NVP</StationCode>
+    <OmschrijvingGUI>Venneperweg</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Venneperw.</common:Kort>
+      <common:Middel>Venneperweg</common:Middel>
+      <common:Lang>vanaf de Venneperweg</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>NVP</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>NVP</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>216</Code>
+    <StationCode>PMO</StationCode>
+    <OmschrijvingGUI>Churchillaan</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Churchill.</common:Kort>
+      <common:Middel>Churchillaan</common:Middel>
+      <common:Lang>vanaf de Churchillaan ter hoogte van de Meteorenweg</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>PMO</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>PMO</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>211</Code>
+    <StationCode>PMR</StationCode>
+    <OmschrijvingGUI>Beatrixplein</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Beatrixpl.</common:Kort>
+      <common:Middel>Beatrixplein</common:Middel>
+      <common:Lang>vanaf de bushalte aan het Beatrixplein</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>PMR</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>PMR</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>221</Code>
+    <StationCode>PMW</StationCode>
+    <OmschrijvingGUI>Australiëlaan</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Austaliël.</common:Kort>
+      <common:Middel>Australiëlaan</common:Middel>
+      <common:Lang>vanaf de Australiëlaan</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>PMW</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>PMW</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>231</Code>
+    <StationCode>RLB</StationCode>
+    <OmschrijvingGUI>Spinozaweg</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Spinozaw.</common:Kort>
+      <common:Middel>Spinozaweg</common:Middel>
+      <common:Lang>vanaf de Spinozaweg onder het viaduct</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>RLB</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>RLB</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>226</Code>
+    <StationCode>RTA</StationCode>
+    <OmschrijvingGUI>Marten Meesweg</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>M. Meesw.</common:Kort>
+      <common:Middel>Marten Meesweg</common:Middel>
+      <common:Lang>vanaf de Marten Meesweg</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>RTA</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>RTA</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>236</Code>
+    <StationCode>SDM</StationCode>
+    <OmschrijvingGUI>Horvathweg</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Horvathw.</common:Kort>
+      <common:Middel>Horvathweg</common:Middel>
+      <common:Lang>vanaf de Horvathweg</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>SDM</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>SDM</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>241</Code>
+    <StationCode>SHL</StationCode>
+    <OmschrijvingGUI>Horvathweg</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Horvathw.</common:Kort>
+      <common:Middel>Horvathweg</common:Middel>
+      <common:Lang>vanaf de Horvathweg</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>SHL</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>SHL</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>246</Code>
+    <StationCode>ST</StationCode>
+    <OmschrijvingGUI>Torenstraat</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Torenstr.</common:Kort>
+      <common:Middel>halte Torenstraat</common:Middel>
+      <common:Lang>vanaf de halte Torenstraat</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>ST</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>ST</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>251</Code>
+    <StationCode>TBR</StationCode>
+    <OmschrijvingGUI>Reeshofweg</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Reeshofw.</common:Kort>
+      <common:Middel>Reeshofweg</common:Middel>
+      <common:Lang>vanaf de Reeshofweg, onder viaduct</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>256</Code>
+    <StationCode>TBU</StationCode>
+    <OmschrijvingGUI>Statenlaan</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Statenl.</common:Kort>
+      <common:Middel>Statenlaan</common:Middel>
+      <common:Lang>vanaf de Statenlaan bij de OV-halte</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>261</Code>
+    <StationCode>UT</StationCode>
+    <OmschrijvingGUI>Jaarbeursplein</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>UT Jaarb.pl.</common:Kort>
+      <common:Middel>UT Jaarbeursplein</common:Middel>
+      <common:Lang>UT vanaf het Jaarbeursplein</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>266</Code>
+    <StationCode>UT</StationCode>
+    <OmschrijvingGUI>UT Jaarbeursplein</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>UT Jaarb.pl.</common:Kort>
+      <common:Middel>UT Jaarbeursplein</common:Middel>
+      <common:Lang>UT vanaf het Jaarbeursplein</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>UT</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>UT</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>271</Code>
+    <StationCode>UTO</StationCode>
+    <OmschrijvingGUI>U-OV lijn 8</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>U-OV lijn 8</common:Kort>
+      <common:Middel>U-OV lijn 8</common:Middel>
+      <common:Lang>vanaf de bushalte U-OV lijn 8</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>281</Code>
+    <StationCode>VB</StationCode>
+    <OmschrijvingGUI>Mariannelaan</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Mariannel.</common:Kort>
+      <common:Middel>Mariannelaan</common:Middel>
+      <common:Lang>vanaf de Prinses Mariannelaan, onder het viaduct</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>286</Code>
+    <StationCode>VSS</StationCode>
+    <OmschrijvingGUI>Stemerdinglaan</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Stemerdingl.</common:Kort>
+      <common:Middel>Burg. Stemerdinglaan</common:Middel>
+      <common:Lang>vanaf de Burgemeester Stemerdinglaan</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>291</Code>
+    <StationCode>WADN</StationCode>
+    <OmschrijvingGUI>Wadde</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>halte Wadde</common:Kort>
+      <common:Middel>bushalte Wadde</common:Middel>
+      <common:Lang>vanaf de bushalte Wadde</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>296</Code>
+    <StationCode>YPB</StationCode>
+    <OmschrijvingGUI>Tram/Bushalte</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>tram/bushalte</common:Kort>
+      <common:Middel>tram/bushalte</common:Middel>
+      <common:Lang>van tram/bushalte voorzijde station</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>YPB</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>YPB</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>311</Code>
+    <StationCode>ZL</StationCode>
+    <OmschrijvingGUI>Achterzijde Visser</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>achterzijde</common:Kort>
+      <common:Middel>achterzijde Visserplein</common:Middel>
+      <common:Lang>vanaf de achterzijde van het staion, Dries Visserplein</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>ZL</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>ZL</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>301</Code>
+    <StationCode>ZTM</StationCode>
+    <OmschrijvingGUI>Nelson Mandelabrug</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>N.Mandelabrug</common:Kort>
+      <common:Middel>Nelson Mandelabrug</common:Middel>
+      <common:Lang>vanaf de Nelson Mandelabrug</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>ZTM</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>ZTM</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>306</Code>
+    <StationCode>ZTMO</StationCode>
+    <OmschrijvingGUI>Zuidweg</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Zuidw.</common:Kort>
+      <common:Middel>Zuidweg</common:Middel>
+      <common:Lang>vanaf de Zuidweg</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>900</Code>
+    <StationCode>ZTMO</StationCode>
+    <CodeStandaardStopplaats>2</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>901</Code>
+    <StationCode>ZTMO</StationCode>
+    <CodeStandaardStopplaats>1</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+</StamInput>

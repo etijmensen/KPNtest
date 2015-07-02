@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2013 sp1 (http://www.altova.com) -->
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2014-09-25T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<StationKantInput>
+		<StationCode>Amf</StationCode>
+		<StationKantA>
+			<DienstRegelPunt>Amfva</DienstRegelPunt>
+			<DienstRegelPunt>Amfga</DienstRegelPunt>
+			<DienstRegelPunt>Bkda</DienstRegelPunt>
+		</StationKantA>
+		<StationKantB>
+			<DienstRegelPunt>Ama</DienstRegelPunt>
+		</StationKantB>
+	</StationKantInput>
+	<StationKantInput>
+		<StationCode>Asa</StationCode>
+		<StationKantA>
+			<DienstRegelPunt>Asdm</DienstRegelPunt>
+		</StationKantA>
+		<StationKantB>
+			<DienstRegelPunt>Dvd</DienstRegelPunt>
+		</StationKantB>
+	</StationKantInput>
+	<StationKantInput>
+		<StationCode>Gn</StationCode>
+		<StationKantA>
+			<DienstRegelPunt>Vvl</DienstRegelPunt>
+			<DienstRegelPunt>Gnn</DienstRegelPunt>
+		</StationKantA>
+		<StationKantB>
+			<DienstRegelPunt>Gerp</DienstRegelPunt>
+		</StationKantB>
+	</StationKantInput>
+	<StationKantInput>
+		<StationCode>Wt</StationCode>
+		<StationKantA>
+			<DienstRegelPunt>Mz</DienstRegelPunt>
+		</StationKantA>
+		<StationKantB>
+			<DienstRegelPunt>Hln</DienstRegelPunt>
+		</StationKantB>
+	</StationKantInput>
+</HARMInput>
