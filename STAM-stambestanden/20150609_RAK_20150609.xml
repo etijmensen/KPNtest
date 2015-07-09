@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:rak:v1 Stam_RAK_v4.13.xsd" IngangsMoment="2015-06-09T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:rak:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ReisAdviesKeuzeInput>
+    <ReisAdviesCode>001</ReisAdviesCode>
+    <OmschrijvingGUI>kunnen omreizen</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>kan via</common:Kort>
+      <common:Middel>kunnen omreizen via</common:Middel>
+      <common:Lang>kunnen omreizen via</common:Lang>
+    </Omschrijving>
+  </ReisAdviesKeuzeInput>
+  <ReisAdviesKeuzeInput>
+    <ReisAdviesCode>002</ReisAdviesCode>
+    <OmschrijvingGUI>omreizen</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>reizen via</common:Kort>
+      <common:Middel>reizen via</common:Middel>
+      <common:Lang>reizen via</common:Lang>
+    </Omschrijving>
+  </ReisAdviesKeuzeInput>
+  <ReisAdviesKeuzeInput>
+    <ReisAdviesCode>003</ReisAdviesCode>
+    <OmschrijvingGUI>sneller via</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>sneller via</common:Kort>
+      <common:Middel>reizen sneller via</common:Middel>
+      <common:Lang>reizen sneller via</common:Lang>
+    </Omschrijving>
+  </ReisAdviesKeuzeInput>
+</StamInput>
