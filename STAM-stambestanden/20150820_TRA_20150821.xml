@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:tra:v1 Stam_TRA_v4.13.xsd" IngangsMoment="2015-07-10T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:tra:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:tra:v1 Stam_TRA_v4.13.xsd" IngangsMoment="2015-08-21T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:tra:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <TrajectInput>
     <TrajectCode>1</TrajectCode>
     <TrajectType>NL</TrajectType>
@@ -563,7 +563,7 @@
     <TrajectNaamExtern>
       <Van>Amsterdam</Van>
       <Via>Osnabrück</Via>
-      <Naar>Berlijn</Naar>
+      <Naar>Berlin</Naar>
     </TrajectNaamExtern>
     <Ligging>DeelsNL</Ligging>
     <TrajectStations>
@@ -1113,6 +1113,10 @@
     <TrajectStations>
       <TrajectStationVolgnr>8</TrajectStationVolgnr>
       <TrajectStationCode>ALM</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>9</TrajectStationVolgnr>
+      <TrajectStationCode>AHBF</TrajectStationCode>
     </TrajectStations>
     <VervoerderCode>100</VervoerderCode>
     <AantalReizen>19000</AantalReizen>
@@ -5557,6 +5561,7 @@
       <VanStationCode>BRUSZ</VanStationCode>
       <ViaStationCode>LILLEE</ViaStationCode>
       <NaarStationCode>LONDS</NaarStationCode>
+      <Achtervoegsel>HSL</Achtervoegsel>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Brussel</Van>
