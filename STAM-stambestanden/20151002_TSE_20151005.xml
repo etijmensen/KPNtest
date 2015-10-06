@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2015-09-14T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:tse:v1 Stam_TSE_v4.13.xsd" IngangsMoment="2015-10-05T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:tse:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <TreinSerieInput>
     <VanTreinNummer>1</VanTreinNummer>
     <TotEnMetTreinNummer>99</TotEnMetTreinNummer>
@@ -9766,51 +9766,46 @@
     <VanTreinNummer>13482</VanTreinNummer>
     <TotEnMetTreinNummer>13482</TotEnMetTreinNummer>
     <VervoerderCode>962</VervoerderCode>
-    <Reserveren>J</Reserveren>
+    <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Nostalgiezugreisen Rheingold</TreinNaam>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>LM</TreinSoortCode>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>113482</VanTreinNummer>
     <TotEnMetTreinNummer>113482</TotEnMetTreinNummer>
     <VervoerderCode>962</VervoerderCode>
-    <Reserveren>J</Reserveren>
+    <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Nostalgiezugreisen Rheingold</TreinNaam>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>LM</TreinSoortCode>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>213482</VanTreinNummer>
     <TotEnMetTreinNummer>213482</TotEnMetTreinNummer>
     <VervoerderCode>962</VervoerderCode>
-    <Reserveren>J</Reserveren>
+    <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Nostalgiezugreisen Rheingold</TreinNaam>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>LM</TreinSoortCode>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>313482</VanTreinNummer>
     <TotEnMetTreinNummer>313482</TotEnMetTreinNummer>
     <VervoerderCode>962</VervoerderCode>
-    <Reserveren>J</Reserveren>
+    <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Nostalgiezugreisen Rheingold</TreinNaam>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>LM</TreinSoortCode>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>713482</VanTreinNummer>
     <TotEnMetTreinNummer>713482</TotEnMetTreinNummer>
     <VervoerderCode>962</VervoerderCode>
-    <Reserveren>J</Reserveren>
+    <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Nostalgiezugreisen Rheingold</TreinNaam>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>LM</TreinSoortCode>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>13490</VanTreinNummer>
@@ -9866,96 +9861,46 @@
     <VanTreinNummer>13483</VanTreinNummer>
     <TotEnMetTreinNummer>13483</TotEnMetTreinNummer>
     <VervoerderCode>962</VervoerderCode>
-    <Reserveren>J</Reserveren>
+    <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Nostalgiezugreisen Rheingold</TreinNaam>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>LM</TreinSoortCode>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>113483</VanTreinNummer>
     <TotEnMetTreinNummer>113483</TotEnMetTreinNummer>
     <VervoerderCode>962</VervoerderCode>
-    <Reserveren>J</Reserveren>
+    <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Nostalgiezugreisen Rheingold</TreinNaam>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>LM</TreinSoortCode>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>213483</VanTreinNummer>
     <TotEnMetTreinNummer>213483</TotEnMetTreinNummer>
     <VervoerderCode>962</VervoerderCode>
-    <Reserveren>J</Reserveren>
+    <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Nostalgiezugreisen Rheingold</TreinNaam>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>LM</TreinSoortCode>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>313483</VanTreinNummer>
     <TotEnMetTreinNummer>313483</TotEnMetTreinNummer>
     <VervoerderCode>962</VervoerderCode>
-    <Reserveren>J</Reserveren>
+    <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Nostalgiezugreisen Rheingold</TreinNaam>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>LM</TreinSoortCode>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>713483</VanTreinNummer>
     <TotEnMetTreinNummer>713483</TotEnMetTreinNummer>
     <VervoerderCode>962</VervoerderCode>
-    <Reserveren>J</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Nostalgiezugreisen Rheingold</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>39386</VanTreinNummer>
-    <TotEnMetTreinNummer>39390</TotEnMetTreinNummer>
-    <VervoerderCode>962</VervoerderCode>
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>SPC</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>139386</VanTreinNummer>
-    <TotEnMetTreinNummer>139390</TotEnMetTreinNummer>
-    <VervoerderCode>962</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>SPC</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>239386</VanTreinNummer>
-    <TotEnMetTreinNummer>239390</TotEnMetTreinNummer>
-    <VervoerderCode>962</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>SPC</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>339386</VanTreinNummer>
-    <TotEnMetTreinNummer>339390</TotEnMetTreinNummer>
-    <VervoerderCode>962</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>SPC</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>739386</VanTreinNummer>
-    <TotEnMetTreinNummer>739390</TotEnMetTreinNummer>
-    <VervoerderCode>962</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>SPC</TreinSoortCode>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>LM</TreinSoortCode>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>20100</VanTreinNummer>
@@ -11047,103 +10992,53 @@
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>39384</VanTreinNummer>
-    <TotEnMetTreinNummer>39384</TotEnMetTreinNummer>
+    <TotEnMetTreinNummer>39390</TotEnMetTreinNummer>
     <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>SPC</TreinSoortCode>
-    <TreinNaam>Vindicat Partytrein</TreinNaam>
+    <TreinNaam>Railexperts Mercia Charter</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>139384</VanTreinNummer>
-    <TotEnMetTreinNummer>139384</TotEnMetTreinNummer>
+    <TotEnMetTreinNummer>139390</TotEnMetTreinNummer>
     <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>SPC</TreinSoortCode>
-    <TreinNaam>Vindicat Partytrein</TreinNaam>
+    <TreinNaam>Railexperts Mercia Charter</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>239384</VanTreinNummer>
-    <TotEnMetTreinNummer>239384</TotEnMetTreinNummer>
+    <TotEnMetTreinNummer>239390</TotEnMetTreinNummer>
     <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>SPC</TreinSoortCode>
-    <TreinNaam>Vindicat Partytrein</TreinNaam>
+    <TreinNaam>Railexperts Mercia Charter</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>339384</VanTreinNummer>
-    <TotEnMetTreinNummer>339384</TotEnMetTreinNummer>
+    <TotEnMetTreinNummer>339390</TotEnMetTreinNummer>
     <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>SPC</TreinSoortCode>
-    <TreinNaam>Vindicat Partytrein</TreinNaam>
+    <TreinNaam>Railexperts Mercia Charter</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>739384</VanTreinNummer>
-    <TotEnMetTreinNummer>739384</TotEnMetTreinNummer>
+    <TotEnMetTreinNummer>739390</TotEnMetTreinNummer>
     <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>SPC</TreinSoortCode>
-    <TreinNaam>Vindicat Partytrein</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>39385</VanTreinNummer>
-    <TotEnMetTreinNummer>39385</TotEnMetTreinNummer>
-    <VervoerderCode>962</VervoerderCode>
-    <Reserveren>J</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>SPC</TreinSoortCode>
-    <TreinNaam>Vindicat Partytrein</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>139385</VanTreinNummer>
-    <TotEnMetTreinNummer>139385</TotEnMetTreinNummer>
-    <VervoerderCode>962</VervoerderCode>
-    <Reserveren>J</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>SPC</TreinSoortCode>
-    <TreinNaam>Vindicat Partytrein</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>239385</VanTreinNummer>
-    <TotEnMetTreinNummer>239385</TotEnMetTreinNummer>
-    <VervoerderCode>962</VervoerderCode>
-    <Reserveren>J</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>SPC</TreinSoortCode>
-    <TreinNaam>Vindicat Partytrein</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>339385</VanTreinNummer>
-    <TotEnMetTreinNummer>339385</TotEnMetTreinNummer>
-    <VervoerderCode>962</VervoerderCode>
-    <Reserveren>J</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>SPC</TreinSoortCode>
-    <TreinNaam>Vindicat Partytrein</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>739385</VanTreinNummer>
-    <TotEnMetTreinNummer>739385</TotEnMetTreinNummer>
-    <VervoerderCode>962</VervoerderCode>
-    <Reserveren>J</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>SPC</TreinSoortCode>
-    <TreinNaam>Vindicat Partytrein</TreinNaam>
+    <TreinNaam>Railexperts Mercia Charter</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>33200</VanTreinNummer>
@@ -13197,4 +13092,4 @@
     <TreinSoortCode>PR</TreinSoortCode>
     <TreinNaam>Panorama Rail Restaurant</TreinNaam>
   </TreinSerieInput>
-</HARMInput>
+</StamInput>
