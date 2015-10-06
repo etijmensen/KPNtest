@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:gtd:v1 Stam_GTD_v4.13.xsd" IngangsMoment="2015-09-14T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:gtd:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:gtd:v1 Stam_GTD_v4.13.xsd" IngangsMoment="2015-10-05T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:gtd:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <GevolgenTreindienstInput>
     <GevolgenTreindienstCode>01</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
@@ -117,7 +117,7 @@
     <GevolgenTreindienstCode>08</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
-    <OmschrijvingGUI>08 vertraging, OA-0</OmschrijvingGUI>
+    <OmschrijvingGUI>08 vertraging, OA-nee</OmschrijvingGUI>
     <Omschrijving>
       <common:Kort>vertraging</common:Kort>
       <common:Middel>vertraging</common:Middel>
@@ -241,13 +241,13 @@
     <MaxToegestaneOmreistijd>40</MaxToegestaneOmreistijd>
     <OmreisAdviesCode>002</OmreisAdviesCode>
     <OmreisAdviesCodeBijAVV>001</OmreisAdviesCodeBijAVV>
-    <Prioriteit>20</Prioriteit>
+    <Prioriteit>1</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
     <GevolgenTreindienstCode>16</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
-    <OmschrijvingGUI>16 geen Thalys-tr, OA-0</OmschrijvingGUI>
+    <OmschrijvingGUI>16 geen Thalys-tr, OA-nee</OmschrijvingGUI>
     <Omschrijving>
       <common:Kort>geen Thalys</common:Kort>
       <common:Middel>geen Thalys</common:Middel>
@@ -263,7 +263,7 @@
     <GevolgenTreindienstCode>17</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
-    <OmschrijvingGUI>17 geen ICE-tr., OA-0</OmschrijvingGUI>
+    <OmschrijvingGUI>17 geen ICE-tr., OA-nee</OmschrijvingGUI>
     <Omschrijving>
       <common:Kort>geen ICE</common:Kort>
       <common:Middel>geen ICE</common:Middel>
@@ -292,13 +292,13 @@
     <MaxToegestaneOmreistijd>40</MaxToegestaneOmreistijd>
     <OmreisAdviesCode>002</OmreisAdviesCode>
     <OmreisAdviesCodeBijAVV>001</OmreisAdviesCodeBijAVV>
-    <Prioriteit>19</Prioriteit>
+    <Prioriteit>1</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
     <GevolgenTreindienstCode>21</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
-    <OmschrijvingGUI>21 minder IC's, OA-0</OmschrijvingGUI>
+    <OmschrijvingGUI>21 minder IC's, OA-nee</OmschrijvingGUI>
     <Omschrijving>
       <common:Kort>minder IC's</common:Kort>
       <common:Middel>minder Intercity's</common:Middel>
@@ -330,7 +330,7 @@
     <GevolgenTreindienstCode>23</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
-    <OmschrijvingGUI>23 minder ICE-tr., OA-0</OmschrijvingGUI>
+    <OmschrijvingGUI>23 minder ICE-tr., OA-nee</OmschrijvingGUI>
     <Omschrijving>
       <common:Kort>minder ICE's</common:Kort>
       <common:Middel>minder ICE-treinen</common:Middel>
@@ -470,7 +470,7 @@
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <MogelijkBij>ET</MogelijkBij>
-    <OmschrijvingGUI>36 omgeleide tr., OA-0</OmschrijvingGUI>
+    <OmschrijvingGUI>36 omgeleide tr., OA-nee</OmschrijvingGUI>
     <Omschrijving>
       <common:Kort>omgeleide treinen</common:Kort>
       <common:Middel>treinen via andere route</common:Middel>
