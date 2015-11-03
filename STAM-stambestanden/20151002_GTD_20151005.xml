@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:gtd:v1 Stam_GTD_v4.13.xsd" IngangsMoment="2015-11-02T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:gtd:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:gtd:v1 Stam_GTD_v4.13.xsd" IngangsMoment="2015-10-05T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:gtd:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <GevolgenTreindienstInput>
     <GevolgenTreindienstCode>01</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
@@ -91,7 +91,7 @@
     <OmreisAdviesBepalen>J</OmreisAdviesBepalen>
     <ReisPlannerSignaleren>N</ReisPlannerSignaleren>
     <MaxToegestaneOmreistijd>25</MaxToegestaneOmreistijd>
-    <OmreisAdviesCode>001</OmreisAdviesCode>
+    <OmreisAdviesCode>002</OmreisAdviesCode>
     <OmreisAdviesCodeBijAVV>001</OmreisAdviesCodeBijAVV>
     <Prioriteit>11</Prioriteit>
   </GevolgenTreindienstInput>
@@ -144,9 +144,9 @@
     <OmreisAdviesBepalen>J</OmreisAdviesBepalen>
     <ReisPlannerSignaleren>N</ReisPlannerSignaleren>
     <MaxToegestaneOmreistijd>35</MaxToegestaneOmreistijd>
-    <OmreisAdviesCode>001</OmreisAdviesCode>
+    <OmreisAdviesCode>002</OmreisAdviesCode>
     <OmreisAdviesCodeBijAVV>001</OmreisAdviesCodeBijAVV>
-    <Prioriteit>5</Prioriteit>
+    <Prioriteit>13</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
     <GevolgenTreindienstCode>11</GevolgenTreindienstCode>
@@ -163,7 +163,7 @@
     <OmreisAdviesBepalen>J</OmreisAdviesBepalen>
     <ReisPlannerSignaleren>N</ReisPlannerSignaleren>
     <MaxToegestaneOmreistijd>25</MaxToegestaneOmreistijd>
-    <OmreisAdviesCode>001</OmreisAdviesCode>
+    <OmreisAdviesCode>002</OmreisAdviesCode>
     <OmreisAdviesCodeBijAVV>001</OmreisAdviesCodeBijAVV>
     <Prioriteit>15</Prioriteit>
   </GevolgenTreindienstInput>
@@ -182,9 +182,9 @@
     <OmreisAdviesBepalen>J</OmreisAdviesBepalen>
     <ReisPlannerSignaleren>N</ReisPlannerSignaleren>
     <MaxToegestaneOmreistijd>25</MaxToegestaneOmreistijd>
-    <OmreisAdviesCode>001</OmreisAdviesCode>
+    <OmreisAdviesCode>002</OmreisAdviesCode>
     <OmreisAdviesCodeBijAVV>001</OmreisAdviesCodeBijAVV>
-    <Prioriteit>5</Prioriteit>
+    <Prioriteit>16</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
     <GevolgenTreindienstCode>13</GevolgenTreindienstCode>
@@ -201,9 +201,9 @@
     <OmreisAdviesBepalen>J</OmreisAdviesBepalen>
     <ReisPlannerSignaleren>N</ReisPlannerSignaleren>
     <MaxToegestaneOmreistijd>15</MaxToegestaneOmreistijd>
-    <OmreisAdviesCode>001</OmreisAdviesCode>
+    <OmreisAdviesCode>002</OmreisAdviesCode>
     <OmreisAdviesCodeBijAVV>001</OmreisAdviesCodeBijAVV>
-    <Prioriteit>5</Prioriteit>
+    <Prioriteit>17</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
     <GevolgenTreindienstCode>14</GevolgenTreindienstCode>
@@ -220,9 +220,9 @@
     <OmreisAdviesBepalen>J</OmreisAdviesBepalen>
     <ReisPlannerSignaleren>N</ReisPlannerSignaleren>
     <MaxToegestaneOmreistijd>15</MaxToegestaneOmreistijd>
-    <OmreisAdviesCode>001</OmreisAdviesCode>
+    <OmreisAdviesCode>002</OmreisAdviesCode>
     <OmreisAdviesCodeBijAVV>001</OmreisAdviesCodeBijAVV>
-    <Prioriteit>5</Prioriteit>
+    <Prioriteit>18</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
     <GevolgenTreindienstCode>15</GevolgenTreindienstCode>
@@ -424,7 +424,7 @@
     <OmreisAdviesBepalen>J</OmreisAdviesBepalen>
     <ReisPlannerSignaleren>N</ReisPlannerSignaleren>
     <MaxToegestaneOmreistijd>0</MaxToegestaneOmreistijd>
-    <OmreisAdviesCode>001</OmreisAdviesCode>
+    <OmreisAdviesCode>002</OmreisAdviesCode>
     <OmreisAdviesCodeBijAVV>001</OmreisAdviesCodeBijAVV>
     <Prioriteit>1</Prioriteit>
   </GevolgenTreindienstInput>
@@ -444,7 +444,7 @@
     <OmreisAdviesBepalen>J</OmreisAdviesBepalen>
     <ReisPlannerSignaleren>N</ReisPlannerSignaleren>
     <MaxToegestaneOmreistijd>35</MaxToegestaneOmreistijd>
-    <OmreisAdviesCode>001</OmreisAdviesCode>
+    <OmreisAdviesCode>002</OmreisAdviesCode>
     <OmreisAdviesCodeBijAVV>001</OmreisAdviesCodeBijAVV>
     <Prioriteit>10</Prioriteit>
   </GevolgenTreindienstInput>
@@ -578,7 +578,7 @@
     <OmreisAdviesBepalen>J</OmreisAdviesBepalen>
     <ReisPlannerSignaleren>N</ReisPlannerSignaleren>
     <MaxToegestaneOmreistijd>0</MaxToegestaneOmreistijd>
-    <OmreisAdviesCode>001</OmreisAdviesCode>
+    <OmreisAdviesCode>002</OmreisAdviesCode>
     <OmreisAdviesCodeBijAVV>001</OmreisAdviesCodeBijAVV>
     <Prioriteit>1</Prioriteit>
   </GevolgenTreindienstInput>
