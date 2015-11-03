@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:tse:v1 Stam_TSE_v4.13.xsd" IngangsMoment="2015-10-05T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:tse:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:tse:v1 Stam_TSE_v4.13.xsd" IngangsMoment="2015-11-02T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:tse:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <TreinSerieInput>
     <VanTreinNummer>1</VanTreinNummer>
     <TotEnMetTreinNummer>99</TotEnMetTreinNummer>
@@ -120,16 +120,6 @@
   <TreinSerieInput>
     <VanTreinNummer>900</VanTreinNummer>
     <TotEnMetTreinNummer>999</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ICD</TreinSoortCode>
-    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>1011</VanTreinNummer>
-    <TotEnMetTreinNummer>1011</TotEnMetTreinNummer>
     <VervoerderCode>100</VervoerderCode>
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
@@ -1447,16 +1437,6 @@
     <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
-    <VanTreinNummer>101011</VanTreinNummer>
-    <TotEnMetTreinNummer>101011</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ICD</TreinSoortCode>
-    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
     <VanTreinNummer>101100</VanTreinNummer>
     <TotEnMetTreinNummer>101199</TotEnMetTreinNummer>
     <VervoerderCode>100</VervoerderCode>
@@ -2758,16 +2738,6 @@
   <TreinSerieInput>
     <VanTreinNummer>200900</VanTreinNummer>
     <TotEnMetTreinNummer>200999</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ICD</TreinSoortCode>
-    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>201011</VanTreinNummer>
-    <TotEnMetTreinNummer>201011</TotEnMetTreinNummer>
     <VervoerderCode>100</VervoerderCode>
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
@@ -4085,16 +4055,6 @@
     <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
-    <VanTreinNummer>301011</VanTreinNummer>
-    <TotEnMetTreinNummer>301011</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ICD</TreinSoortCode>
-    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
     <VanTreinNummer>301100</VanTreinNummer>
     <TotEnMetTreinNummer>301199</TotEnMetTreinNummer>
     <VervoerderCode>100</VervoerderCode>
@@ -5404,16 +5364,6 @@
     <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
-    <VanTreinNummer>691011</VanTreinNummer>
-    <TotEnMetTreinNummer>691011</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ICD</TreinSoortCode>
-    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
     <VanTreinNummer>691100</VanTreinNummer>
     <TotEnMetTreinNummer>691199</TotEnMetTreinNummer>
     <VervoerderCode>100</VervoerderCode>
@@ -6084,16 +6034,6 @@
   <TreinSerieInput>
     <VanTreinNummer>700900</VanTreinNummer>
     <TotEnMetTreinNummer>700999</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ICD</TreinSoortCode>
-    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>701011</VanTreinNummer>
-    <TotEnMetTreinNummer>701011</TotEnMetTreinNummer>
     <VervoerderCode>100</VervoerderCode>
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
@@ -12069,7 +12009,7 @@
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>13905</VanTreinNummer>
-    <TotEnMetTreinNummer>13987</TotEnMetTreinNummer>
+    <TotEnMetTreinNummer>13917</TotEnMetTreinNummer>
     <VervoerderCode>963</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
@@ -12078,7 +12018,7 @@
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>113905</VanTreinNummer>
-    <TotEnMetTreinNummer>113987</TotEnMetTreinNummer>
+    <TotEnMetTreinNummer>113917</TotEnMetTreinNummer>
     <VervoerderCode>963</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
@@ -12087,7 +12027,7 @@
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>213905</VanTreinNummer>
-    <TotEnMetTreinNummer>213987</TotEnMetTreinNummer>
+    <TotEnMetTreinNummer>213917</TotEnMetTreinNummer>
     <VervoerderCode>963</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
@@ -12096,7 +12036,7 @@
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>313905</VanTreinNummer>
-    <TotEnMetTreinNummer>313987</TotEnMetTreinNummer>
+    <TotEnMetTreinNummer>313917</TotEnMetTreinNummer>
     <VervoerderCode>963</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
@@ -12105,7 +12045,7 @@
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>713905</VanTreinNummer>
-    <TotEnMetTreinNummer>713987</TotEnMetTreinNummer>
+    <TotEnMetTreinNummer>713917</TotEnMetTreinNummer>
     <VervoerderCode>963</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
@@ -12499,453 +12439,63 @@
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>1000</VanTreinNummer>
-    <TotEnMetTreinNummer>1010</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>101000</VanTreinNummer>
-    <TotEnMetTreinNummer>101010</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>201000</VanTreinNummer>
-    <TotEnMetTreinNummer>201010</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>301000</VanTreinNummer>
-    <TotEnMetTreinNummer>301010</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>691000</VanTreinNummer>
-    <TotEnMetTreinNummer>691010</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>701000</VanTreinNummer>
-    <TotEnMetTreinNummer>701010</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>1012</VanTreinNummer>
-    <TotEnMetTreinNummer>1015</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>101012</VanTreinNummer>
-    <TotEnMetTreinNummer>101015</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>201012</VanTreinNummer>
-    <TotEnMetTreinNummer>201015</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>301012</VanTreinNummer>
-    <TotEnMetTreinNummer>301015</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>691012</VanTreinNummer>
-    <TotEnMetTreinNummer>691015</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>701012</VanTreinNummer>
-    <TotEnMetTreinNummer>701015</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>1017</VanTreinNummer>
-    <TotEnMetTreinNummer>1050</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>101017</VanTreinNummer>
-    <TotEnMetTreinNummer>101050</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>201017</VanTreinNummer>
-    <TotEnMetTreinNummer>201050</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>301017</VanTreinNummer>
-    <TotEnMetTreinNummer>301050</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>691017</VanTreinNummer>
-    <TotEnMetTreinNummer>691050</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>701017</VanTreinNummer>
-    <TotEnMetTreinNummer>701050</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>1052</VanTreinNummer>
-    <TotEnMetTreinNummer>1055</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>101052</VanTreinNummer>
-    <TotEnMetTreinNummer>101055</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>201052</VanTreinNummer>
-    <TotEnMetTreinNummer>201055</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>301052</VanTreinNummer>
-    <TotEnMetTreinNummer>301055</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>691052</VanTreinNummer>
-    <TotEnMetTreinNummer>691055</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>701052</VanTreinNummer>
-    <TotEnMetTreinNummer>701055</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>1056</VanTreinNummer>
-    <TotEnMetTreinNummer>1056</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ICD</TreinSoortCode>
-    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>101056</VanTreinNummer>
-    <TotEnMetTreinNummer>101056</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ICD</TreinSoortCode>
-    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>201056</VanTreinNummer>
-    <TotEnMetTreinNummer>201056</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ICD</TreinSoortCode>
-    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>301056</VanTreinNummer>
-    <TotEnMetTreinNummer>301056</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ICD</TreinSoortCode>
-    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>691056</VanTreinNummer>
-    <TotEnMetTreinNummer>691056</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ICD</TreinSoortCode>
-    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>701056</VanTreinNummer>
-    <TotEnMetTreinNummer>701056</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ICD</TreinSoortCode>
-    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>1051</VanTreinNummer>
-    <TotEnMetTreinNummer>1051</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ICD</TreinSoortCode>
-    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>101051</VanTreinNummer>
-    <TotEnMetTreinNummer>101051</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ICD</TreinSoortCode>
-    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>201051</VanTreinNummer>
-    <TotEnMetTreinNummer>201051</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ICD</TreinSoortCode>
-    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>301051</VanTreinNummer>
-    <TotEnMetTreinNummer>301051</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ICD</TreinSoortCode>
-    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>691051</VanTreinNummer>
-    <TotEnMetTreinNummer>691051</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ICD</TreinSoortCode>
-    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>701051</VanTreinNummer>
-    <TotEnMetTreinNummer>701051</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ICD</TreinSoortCode>
-    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>1016</VanTreinNummer>
-    <TotEnMetTreinNummer>1016</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ICD</TreinSoortCode>
-    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>101016</VanTreinNummer>
-    <TotEnMetTreinNummer>101016</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ICD</TreinSoortCode>
-    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>201016</VanTreinNummer>
-    <TotEnMetTreinNummer>201016</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ICD</TreinSoortCode>
-    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>301016</VanTreinNummer>
-    <TotEnMetTreinNummer>301016</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ICD</TreinSoortCode>
-    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>691016</VanTreinNummer>
-    <TotEnMetTreinNummer>691016</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ICD</TreinSoortCode>
-    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>701016</VanTreinNummer>
-    <TotEnMetTreinNummer>701016</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ICD</TreinSoortCode>
-    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>1057</VanTreinNummer>
     <TotEnMetTreinNummer>1099</TotEnMetTreinNummer>
     <VervoerderCode>100</VervoerderCode>
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
+    <TreinSoortCode>ICD</TreinSoortCode>
+    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
-    <VanTreinNummer>101057</VanTreinNummer>
+    <VanTreinNummer>101000</VanTreinNummer>
     <TotEnMetTreinNummer>101099</TotEnMetTreinNummer>
     <VervoerderCode>100</VervoerderCode>
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
+    <TreinSoortCode>ICD</TreinSoortCode>
+    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
-    <VanTreinNummer>201057</VanTreinNummer>
+    <VanTreinNummer>201000</VanTreinNummer>
     <TotEnMetTreinNummer>201099</TotEnMetTreinNummer>
     <VervoerderCode>100</VervoerderCode>
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
+    <TreinSoortCode>ICD</TreinSoortCode>
+    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
-    <VanTreinNummer>301057</VanTreinNummer>
+    <VanTreinNummer>301000</VanTreinNummer>
     <TotEnMetTreinNummer>301099</TotEnMetTreinNummer>
     <VervoerderCode>100</VervoerderCode>
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
+    <TreinSoortCode>ICD</TreinSoortCode>
+    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
-    <VanTreinNummer>691057</VanTreinNummer>
+    <VanTreinNummer>691000</VanTreinNummer>
     <TotEnMetTreinNummer>691099</TotEnMetTreinNummer>
     <VervoerderCode>100</VervoerderCode>
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
+    <TreinSoortCode>ICD</TreinSoortCode>
+    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
-    <VanTreinNummer>701057</VanTreinNummer>
+    <VanTreinNummer>701000</VanTreinNummer>
     <TotEnMetTreinNummer>701099</TotEnMetTreinNummer>
     <VervoerderCode>100</VervoerderCode>
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>LM</TreinSoortCode>
+    <TreinSoortCode>ICD</TreinSoortCode>
+    <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>17900</VanTreinNummer>
@@ -13091,5 +12641,145 @@
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>PR</TreinSoortCode>
     <TreinNaam>Panorama Rail Restaurant</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>13918</VanTreinNummer>
+    <TotEnMetTreinNummer>13919</TotEnMetTreinNummer>
+    <VervoerderCode>963</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinNaam>Antje Express</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>113918</VanTreinNummer>
+    <TotEnMetTreinNummer>113919</TotEnMetTreinNummer>
+    <VervoerderCode>963</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinNaam>Antje Express</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>213918</VanTreinNummer>
+    <TotEnMetTreinNummer>213919</TotEnMetTreinNummer>
+    <VervoerderCode>963</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinNaam>Antje Express</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>313918</VanTreinNummer>
+    <TotEnMetTreinNummer>313919</TotEnMetTreinNummer>
+    <VervoerderCode>963</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinNaam>Antje Express</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>713918</VanTreinNummer>
+    <TotEnMetTreinNummer>713919</TotEnMetTreinNummer>
+    <VervoerderCode>963</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinNaam>Antje Express</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>13920</VanTreinNummer>
+    <TotEnMetTreinNummer>13987</TotEnMetTreinNummer>
+    <VervoerderCode>963</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>INT</TreinSoortCode>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>113920</VanTreinNummer>
+    <TotEnMetTreinNummer>113987</TotEnMetTreinNummer>
+    <VervoerderCode>963</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>INT</TreinSoortCode>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>213920</VanTreinNummer>
+    <TotEnMetTreinNummer>213987</TotEnMetTreinNummer>
+    <VervoerderCode>963</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>INT</TreinSoortCode>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>313920</VanTreinNummer>
+    <TotEnMetTreinNummer>313987</TotEnMetTreinNummer>
+    <VervoerderCode>963</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>INT</TreinSoortCode>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>713920</VanTreinNummer>
+    <TotEnMetTreinNummer>713987</TotEnMetTreinNummer>
+    <VervoerderCode>963</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>INT</TreinSoortCode>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>13444</VanTreinNummer>
+    <TotEnMetTreinNummer>13445</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>LM</TreinSoortCode>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>113444</VanTreinNummer>
+    <TotEnMetTreinNummer>113445</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>LM</TreinSoortCode>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>213444</VanTreinNummer>
+    <TotEnMetTreinNummer>213445</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>LM</TreinSoortCode>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>313444</VanTreinNummer>
+    <TotEnMetTreinNummer>313445</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>LM</TreinSoortCode>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>713444</VanTreinNummer>
+    <TotEnMetTreinNummer>713445</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>LM</TreinSoortCode>
   </TreinSerieInput>
 </StamInput>
