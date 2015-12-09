@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:avk:v1 Stam_AVK_v4.13.xsd" IngangsMoment="2015-12-13T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:avk:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AlternatiefVervoerMaatregelKeuzeInput>
+    <AVVCode>001</AVVCode>
+    <OmschrijvingGUI>Businzet algemeen</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>bus i.p.v. trein</common:Kort>
+      <common:Middel>er rijden bussen</common:Middel>
+      <common:Lang>er rijden bussen</common:Lang>
+    </Omschrijving>
+  </AlternatiefVervoerMaatregelKeuzeInput>
+  <AlternatiefVervoerMaatregelKeuzeInput>
+    <AVVCode>002</AVVCode>
+    <OmschrijvingGUI>stopbussen</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>bus i.p.v. trein</common:Kort>
+      <common:Middel>er rijden stopbussen</common:Middel>
+      <common:Lang>er rijden stopbussen</common:Lang>
+    </Omschrijving>
+  </AlternatiefVervoerMaatregelKeuzeInput>
+  <AlternatiefVervoerMaatregelKeuzeInput>
+    <AVVCode>003</AVVCode>
+    <OmschrijvingGUI>snelbussen</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>bus i.p.v. trein</common:Kort>
+      <common:Middel>er rijden snelbussen</common:Middel>
+      <common:Lang>er rijden snelbussen</common:Lang>
+    </Omschrijving>
+  </AlternatiefVervoerMaatregelKeuzeInput>
+  <AlternatiefVervoerMaatregelKeuzeInput>
+    <AVVCode>004</AVVCode>
+    <OmschrijvingGUI>Stadsbussen</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>stadsbussen</common:Kort>
+      <common:Middel>gebruik de stadsbussen</common:Middel>
+      <common:Lang>gebruik de stadsbussen</common:Lang>
+    </Omschrijving>
+  </AlternatiefVervoerMaatregelKeuzeInput>
+  <AlternatiefVervoerMaatregelKeuzeInput>
+    <AVVCode>005</AVVCode>
+    <OmschrijvingGUI>Lijnbussen</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>lijnbussen</common:Kort>
+      <common:Middel>gebruik de lijnbussen</common:Middel>
+      <common:Lang>gebruik de lijnbussen</common:Lang>
+    </Omschrijving>
+  </AlternatiefVervoerMaatregelKeuzeInput>
+  <AlternatiefVervoerMaatregelKeuzeInput>
+    <AVVCode>006</AVVCode>
+    <OmschrijvingGUI>Tram</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>gebruik de tram</common:Kort>
+      <common:Middel>gebruik de tram</common:Middel>
+      <common:Lang>gebruik de tram</common:Lang>
+    </Omschrijving>
+  </AlternatiefVervoerMaatregelKeuzeInput>
+  <AlternatiefVervoerMaatregelKeuzeInput>
+    <AVVCode>007</AVVCode>
+    <OmschrijvingGUI>Metro</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>gebruik de metro</common:Kort>
+      <common:Middel>gebruik de metro</common:Middel>
+      <common:Lang>gebruik de metro</common:Lang>
+    </Omschrijving>
+  </AlternatiefVervoerMaatregelKeuzeInput>
+  <AlternatiefVervoerMaatregelKeuzeInput>
+    <AVVCode>008</AVVCode>
+    <OmschrijvingGUI>Taxi</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>taxi-inzet</common:Kort>
+      <common:Middel>we zetten taxi's in</common:Middel>
+      <common:Lang>we zetten taxi's in</common:Lang>
+    </Omschrijving>
+  </AlternatiefVervoerMaatregelKeuzeInput>
+  <AlternatiefVervoerMaatregelKeuzeInput>
+    <AVVCode>009</AVVCode>
+    <OmschrijvingGUI>Taxibus</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>taxibus-inzet</common:Kort>
+      <common:Middel>gebruik de taxibusjes</common:Middel>
+      <common:Lang>gebruik de taxibusjes</common:Lang>
+    </Omschrijving>
+  </AlternatiefVervoerMaatregelKeuzeInput>
+  <AlternatiefVervoerMaatregelKeuzeInput>
+    <AVVCode>010</AVVCode>
+    <Toelichting>Combi stop- en snelbussen</Toelichting>
+    <SamenvattingVoorCode>001</SamenvattingVoorCode>
+    <SamenvattingVoorCode>002</SamenvattingVoorCode>
+    <SamenvattingVoorCode>003</SamenvattingVoorCode>
+    <Omschrijving>
+      <common:Kort>bus i.p.v. trein</common:Kort>
+      <common:Middel>er rijden stop- en snelbussen</common:Middel>
+      <common:Lang>er rijden stop- en snelbussen</common:Lang>
+    </Omschrijving>
+  </AlternatiefVervoerMaatregelKeuzeInput>
+  <AlternatiefVervoerMaatregelKeuzeInput>
+    <AVVCode>011</AVVCode>
+    <OmschrijvingGUI>Nog businzet</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>nog businzet</common:Kort>
+      <common:Middel>er rijden nog bussen</common:Middel>
+      <common:Lang>er rijden nog bussen</common:Lang>
+    </Omschrijving>
+  </AlternatiefVervoerMaatregelKeuzeInput>
+  <AlternatiefVervoerMaatregelKeuzeInput>
+    <AVVCode>012</AVVCode>
+    <OmschrijvingGUI>Nog stopbussen</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>nog stopbussen</common:Kort>
+      <common:Middel>er rijden nog stopbussen</common:Middel>
+      <common:Lang>er rijden nog stopbussen</common:Lang>
+    </Omschrijving>
+  </AlternatiefVervoerMaatregelKeuzeInput>
+  <AlternatiefVervoerMaatregelKeuzeInput>
+    <AVVCode>013</AVVCode>
+    <OmschrijvingGUI>Nog snelbussen</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>nog snelbussen</common:Kort>
+      <common:Middel>er rijden nog snelbussen</common:Middel>
+      <common:Lang>er rijden nog snelbussen</common:Lang>
+    </Omschrijving>
+  </AlternatiefVervoerMaatregelKeuzeInput>
+  <AlternatiefVervoerMaatregelKeuzeInput>
+    <AVVCode>014</AVVCode>
+    <Toelichting>Nog stop- en snelbussen</Toelichting>
+    <SamenvattingVoorCode>011</SamenvattingVoorCode>
+    <SamenvattingVoorCode>012</SamenvattingVoorCode>
+    <SamenvattingVoorCode>013</SamenvattingVoorCode>
+    <Omschrijving>
+      <common:Kort>nog businzet</common:Kort>
+      <common:Middel>er rijden nog stop- en snelbussen</common:Middel>
+      <common:Lang>er rijden nog stop- en snelbussen</common:Lang>
+    </Omschrijving>
+  </AlternatiefVervoerMaatregelKeuzeInput>
+  <AlternatiefVervoerMaatregelKeuzeInput>
+    <AVVCode>021</AVVCode>
+    <Toelichting>Combi overig OV</Toelichting>
+    <SamenvattingVoorCode>004</SamenvattingVoorCode>
+    <SamenvattingVoorCode>005</SamenvattingVoorCode>
+    <SamenvattingVoorCode>006</SamenvattingVoorCode>
+    <SamenvattingVoorCode>007</SamenvattingVoorCode>
+    <Omschrijving>
+      <common:Kort>gebruik overig OV</common:Kort>
+      <common:Middel>gebruik het overig OV</common:Middel>
+      <common:Lang>maak gebruik van het overig openbaar vervoer</common:Lang>
+    </Omschrijving>
+  </AlternatiefVervoerMaatregelKeuzeInput>
+  <AlternatiefVervoerMaatregelKeuzeInput>
+    <AVVCode>022</AVVCode>
+    <Toelichting>Combi taxi(busjes)</Toelichting>
+    <SamenvattingVoorCode>008</SamenvattingVoorCode>
+    <SamenvattingVoorCode>009</SamenvattingVoorCode>
+    <Omschrijving>
+      <common:Kort>inzet taxi(busjes)</common:Kort>
+      <common:Middel>gebruik de taxi(busjes)</common:Middel>
+      <common:Lang>gebruik de taxi's en taxibusjes</common:Lang>
+    </Omschrijving>
+  </AlternatiefVervoerMaatregelKeuzeInput>
+  <AlternatiefVervoerMaatregelKeuzeInput>
+    <AVVCode>031</AVVCode>
+    <Toelichting>Combi alternatief vervoer</Toelichting>
+    <SamenvattingVoorCode>001</SamenvattingVoorCode>
+    <SamenvattingVoorCode>002</SamenvattingVoorCode>
+    <SamenvattingVoorCode>003</SamenvattingVoorCode>
+    <SamenvattingVoorCode>004</SamenvattingVoorCode>
+    <SamenvattingVoorCode>005</SamenvattingVoorCode>
+    <SamenvattingVoorCode>006</SamenvattingVoorCode>
+    <SamenvattingVoorCode>007</SamenvattingVoorCode>
+    <SamenvattingVoorCode>008</SamenvattingVoorCode>
+    <SamenvattingVoorCode>009</SamenvattingVoorCode>
+    <Omschrijving>
+      <common:Kort>er is ander vervoer</common:Kort>
+      <common:Middel>gebruik het vervangende vervoer</common:Middel>
+      <common:Lang>maak gebruik van het vervangende vervoer</common:Lang>
+    </Omschrijving>
+  </AlternatiefVervoerMaatregelKeuzeInput>
+  <AlternatiefVervoerMaatregelKeuzeInput>
+    <AVVCode>016</AVVCode>
+    <OmschrijvingGUI>Ook businzet</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>ook businzet</common:Kort>
+      <common:Middel>er rijden ook bussen</common:Middel>
+      <common:Lang>er rijden ook bussen</common:Lang>
+    </Omschrijving>
+  </AlternatiefVervoerMaatregelKeuzeInput>
+  <AlternatiefVervoerMaatregelKeuzeInput>
+    <AVVCode>017</AVVCode>
+    <OmschrijvingGUI>Ook stopbussen</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>ook stopbussen</common:Kort>
+      <common:Middel>er rijden ook stopbussen</common:Middel>
+      <common:Lang>er rijden ook stopbussen</common:Lang>
+    </Omschrijving>
+  </AlternatiefVervoerMaatregelKeuzeInput>
+  <AlternatiefVervoerMaatregelKeuzeInput>
+    <AVVCode>018</AVVCode>
+    <OmschrijvingGUI>Ook snelbussen</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>ook snelbussen</common:Kort>
+      <common:Middel>er rijden ook snelbussen</common:Middel>
+      <common:Lang>er rijden ook snelbussen</common:Lang>
+    </Omschrijving>
+  </AlternatiefVervoerMaatregelKeuzeInput>
+  <AlternatiefVervoerMaatregelKeuzeInput>
+    <AVVCode>019</AVVCode>
+    <Toelichting>Ook stop- en snelbussen</Toelichting>
+    <SamenvattingVoorCode>016</SamenvattingVoorCode>
+    <SamenvattingVoorCode>017</SamenvattingVoorCode>
+    <SamenvattingVoorCode>018</SamenvattingVoorCode>
+    <Omschrijving>
+      <common:Kort>ook businzet</common:Kort>
+      <common:Middel>er rijden ook stop- en snelbussen</common:Middel>
+      <common:Lang>er rijden ook stop- en snelbussen</common:Lang>
+    </Omschrijving>
+  </AlternatiefVervoerMaatregelKeuzeInput>
+</StamInput>
