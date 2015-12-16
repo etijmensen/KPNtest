@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2015-10-05T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2015-12-13T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <VerkorteRouteInput>
     <StationCode>LEDN</StationCode>
     <VanTreinNummer>5700</VanTreinNummer>
@@ -771,35 +771,9 @@
     <EindBestemming>HVS</EindBestemming>
   </VerkorteRouteInput>
   <VerkorteRouteInput>
-    <StationCode>ASD</StationCode>
-    <VanTreinNummer>1401</VanTreinNummer>
-    <TotEnMetTreinNummer>1409</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    <GeldigheidPerSoortDag>vrijdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zondag</GeldigheidPerSoortDag>
-    <VerkorteRouteStation>SHL</VerkorteRouteStation>
-    <VerkorteRouteStation>GV</VerkorteRouteStation>
-    <VerkorteRouteStation>RTD</VerkorteRouteStation>
-    <EindBestemming>BD</EindBestemming>
-  </VerkorteRouteInput>
-  <VerkorteRouteInput>
-    <StationCode>SHL</StationCode>
-    <VanTreinNummer>1401</VanTreinNummer>
-    <TotEnMetTreinNummer>1409</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    <GeldigheidPerSoortDag>vrijdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zondag</GeldigheidPerSoortDag>
-    <VerkorteRouteStation>LEDN</VerkorteRouteStation>
-    <VerkorteRouteStation>GV</VerkorteRouteStation>
-    <VerkorteRouteStation>RTD</VerkorteRouteStation>
-    <EindBestemming>BD</EindBestemming>
-  </VerkorteRouteInput>
-  <VerkorteRouteInput>
     <StationCode>EHV</StationCode>
     <VanTreinNummer>21452</VanTreinNummer>
-    <TotEnMetTreinNummer>21464</TotEnMetTreinNummer>
+    <TotEnMetTreinNummer>21452</TotEnMetTreinNummer>
     <IndicatorEvenOneven>J</IndicatorEvenOneven>
     <GeldigheidPerSoortDag>vrijdag</GeldigheidPerSoortDag>
     <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
@@ -812,7 +786,7 @@
   <VerkorteRouteInput>
     <StationCode>TB</StationCode>
     <VanTreinNummer>21452</VanTreinNummer>
-    <TotEnMetTreinNummer>21464</TotEnMetTreinNummer>
+    <TotEnMetTreinNummer>21452</TotEnMetTreinNummer>
     <IndicatorEvenOneven>J</IndicatorEvenOneven>
     <GeldigheidPerSoortDag>vrijdag</GeldigheidPerSoortDag>
     <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
@@ -826,7 +800,7 @@
   <VerkorteRouteInput>
     <StationCode>BD</StationCode>
     <VanTreinNummer>21452</VanTreinNummer>
-    <TotEnMetTreinNummer>21464</TotEnMetTreinNummer>
+    <TotEnMetTreinNummer>21452</TotEnMetTreinNummer>
     <IndicatorEvenOneven>J</IndicatorEvenOneven>
     <GeldigheidPerSoortDag>vrijdag</GeldigheidPerSoortDag>
     <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
@@ -840,7 +814,7 @@
   <VerkorteRouteInput>
     <StationCode>DDR</StationCode>
     <VanTreinNummer>21452</VanTreinNummer>
-    <TotEnMetTreinNummer>21464</TotEnMetTreinNummer>
+    <TotEnMetTreinNummer>21452</TotEnMetTreinNummer>
     <IndicatorEvenOneven>J</IndicatorEvenOneven>
     <GeldigheidPerSoortDag>vrijdag</GeldigheidPerSoortDag>
     <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
@@ -1082,82 +1056,6 @@
     <EindBestemming>GV</EindBestemming>
   </VerkorteRouteInput>
   <VerkorteRouteInput>
-    <StationCode>ASB</StationCode>
-    <VanTreinNummer>1405</VanTreinNummer>
-    <TotEnMetTreinNummer>1405</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    <GeldigheidPerSoortDag>vrijdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
-    <VerkorteRouteStation>ASD</VerkorteRouteStation>
-    <VerkorteRouteStation>SHL</VerkorteRouteStation>
-    <VerkorteRouteStation>RTD</VerkorteRouteStation>
-    <EindBestemming>BD</EindBestemming>
-  </VerkorteRouteInput>
-  <VerkorteRouteInput>
-    <StationCode>UT</StationCode>
-    <VanTreinNummer>1409</VanTreinNummer>
-    <TotEnMetTreinNummer>1409</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    <GeldigheidPerSoortDag>vrijdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zondag</GeldigheidPerSoortDag>
-    <VerkorteRouteStation>ASD</VerkorteRouteStation>
-    <VerkorteRouteStation>SHL</VerkorteRouteStation>
-    <VerkorteRouteStation>LEDN</VerkorteRouteStation>
-    <EindBestemming>RTD</EindBestemming>
-  </VerkorteRouteInput>
-  <VerkorteRouteInput>
-    <StationCode>RTD</StationCode>
-    <VanTreinNummer>1410</VanTreinNummer>
-    <TotEnMetTreinNummer>1410</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    <GeldigheidPerSoortDag>vrijdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zondag</GeldigheidPerSoortDag>
-    <VerkorteRouteStation>GV</VerkorteRouteStation>
-    <VerkorteRouteStation>SHL</VerkorteRouteStation>
-    <VerkorteRouteStation>ASD</VerkorteRouteStation>
-    <EindBestemming>UT</EindBestemming>
-  </VerkorteRouteInput>
-  <VerkorteRouteInput>
-    <StationCode>DT</StationCode>
-    <VanTreinNummer>1406</VanTreinNummer>
-    <TotEnMetTreinNummer>1410</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    <GeldigheidPerSoortDag>vrijdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zondag</GeldigheidPerSoortDag>
-    <VerkorteRouteStation>GV</VerkorteRouteStation>
-    <VerkorteRouteStation>SHL</VerkorteRouteStation>
-    <VerkorteRouteStation>ASD</VerkorteRouteStation>
-    <EindBestemming>UT</EindBestemming>
-  </VerkorteRouteInput>
-  <VerkorteRouteInput>
-    <StationCode>GV</StationCode>
-    <VanTreinNummer>1406</VanTreinNummer>
-    <TotEnMetTreinNummer>1410</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    <GeldigheidPerSoortDag>vrijdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zondag</GeldigheidPerSoortDag>
-    <VerkorteRouteStation>LEDN</VerkorteRouteStation>
-    <VerkorteRouteStation>SHL</VerkorteRouteStation>
-    <VerkorteRouteStation>ASD</VerkorteRouteStation>
-    <EindBestemming>UT</EindBestemming>
-  </VerkorteRouteInput>
-  <VerkorteRouteInput>
-    <StationCode>LEDN</StationCode>
-    <VanTreinNummer>1406</VanTreinNummer>
-    <TotEnMetTreinNummer>1410</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    <GeldigheidPerSoortDag>vrijdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zondag</GeldigheidPerSoortDag>
-    <VerkorteRouteStation>SHL</VerkorteRouteStation>
-    <VerkorteRouteStation>ASD</VerkorteRouteStation>
-    <EindBestemming>UT</EindBestemming>
-  </VerkorteRouteInput>
-  <VerkorteRouteInput>
     <StationCode>GVC</StationCode>
     <VanTreinNummer>5791</VanTreinNummer>
     <TotEnMetTreinNummer>5791</TotEnMetTreinNummer>
@@ -1346,5 +1244,160 @@
     <GeldigheidPerSoortDag>zondag</GeldigheidPerSoortDag>
     <VerkorteRouteStation>GV</VerkorteRouteStation>
     <EindBestemming>SHL</EindBestemming>
+  </VerkorteRouteInput>
+  <VerkorteRouteInput>
+    <StationCode>DV</StationCode>
+    <VanTreinNummer>1500</VanTreinNummer>
+    <TotEnMetTreinNummer>1599</TotEnMetTreinNummer>
+    <IndicatorEvenOneven>J</IndicatorEvenOneven>
+    <GeldigheidPerSoortDag>dinsdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>donderdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>maandag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>vrijdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>woensdag</GeldigheidPerSoortDag>
+    <VerkorteRouteStation>APD</VerkorteRouteStation>
+    <VerkorteRouteStation>AMF</VerkorteRouteStation>
+    <VerkorteRouteStation>HVS</VerkorteRouteStation>
+    <EindBestemming>ASD</EindBestemming>
+  </VerkorteRouteInput>
+  <VerkorteRouteInput>
+    <StationCode>APD</StationCode>
+    <VanTreinNummer>1500</VanTreinNummer>
+    <TotEnMetTreinNummer>1599</TotEnMetTreinNummer>
+    <IndicatorEvenOneven>J</IndicatorEvenOneven>
+    <GeldigheidPerSoortDag>dinsdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>donderdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>maandag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>vrijdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>woensdag</GeldigheidPerSoortDag>
+    <VerkorteRouteStation>AMF</VerkorteRouteStation>
+    <VerkorteRouteStation>HVS</VerkorteRouteStation>
+    <EindBestemming>ASD</EindBestemming>
+  </VerkorteRouteInput>
+  <VerkorteRouteInput>
+    <StationCode>AMF</StationCode>
+    <VanTreinNummer>1500</VanTreinNummer>
+    <TotEnMetTreinNummer>1599</TotEnMetTreinNummer>
+    <IndicatorEvenOneven>J</IndicatorEvenOneven>
+    <GeldigheidPerSoortDag>dinsdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>donderdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>maandag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>vrijdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>woensdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>zondag</GeldigheidPerSoortDag>
+    <VerkorteRouteStation>HVS</VerkorteRouteStation>
+    <EindBestemming>ASD</EindBestemming>
+  </VerkorteRouteInput>
+  <VerkorteRouteInput>
+    <StationCode>HVS</StationCode>
+    <VanTreinNummer>1500</VanTreinNummer>
+    <TotEnMetTreinNummer>1599</TotEnMetTreinNummer>
+    <IndicatorEvenOneven>J</IndicatorEvenOneven>
+    <GeldigheidPerSoortDag>dinsdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>donderdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>maandag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>vrijdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>woensdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>zondag</GeldigheidPerSoortDag>
+    <EindBestemming>ASD</EindBestemming>
+  </VerkorteRouteInput>
+  <VerkorteRouteInput>
+    <StationCode>HWZB</StationCode>
+    <VanTreinNummer>14800</VanTreinNummer>
+    <TotEnMetTreinNummer>14893</TotEnMetTreinNummer>
+    <IndicatorEvenOneven>N</IndicatorEvenOneven>
+    <GeldigheidPerSoortDag>dinsdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>donderdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>maandag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>vrijdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>woensdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>zondag</GeldigheidPerSoortDag>
+    <VerkorteRouteStation>HLM</VerkorteRouteStation>
+    <EindBestemming>BV</EindBestemming>
+  </VerkorteRouteInput>
+  <VerkorteRouteInput>
+    <StationCode>HLMS</StationCode>
+    <VanTreinNummer>14800</VanTreinNummer>
+    <TotEnMetTreinNummer>14893</TotEnMetTreinNummer>
+    <IndicatorEvenOneven>N</IndicatorEvenOneven>
+    <GeldigheidPerSoortDag>dinsdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>donderdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>maandag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>vrijdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>woensdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>zondag</GeldigheidPerSoortDag>
+    <VerkorteRouteStation>HLM</VerkorteRouteStation>
+    <EindBestemming>AMR</EindBestemming>
+  </VerkorteRouteInput>
+  <VerkorteRouteInput>
+    <StationCode>HLM</StationCode>
+    <VanTreinNummer>14800</VanTreinNummer>
+    <TotEnMetTreinNummer>14893</TotEnMetTreinNummer>
+    <IndicatorEvenOneven>N</IndicatorEvenOneven>
+    <GeldigheidPerSoortDag>dinsdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>donderdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>maandag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>vrijdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>woensdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>zondag</GeldigheidPerSoortDag>
+    <VerkorteRouteStation>BV</VerkorteRouteStation>
+    <VerkorteRouteStation>CAS</VerkorteRouteStation>
+    <EindBestemming>AMR</EindBestemming>
+  </VerkorteRouteInput>
+  <VerkorteRouteInput>
+    <StationCode>EHV</StationCode>
+    <VanTreinNummer>21456</VanTreinNummer>
+    <TotEnMetTreinNummer>21456</TotEnMetTreinNummer>
+    <IndicatorEvenOneven>J</IndicatorEvenOneven>
+    <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>zondag</GeldigheidPerSoortDag>
+    <VerkorteRouteStation>TB</VerkorteRouteStation>
+    <VerkorteRouteStation>BD</VerkorteRouteStation>
+    <VerkorteRouteStation>RTD</VerkorteRouteStation>
+    <EindBestemming>SHL</EindBestemming>
+  </VerkorteRouteInput>
+  <VerkorteRouteInput>
+    <StationCode>TB</StationCode>
+    <VanTreinNummer>21456</VanTreinNummer>
+    <TotEnMetTreinNummer>21456</TotEnMetTreinNummer>
+    <IndicatorEvenOneven>J</IndicatorEvenOneven>
+    <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>zondag</GeldigheidPerSoortDag>
+    <VerkorteRouteStation>BD</VerkorteRouteStation>
+    <VerkorteRouteStation>RTD</VerkorteRouteStation>
+    <VerkorteRouteStation>GV</VerkorteRouteStation>
+    <VerkorteRouteStation>LEDN</VerkorteRouteStation>
+    <EindBestemming>SHL</EindBestemming>
+  </VerkorteRouteInput>
+  <VerkorteRouteInput>
+    <StationCode>BD</StationCode>
+    <VanTreinNummer>21456</VanTreinNummer>
+    <TotEnMetTreinNummer>21456</TotEnMetTreinNummer>
+    <IndicatorEvenOneven>J</IndicatorEvenOneven>
+    <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>zondag</GeldigheidPerSoortDag>
+    <VerkorteRouteStation>RTD</VerkorteRouteStation>
+    <VerkorteRouteStation>GV</VerkorteRouteStation>
+    <VerkorteRouteStation>LEDN</VerkorteRouteStation>
+    <VerkorteRouteStation>SHL</VerkorteRouteStation>
+    <EindBestemming>ASD</EindBestemming>
+  </VerkorteRouteInput>
+  <VerkorteRouteInput>
+    <StationCode>DDR</StationCode>
+    <VanTreinNummer>21456</VanTreinNummer>
+    <TotEnMetTreinNummer>21456</TotEnMetTreinNummer>
+    <IndicatorEvenOneven>J</IndicatorEvenOneven>
+    <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
+    <GeldigheidPerSoortDag>zondag</GeldigheidPerSoortDag>
+    <VerkorteRouteStation>RTD</VerkorteRouteStation>
+    <VerkorteRouteStation>GV</VerkorteRouteStation>
+    <VerkorteRouteStation>LEDN</VerkorteRouteStation>
+    <VerkorteRouteStation>SHL</VerkorteRouteStation>
+    <EindBestemming>ASD</EindBestemming>
   </VerkorteRouteInput>
 </HARMInput>

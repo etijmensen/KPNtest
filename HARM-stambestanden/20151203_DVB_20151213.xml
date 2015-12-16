@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2015-10-05T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2015-12-13T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DoorgaandeVerbindingInput>
     <TreinSerie>
       <VanTreinNummer>4400</VanTreinNummer>
@@ -74,30 +74,6 @@
   </DoorgaandeVerbindingInput>
   <DoorgaandeVerbindingInput>
     <TreinSerie>
-      <VanTreinNummer>8900</VanTreinNummer>
-      <TotEnMetTreinNummer>8949</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    </TreinSerie>
-    <TreinSerie>
-      <VanTreinNummer>8950</VanTreinNummer>
-      <TotEnMetTreinNummer>8999</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    </TreinSerie>
-  </DoorgaandeVerbindingInput>
-  <DoorgaandeVerbindingInput>
-    <TreinSerie>
-      <VanTreinNummer>8900</VanTreinNummer>
-      <TotEnMetTreinNummer>8949</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    </TreinSerie>
-    <TreinSerie>
-      <VanTreinNummer>8950</VanTreinNummer>
-      <TotEnMetTreinNummer>8999</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    </TreinSerie>
-  </DoorgaandeVerbindingInput>
-  <DoorgaandeVerbindingInput>
-    <TreinSerie>
       <VanTreinNummer>13600</VanTreinNummer>
       <TotEnMetTreinNummer>13699</TotEnMetTreinNummer>
       <IndicatorEvenOneven>J</IndicatorEvenOneven>
@@ -122,114 +98,37 @@
   </DoorgaandeVerbindingInput>
   <DoorgaandeVerbindingInput>
     <TreinSerie>
-      <VanTreinNummer>7400</VanTreinNummer>
-      <TotEnMetTreinNummer>7499</TotEnMetTreinNummer>
+      <VanTreinNummer>21452</VanTreinNummer>
+      <TotEnMetTreinNummer>21452</TotEnMetTreinNummer>
       <IndicatorEvenOneven>J</IndicatorEvenOneven>
     </TreinSerie>
     <TreinSerie>
-      <VanTreinNummer>4700</VanTreinNummer>
-      <TotEnMetTreinNummer>4799</TotEnMetTreinNummer>
+      <VanTreinNummer>1410</VanTreinNummer>
+      <TotEnMetTreinNummer>1410</TotEnMetTreinNummer>
       <IndicatorEvenOneven>J</IndicatorEvenOneven>
     </TreinSerie>
   </DoorgaandeVerbindingInput>
   <DoorgaandeVerbindingInput>
     <TreinSerie>
-      <VanTreinNummer>1401</VanTreinNummer>
-      <TotEnMetTreinNummer>1401</TotEnMetTreinNummer>
+      <VanTreinNummer>429</VanTreinNummer>
+      <TotEnMetTreinNummer>429</TotEnMetTreinNummer>
       <IndicatorEvenOneven>N</IndicatorEvenOneven>
     </TreinSerie>
     <TreinSerie>
-      <VanTreinNummer>21409</VanTreinNummer>
-      <TotEnMetTreinNummer>21409</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    </TreinSerie>
-  </DoorgaandeVerbindingInput>
-  <DoorgaandeVerbindingInput>
-    <TreinSerie>
-      <VanTreinNummer>1405</VanTreinNummer>
-      <TotEnMetTreinNummer>1405</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    </TreinSerie>
-    <TreinSerie>
-      <VanTreinNummer>21413</VanTreinNummer>
-      <TotEnMetTreinNummer>21413</TotEnMetTreinNummer>
+      <VanTreinNummer>479</VanTreinNummer>
+      <TotEnMetTreinNummer>479</TotEnMetTreinNummer>
       <IndicatorEvenOneven>N</IndicatorEvenOneven>
     </TreinSerie>
   </DoorgaandeVerbindingInput>
   <DoorgaandeVerbindingInput>
     <TreinSerie>
-      <VanTreinNummer>21402</VanTreinNummer>
-      <TotEnMetTreinNummer>21402</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    </TreinSerie>
-    <TreinSerie>
-      <VanTreinNummer>1409</VanTreinNummer>
-      <TotEnMetTreinNummer>1409</TotEnMetTreinNummer>
+      <VanTreinNummer>13479</VanTreinNummer>
+      <TotEnMetTreinNummer>13479</TotEnMetTreinNummer>
       <IndicatorEvenOneven>N</IndicatorEvenOneven>
     </TreinSerie>
     <TreinSerie>
-      <VanTreinNummer>21417</VanTreinNummer>
-      <TotEnMetTreinNummer>21417</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    </TreinSerie>
-  </DoorgaandeVerbindingInput>
-  <DoorgaandeVerbindingInput>
-    <TreinSerie>
-      <VanTreinNummer>21406</VanTreinNummer>
-      <TotEnMetTreinNummer>21406</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    </TreinSerie>
-    <TreinSerie>
-      <VanTreinNummer>1413</VanTreinNummer>
-      <TotEnMetTreinNummer>1413</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    </TreinSerie>
-  </DoorgaandeVerbindingInput>
-  <DoorgaandeVerbindingInput>
-    <TreinSerie>
-      <VanTreinNummer>21410</VanTreinNummer>
-      <TotEnMetTreinNummer>21410</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    </TreinSerie>
-    <TreinSerie>
-      <VanTreinNummer>1417</VanTreinNummer>
-      <TotEnMetTreinNummer>1417</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    </TreinSerie>
-  </DoorgaandeVerbindingInput>
-  <DoorgaandeVerbindingInput>
-    <TreinSerie>
-      <VanTreinNummer>21414</VanTreinNummer>
-      <TotEnMetTreinNummer>21414</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    </TreinSerie>
-    <TreinSerie>
-      <VanTreinNummer>1421</VanTreinNummer>
-      <TotEnMetTreinNummer>1421</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    </TreinSerie>
-  </DoorgaandeVerbindingInput>
-  <DoorgaandeVerbindingInput>
-    <TreinSerie>
-      <VanTreinNummer>1402</VanTreinNummer>
-      <TotEnMetTreinNummer>1402</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    </TreinSerie>
-    <TreinSerie>
-      <VanTreinNummer>21459</VanTreinNummer>
-      <TotEnMetTreinNummer>21459</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    </TreinSerie>
-  </DoorgaandeVerbindingInput>
-  <DoorgaandeVerbindingInput>
-    <TreinSerie>
-      <VanTreinNummer>1406</VanTreinNummer>
-      <TotEnMetTreinNummer>1406</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    </TreinSerie>
-    <TreinSerie>
-      <VanTreinNummer>21463</VanTreinNummer>
-      <TotEnMetTreinNummer>21463</TotEnMetTreinNummer>
+      <VanTreinNummer>479</VanTreinNummer>
+      <TotEnMetTreinNummer>479</TotEnMetTreinNummer>
       <IndicatorEvenOneven>N</IndicatorEvenOneven>
     </TreinSerie>
   </DoorgaandeVerbindingInput>
@@ -240,56 +139,8 @@
       <IndicatorEvenOneven>J</IndicatorEvenOneven>
     </TreinSerie>
     <TreinSerie>
-      <VanTreinNummer>1414</VanTreinNummer>
-      <TotEnMetTreinNummer>1414</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    </TreinSerie>
-  </DoorgaandeVerbindingInput>
-  <DoorgaandeVerbindingInput>
-    <TreinSerie>
-      <VanTreinNummer>21460</VanTreinNummer>
-      <TotEnMetTreinNummer>21460</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    </TreinSerie>
-    <TreinSerie>
-      <VanTreinNummer>1418</VanTreinNummer>
-      <TotEnMetTreinNummer>1418</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    </TreinSerie>
-  </DoorgaandeVerbindingInput>
-  <DoorgaandeVerbindingInput>
-    <TreinSerie>
-      <VanTreinNummer>21464</VanTreinNummer>
-      <TotEnMetTreinNummer>21464</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    </TreinSerie>
-    <TreinSerie>
-      <VanTreinNummer>1422</VanTreinNummer>
-      <TotEnMetTreinNummer>1422</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    </TreinSerie>
-  </DoorgaandeVerbindingInput>
-  <DoorgaandeVerbindingInput>
-    <TreinSerie>
-      <VanTreinNummer>11900</VanTreinNummer>
-      <TotEnMetTreinNummer>11949</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    </TreinSerie>
-    <TreinSerie>
-      <VanTreinNummer>11950</VanTreinNummer>
-      <TotEnMetTreinNummer>11999</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    </TreinSerie>
-  </DoorgaandeVerbindingInput>
-  <DoorgaandeVerbindingInput>
-    <TreinSerie>
-      <VanTreinNummer>11900</VanTreinNummer>
-      <TotEnMetTreinNummer>11949</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    </TreinSerie>
-    <TreinSerie>
-      <VanTreinNummer>11950</VanTreinNummer>
-      <TotEnMetTreinNummer>11999</TotEnMetTreinNummer>
+      <VanTreinNummer>1424</VanTreinNummer>
+      <TotEnMetTreinNummer>1424</TotEnMetTreinNummer>
       <IndicatorEvenOneven>J</IndicatorEvenOneven>
     </TreinSerie>
   </DoorgaandeVerbindingInput>
@@ -327,30 +178,6 @@
       <VanTreinNummer>479</VanTreinNummer>
       <TotEnMetTreinNummer>479</TotEnMetTreinNummer>
       <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    </TreinSerie>
-  </DoorgaandeVerbindingInput>
-  <DoorgaandeVerbindingInput>
-    <TreinSerie>
-      <VanTreinNummer>11406</VanTreinNummer>
-      <TotEnMetTreinNummer>11406</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    </TreinSerie>
-    <TreinSerie>
-      <VanTreinNummer>1406</VanTreinNummer>
-      <TotEnMetTreinNummer>1406</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    </TreinSerie>
-  </DoorgaandeVerbindingInput>
-  <DoorgaandeVerbindingInput>
-    <TreinSerie>
-      <VanTreinNummer>11408</VanTreinNummer>
-      <TotEnMetTreinNummer>11408</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    </TreinSerie>
-    <TreinSerie>
-      <VanTreinNummer>21410</VanTreinNummer>
-      <TotEnMetTreinNummer>21410</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>J</IndicatorEvenOneven>
     </TreinSerie>
   </DoorgaandeVerbindingInput>
   <DoorgaandeVerbindingInput>
@@ -482,42 +309,6 @@
     <TreinSerie>
       <VanTreinNummer>12800</VanTreinNummer>
       <TotEnMetTreinNummer>12899</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    </TreinSerie>
-  </DoorgaandeVerbindingInput>
-  <DoorgaandeVerbindingInput>
-    <TreinSerie>
-      <VanTreinNummer>12800</VanTreinNummer>
-      <TotEnMetTreinNummer>12899</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    </TreinSerie>
-    <TreinSerie>
-      <VanTreinNummer>11700</VanTreinNummer>
-      <TotEnMetTreinNummer>11799</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    </TreinSerie>
-  </DoorgaandeVerbindingInput>
-  <DoorgaandeVerbindingInput>
-    <TreinSerie>
-      <VanTreinNummer>11700</VanTreinNummer>
-      <TotEnMetTreinNummer>11799</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    </TreinSerie>
-    <TreinSerie>
-      <VanTreinNummer>12800</VanTreinNummer>
-      <TotEnMetTreinNummer>12899</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    </TreinSerie>
-  </DoorgaandeVerbindingInput>
-  <DoorgaandeVerbindingInput>
-    <TreinSerie>
-      <VanTreinNummer>11410</VanTreinNummer>
-      <TotEnMetTreinNummer>11410</TotEnMetTreinNummer>
-      <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    </TreinSerie>
-    <TreinSerie>
-      <VanTreinNummer>1408</VanTreinNummer>
-      <TotEnMetTreinNummer>1408</TotEnMetTreinNummer>
       <IndicatorEvenOneven>J</IndicatorEvenOneven>
     </TreinSerie>
   </DoorgaandeVerbindingInput>

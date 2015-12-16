@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2015-10-05T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2015-12-13T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SpoorCodeInput>
     <StationCode>EHV</StationCode>
     <DienstRegelPunt>EHV</DienstRegelPunt>
@@ -1577,7 +1577,7 @@
     <VPTSpoor>2B</VPTSpoor>
     <PerronSpoorNummer>2</PerronSpoorNummer>
     <PerronSpoorFaseKort>b</PerronSpoorFaseKort>
-    <LengteMedium>105</LengteMedium>
+    <LengteMedium>157</LengteMedium>
     <LengteLang>372</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
@@ -3212,7 +3212,7 @@
     <VPTSpoor>3A</VPTSpoor>
     <PerronSpoorNummer>3</PerronSpoorNummer>
     <PerronSpoorFaseKort>a</PerronSpoorFaseKort>
-    <LengteMedium>154</LengteMedium>
+    <LengteMedium>163</LengteMedium>
     <LengteLang>479</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
@@ -3338,7 +3338,7 @@
     <VPTSpoor>1A</VPTSpoor>
     <PerronSpoorNummer>1</PerronSpoorNummer>
     <PerronSpoorFaseKort>a</PerronSpoorFaseKort>
-    <LengteMedium>131</LengteMedium>
+    <LengteMedium>142</LengteMedium>
     <LengteLang>385</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
@@ -3857,14 +3857,6 @@
     <LengteLang>0</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
-    <StationCode>ZWW</StationCode>
-    <DienstRegelPunt>ZWW</DienstRegelPunt>
-    <VPTSpoor>1</VPTSpoor>
-    <PerronSpoorNummer>1</PerronSpoorNummer>
-    <LengteMedium>150</LengteMedium>
-    <LengteLang>0</LengteLang>
-  </SpoorCodeInput>
-  <SpoorCodeInput>
     <StationCode>GD</StationCode>
     <DienstRegelPunt>GD</DienstRegelPunt>
     <VPTSpoor>10</VPTSpoor>
@@ -4236,14 +4228,6 @@
     <LengteLang>0</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
-    <StationCode>EHB</StationCode>
-    <DienstRegelPunt>EHB</DienstRegelPunt>
-    <VPTSpoor>1</VPTSpoor>
-    <PerronSpoorNummer>1</PerronSpoorNummer>
-    <LengteMedium>270</LengteMedium>
-    <LengteLang>0</LengteLang>
-  </SpoorCodeInput>
-  <SpoorCodeInput>
     <StationCode>EHV</StationCode>
     <DienstRegelPunt>EHV</DienstRegelPunt>
     <VPTSpoor>1</VPTSpoor>
@@ -4265,14 +4249,6 @@
     <VPTSpoor>1</VPTSpoor>
     <PerronSpoorNummer>1</PerronSpoorNummer>
     <LengteMedium>274</LengteMedium>
-    <LengteLang>0</LengteLang>
-  </SpoorCodeInput>
-  <SpoorCodeInput>
-    <StationCode>ESD</StationCode>
-    <DienstRegelPunt>ESD</DienstRegelPunt>
-    <VPTSpoor>1</VPTSpoor>
-    <PerronSpoorNummer>1</PerronSpoorNummer>
-    <LengteMedium>201</LengteMedium>
     <LengteLang>0</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
@@ -5881,6 +5857,7 @@
     <DienstRegelPunt>UT</DienstRegelPunt>
     <VPTSpoor>12B</VPTSpoor>
     <PerronSpoorNummer>12</PerronSpoorNummer>
+    <PerronSpoorFaseKort>b</PerronSpoorFaseKort>
     <LengteMedium>163</LengteMedium>
     <LengteLang>424</LengteLang>
   </SpoorCodeInput>
@@ -5968,8 +5945,8 @@
     <VPTSpoor>14A</VPTSpoor>
     <PerronSpoorNummer>14</PerronSpoorNummer>
     <PerronSpoorFaseKort>a</PerronSpoorFaseKort>
-    <LengteMedium>244</LengteMedium>
-    <LengteLang>398</LengteLang>
+    <LengteMedium>360</LengteMedium>
+    <LengteLang>0</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
     <StationCode>ASD</StationCode>
@@ -5994,8 +5971,9 @@
     <DienstRegelPunt>UT</DienstRegelPunt>
     <VPTSpoor>14B</VPTSpoor>
     <PerronSpoorNummer>14</PerronSpoorNummer>
-    <LengteMedium>120</LengteMedium>
-    <LengteLang>397</LengteLang>
+    <PerronSpoorFaseKort>b</PerronSpoorFaseKort>
+    <LengteMedium>360</LengteMedium>
+    <LengteLang>0</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
     <StationCode>ASD</StationCode>
@@ -6586,14 +6564,6 @@
     <LengteLang>0</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
-    <StationCode>EHB</StationCode>
-    <DienstRegelPunt>EHB</DienstRegelPunt>
-    <VPTSpoor>2</VPTSpoor>
-    <PerronSpoorNummer>2</PerronSpoorNummer>
-    <LengteMedium>270</LengteMedium>
-    <LengteLang>0</LengteLang>
-  </SpoorCodeInput>
-  <SpoorCodeInput>
     <StationCode>EHV</StationCode>
     <DienstRegelPunt>EHV</DienstRegelPunt>
     <VPTSpoor>2</VPTSpoor>
@@ -6607,14 +6577,6 @@
     <VPTSpoor>2</VPTSpoor>
     <PerronSpoorNummer>2</PerronSpoorNummer>
     <LengteMedium>274</LengteMedium>
-    <LengteLang>0</LengteLang>
-  </SpoorCodeInput>
-  <SpoorCodeInput>
-    <StationCode>ESD</StationCode>
-    <DienstRegelPunt>ESD</DienstRegelPunt>
-    <VPTSpoor>2</VPTSpoor>
-    <PerronSpoorNummer>2</PerronSpoorNummer>
-    <LengteMedium>201</LengteMedium>
     <LengteLang>0</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
@@ -7434,14 +7396,6 @@
     <LengteLang>0</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
-    <StationCode>ZWW</StationCode>
-    <DienstRegelPunt>ZWW</DienstRegelPunt>
-    <VPTSpoor>2</VPTSpoor>
-    <PerronSpoorNummer>2</PerronSpoorNummer>
-    <LengteMedium>168</LengteMedium>
-    <LengteLang>0</LengteLang>
-  </SpoorCodeInput>
-  <SpoorCodeInput>
     <StationCode>DDR</StationCode>
     <DienstRegelPunt>DDR</DienstRegelPunt>
     <VPTSpoor>20</VPTSpoor>
@@ -7602,14 +7556,6 @@
     <LengteLang>0</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
-    <StationCode>EHB</StationCode>
-    <DienstRegelPunt>EHB</DienstRegelPunt>
-    <VPTSpoor>3</VPTSpoor>
-    <PerronSpoorNummer>3</PerronSpoorNummer>
-    <LengteMedium>270</LengteMedium>
-    <LengteLang>0</LengteLang>
-  </SpoorCodeInput>
-  <SpoorCodeInput>
     <StationCode>EHV</StationCode>
     <DienstRegelPunt>EHV</DienstRegelPunt>
     <VPTSpoor>3</VPTSpoor>
@@ -7758,7 +7704,7 @@
     <DienstRegelPunt>GD</DienstRegelPunt>
     <VPTSpoor>3A</VPTSpoor>
     <PerronSpoorNummer>3</PerronSpoorNummer>
-    <LengteMedium>127</LengteMedium>
+    <LengteMedium>163</LengteMedium>
     <LengteLang>388</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
@@ -7906,14 +7852,6 @@
     <VPTSpoor>4</VPTSpoor>
     <PerronSpoorNummer>4</PerronSpoorNummer>
     <LengteMedium>229</LengteMedium>
-    <LengteLang>0</LengteLang>
-  </SpoorCodeInput>
-  <SpoorCodeInput>
-    <StationCode>EHB</StationCode>
-    <DienstRegelPunt>EHB</DienstRegelPunt>
-    <VPTSpoor>4</VPTSpoor>
-    <PerronSpoorNummer>4</PerronSpoorNummer>
-    <LengteMedium>270</LengteMedium>
     <LengteLang>0</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
@@ -8526,8 +8464,7 @@
     <DienstRegelPunt>HLM</DienstRegelPunt>
     <VPTSpoor>6B</VPTSpoor>
     <PerronSpoorNummer>6</PerronSpoorNummer>
-    <PerronSpoorFaseKort>a</PerronSpoorFaseKort>
-    <LengteMedium>197</LengteMedium>
+    <LengteMedium>182</LengteMedium>
     <LengteLang>466</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
@@ -10012,22 +9949,6 @@
     <VPTSpoor>1</VPTSpoor>
     <PerronSpoorNummer>1</PerronSpoorNummer>
     <LengteMedium>190</LengteMedium>
-    <LengteLang>0</LengteLang>
-  </SpoorCodeInput>
-  <SpoorCodeInput>
-    <StationCode>VWD</StationCode>
-    <DienstRegelPunt>VWD</DienstRegelPunt>
-    <VPTSpoor>2</VPTSpoor>
-    <PerronSpoorNummer>2</PerronSpoorNummer>
-    <LengteMedium>151</LengteMedium>
-    <LengteLang>0</LengteLang>
-  </SpoorCodeInput>
-  <SpoorCodeInput>
-    <StationCode>VWD</StationCode>
-    <DienstRegelPunt>VWD</DienstRegelPunt>
-    <VPTSpoor>1</VPTSpoor>
-    <PerronSpoorNummer>1</PerronSpoorNummer>
-    <LengteMedium>151</LengteMedium>
     <LengteLang>0</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
@@ -11600,7 +11521,7 @@
     <DienstRegelPunt>UT</DienstRegelPunt>
     <VPTSpoor>14</VPTSpoor>
     <PerronSpoorNummer>14</PerronSpoorNummer>
-    <LengteMedium>398</LengteMedium>
+    <LengteMedium>360</LengteMedium>
     <LengteLang>0</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
@@ -11845,7 +11766,7 @@
     <DienstRegelPunt>HT</DienstRegelPunt>
     <VPTSpoor>6B</VPTSpoor>
     <PerronSpoorNummer>6</PerronSpoorNummer>
-    <LengteMedium>234</LengteMedium>
+    <LengteMedium>243</LengteMedium>
     <LengteLang>689</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
@@ -12373,22 +12294,6 @@
   <SpoorCodeInput>
     <StationCode>LSL</StationCode>
     <DienstRegelPunt>LSL</DienstRegelPunt>
-    <VPTSpoor>1</VPTSpoor>
-    <PerronSpoorNummer>1</PerronSpoorNummer>
-    <LengteMedium>0</LengteMedium>
-    <LengteLang>0</LengteLang>
-  </SpoorCodeInput>
-  <SpoorCodeInput>
-    <StationCode>FLJ</StationCode>
-    <DienstRegelPunt>FLJ</DienstRegelPunt>
-    <VPTSpoor>1</VPTSpoor>
-    <PerronSpoorNummer>1</PerronSpoorNummer>
-    <LengteMedium>0</LengteMedium>
-    <LengteLang>0</LengteLang>
-  </SpoorCodeInput>
-  <SpoorCodeInput>
-    <StationCode>FLGP</StationCode>
-    <DienstRegelPunt>FLGP</DienstRegelPunt>
     <VPTSpoor>1</VPTSpoor>
     <PerronSpoorNummer>1</PerronSpoorNummer>
     <LengteMedium>0</LengteMedium>
@@ -14341,15 +14246,6 @@
     <LengteLang>407</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
-    <StationCode>UT</StationCode>
-    <DienstRegelPunt>UT</DienstRegelPunt>
-    <VPTSpoor>14BK</VPTSpoor>
-    <PerronSpoorNummer>14</PerronSpoorNummer>
-    <PerronSpoorFaseKort>b</PerronSpoorFaseKort>
-    <LengteMedium>120</LengteMedium>
-    <LengteLang>397</LengteLang>
-  </SpoorCodeInput>
-  <SpoorCodeInput>
     <StationCode>LRW</StationCode>
     <DienstRegelPunt>LRW</DienstRegelPunt>
     <VPTSpoor>1</VPTSpoor>
@@ -14394,21 +14290,12 @@
     <LengteLang>409</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
-    <StationCode>UT</StationCode>
-    <DienstRegelPunt>UT</DienstRegelPunt>
-    <VPTSpoor>12BK</VPTSpoor>
-    <PerronSpoorNummer>12</PerronSpoorNummer>
-    <PerronSpoorFaseKort>b</PerronSpoorFaseKort>
-    <LengteMedium>163</LengteMedium>
-    <LengteLang>424</LengteLang>
-  </SpoorCodeInput>
-  <SpoorCodeInput>
     <StationCode>GD</StationCode>
     <DienstRegelPunt>GD</DienstRegelPunt>
     <VPTSpoor>3AK</VPTSpoor>
     <PerronSpoorNummer>3</PerronSpoorNummer>
     <PerronSpoorFaseKort>a</PerronSpoorFaseKort>
-    <LengteMedium>127</LengteMedium>
+    <LengteMedium>163</LengteMedium>
     <LengteLang>388</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
@@ -14453,7 +14340,7 @@
     <DienstRegelPunt>UT</DienstRegelPunt>
     <VPTSpoor>21</VPTSpoor>
     <PerronSpoorNummer>21</PerronSpoorNummer>
-    <LengteMedium>286</LengteMedium>
+    <LengteMedium>340</LengteMedium>
     <LengteLang>0</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
@@ -14462,7 +14349,7 @@
     <VPTSpoor>6BK</VPTSpoor>
     <PerronSpoorNummer>6</PerronSpoorNummer>
     <PerronSpoorFaseKort>b</PerronSpoorFaseKort>
-    <LengteMedium>234</LengteMedium>
+    <LengteMedium>243</LengteMedium>
     <LengteLang>689</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
@@ -14612,7 +14499,7 @@
     <PerronSpoorFaseKort>a</PerronSpoorFaseKort>
     <PerronSpoorFaseMedium>a</PerronSpoorFaseMedium>
     <PerronSpoorFaseLang>a</PerronSpoorFaseLang>
-    <LengteMedium>175</LengteMedium>
+    <LengteMedium>180</LengteMedium>
     <LengteLang>0</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
@@ -14623,7 +14510,87 @@
     <PerronSpoorFaseKort>b</PerronSpoorFaseKort>
     <PerronSpoorFaseMedium>b</PerronSpoorFaseMedium>
     <PerronSpoorFaseLang>b</PerronSpoorFaseLang>
-    <LengteMedium>175</LengteMedium>
+    <LengteMedium>209</LengteMedium>
+    <LengteLang>0</LengteLang>
+  </SpoorCodeInput>
+  <SpoorCodeInput>
+    <StationCode>DWE</StationCode>
+    <DienstRegelPunt>DWE</DienstRegelPunt>
+    <VPTSpoor>1</VPTSpoor>
+    <PerronSpoorNummer>1</PerronSpoorNummer>
+    <LengteMedium>150</LengteMedium>
+    <LengteLang>0</LengteLang>
+  </SpoorCodeInput>
+  <SpoorCodeInput>
+    <StationCode>DWE</StationCode>
+    <DienstRegelPunt>DWE</DienstRegelPunt>
+    <VPTSpoor>2</VPTSpoor>
+    <PerronSpoorNummer>2</PerronSpoorNummer>
+    <LengteMedium>168</LengteMedium>
+    <LengteLang>0</LengteLang>
+  </SpoorCodeInput>
+  <SpoorCodeInput>
+    <StationCode>FWD</StationCode>
+    <DienstRegelPunt>FWD</DienstRegelPunt>
+    <VPTSpoor>1</VPTSpoor>
+    <PerronSpoorNummer>1</PerronSpoorNummer>
+    <LengteMedium>151</LengteMedium>
+    <LengteLang>0</LengteLang>
+  </SpoorCodeInput>
+  <SpoorCodeInput>
+    <StationCode>FWD</StationCode>
+    <DienstRegelPunt>FWD</DienstRegelPunt>
+    <VPTSpoor>2</VPTSpoor>
+    <PerronSpoorNummer>2</PerronSpoorNummer>
+    <LengteMedium>151</LengteMedium>
+    <LengteLang>0</LengteLang>
+  </SpoorCodeInput>
+  <SpoorCodeInput>
+    <StationCode>EHS</StationCode>
+    <DienstRegelPunt>EHS</DienstRegelPunt>
+    <VPTSpoor>1</VPTSpoor>
+    <PerronSpoorNummer>1</PerronSpoorNummer>
+    <LengteMedium>270</LengteMedium>
+    <LengteLang>0</LengteLang>
+  </SpoorCodeInput>
+  <SpoorCodeInput>
+    <StationCode>EHS</StationCode>
+    <DienstRegelPunt>EHS</DienstRegelPunt>
+    <VPTSpoor>2</VPTSpoor>
+    <PerronSpoorNummer>2</PerronSpoorNummer>
+    <LengteMedium>270</LengteMedium>
+    <LengteLang>0</LengteLang>
+  </SpoorCodeInput>
+  <SpoorCodeInput>
+    <StationCode>EHS</StationCode>
+    <DienstRegelPunt>EHS</DienstRegelPunt>
+    <VPTSpoor>3</VPTSpoor>
+    <PerronSpoorNummer>3</PerronSpoorNummer>
+    <LengteMedium>270</LengteMedium>
+    <LengteLang>0</LengteLang>
+  </SpoorCodeInput>
+  <SpoorCodeInput>
+    <StationCode>EHS</StationCode>
+    <DienstRegelPunt>EHS</DienstRegelPunt>
+    <VPTSpoor>4</VPTSpoor>
+    <PerronSpoorNummer>4</PerronSpoorNummer>
+    <LengteMedium>270</LengteMedium>
+    <LengteLang>0</LengteLang>
+  </SpoorCodeInput>
+  <SpoorCodeInput>
+    <StationCode>ESK</StationCode>
+    <DienstRegelPunt>ESK</DienstRegelPunt>
+    <VPTSpoor>1</VPTSpoor>
+    <PerronSpoorNummer>1</PerronSpoorNummer>
+    <LengteMedium>201</LengteMedium>
+    <LengteLang>0</LengteLang>
+  </SpoorCodeInput>
+  <SpoorCodeInput>
+    <StationCode>ESK</StationCode>
+    <DienstRegelPunt>ESK</DienstRegelPunt>
+    <VPTSpoor>2</VPTSpoor>
+    <PerronSpoorNummer>2</PerronSpoorNummer>
+    <LengteMedium>201</LengteMedium>
     <LengteLang>0</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
@@ -14652,5 +14619,77 @@
     <PerronSpoorFaseKort>a</PerronSpoorFaseKort>
     <LengteMedium>183</LengteMedium>
     <LengteLang>408</LengteLang>
+  </SpoorCodeInput>
+  <SpoorCodeInput>
+    <StationCode>BRAUNS</StationCode>
+    <DienstRegelPunt>BRAUNS</DienstRegelPunt>
+    <VPTSpoor>1</VPTSpoor>
+    <PerronSpoorNummer>1</PerronSpoorNummer>
+    <LengteMedium>0</LengteMedium>
+    <LengteLang>0</LengteLang>
+  </SpoorCodeInput>
+  <SpoorCodeInput>
+    <StationCode>LZD</StationCode>
+    <DienstRegelPunt>LZD</DienstRegelPunt>
+    <VPTSpoor>1</VPTSpoor>
+    <PerronSpoorNummer>1</PerronSpoorNummer>
+    <LengteMedium>0</LengteMedium>
+    <LengteLang>0</LengteLang>
+  </SpoorCodeInput>
+  <SpoorCodeInput>
+    <StationCode>LM</StationCode>
+    <DienstRegelPunt>LM</DienstRegelPunt>
+    <VPTSpoor>1</VPTSpoor>
+    <PerronSpoorNummer>1</PerronSpoorNummer>
+    <LengteMedium>0</LengteMedium>
+    <LengteLang>0</LengteLang>
+  </SpoorCodeInput>
+  <SpoorCodeInput>
+    <StationCode>FBR</StationCode>
+    <DienstRegelPunt>FBR</DienstRegelPunt>
+    <VPTSpoor>1</VPTSpoor>
+    <PerronSpoorNummer>1</PerronSpoorNummer>
+    <LengteMedium>0</LengteMedium>
+    <LengteLang>0</LengteLang>
+  </SpoorCodeInput>
+  <SpoorCodeInput>
+    <StationCode>FNU</StationCode>
+    <DienstRegelPunt>FNU</DienstRegelPunt>
+    <VPTSpoor>1</VPTSpoor>
+    <PerronSpoorNummer>1</PerronSpoorNummer>
+    <LengteMedium>0</LengteMedium>
+    <LengteLang>0</LengteLang>
+  </SpoorCodeInput>
+  <SpoorCodeInput>
+    <StationCode>FSN</StationCode>
+    <DienstRegelPunt>FSN</DienstRegelPunt>
+    <VPTSpoor>1</VPTSpoor>
+    <PerronSpoorNummer>1</PerronSpoorNummer>
+    <LengteMedium>0</LengteMedium>
+    <LengteLang>0</LengteLang>
+  </SpoorCodeInput>
+  <SpoorCodeInput>
+    <StationCode>LLB</StationCode>
+    <DienstRegelPunt>LLB</DienstRegelPunt>
+    <VPTSpoor>1</VPTSpoor>
+    <PerronSpoorNummer>1</PerronSpoorNummer>
+    <LengteMedium>0</LengteMedium>
+    <LengteLang>0</LengteLang>
+  </SpoorCodeInput>
+  <SpoorCodeInput>
+    <StationCode>LSW</StationCode>
+    <DienstRegelPunt>LSW</DienstRegelPunt>
+    <VPTSpoor>1</VPTSpoor>
+    <PerronSpoorNummer>1</PerronSpoorNummer>
+    <LengteMedium>0</LengteMedium>
+    <LengteLang>0</LengteLang>
+  </SpoorCodeInput>
+  <SpoorCodeInput>
+    <StationCode>FLK</StationCode>
+    <DienstRegelPunt>FLK</DienstRegelPunt>
+    <VPTSpoor>1</VPTSpoor>
+    <PerronSpoorNummer>1</PerronSpoorNummer>
+    <LengteMedium>0</LengteMedium>
+    <LengteLang>0</LengteLang>
   </SpoorCodeInput>
 </HARMInput>

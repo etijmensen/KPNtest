@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2015-10-05T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2015-12-13T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StationInput>
     <StationCode>AC</StationCode>
     <Type>0</Type>
@@ -556,7 +556,7 @@
     <KorteNaam>Berlin Ost</KorteNaam>
     <MiddelNaam>Berlin Ostbhf</MiddelNaam>
     <LangeNaam>Berlin Ostbahnhof</LangeNaam>
-    <UICCode>8007817</UICCode>
+    <UICCode>8003004</UICCode>
   </StationInput>
   <StationInput>
     <StationCode>BHV</StationCode>
@@ -1049,9 +1049,9 @@
   <StationInput>
     <StationCode>DRP</StationCode>
     <Type>0</Type>
-    <KorteNaam>Dronrijp</KorteNaam>
-    <MiddelNaam>Dronrijp</MiddelNaam>
-    <LangeNaam>Dronrijp</LangeNaam>
+    <KorteNaam>Dronryp</KorteNaam>
+    <MiddelNaam>Dronryp</MiddelNaam>
+    <LangeNaam>Dronryp</LangeNaam>
     <TaalCode>nl</TaalCode>
     <UICCode>8400192</UICCode>
   </StationInput>
@@ -1342,19 +1342,10 @@
   <StationInput>
     <StationCode>EGRK</StationCode>
     <Type>0</Type>
-    <KorteNaam>Steinf Gr</KorteNaam>
-    <MiddelNaam>Steinfurt Grotte</MiddelNaam>
-    <LangeNaam>Steinfurt Grottenkamp</LangeNaam>
+    <KorteNaam>Steinf-Gr</KorteNaam>
+    <MiddelNaam>Steinfurt-Grotte</MiddelNaam>
+    <LangeNaam>Steinfurt-Grottenkamp</LangeNaam>
     <UICCode>8071069</UICCode>
-  </StationInput>
-  <StationInput>
-    <StationCode>EHB</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Beukenlaan</KorteNaam>
-    <MiddelNaam>Beukenlaan</MiddelNaam>
-    <LangeNaam>Eindhoven Beukenlaan</LangeNaam>
-    <TaalCode>nl</TaalCode>
-    <UICCode>8400196</UICCode>
   </StationInput>
   <StationInput>
     <StationCode>EHV</StationCode>
@@ -1515,15 +1506,6 @@
     <UICCode>8015336</UICCode>
   </StationInput>
   <StationInput>
-    <StationCode>ESD</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Drienerlo</KorteNaam>
-    <MiddelNaam>Drienerlo</MiddelNaam>
-    <LangeNaam>Enschede Drienerlo</LangeNaam>
-    <TaalCode>nl</TaalCode>
-    <UICCode>8400221</UICCode>
-  </StationInput>
-  <StationInput>
     <StationCode>ESE</StationCode>
     <Type>0</Type>
     <KorteNaam>Eschmarke</KorteNaam>
@@ -1613,6 +1595,14 @@
     <MiddelNaam>Limburg Süd</MiddelNaam>
     <LangeNaam>Limburg Süd</LangeNaam>
     <UICCode>8032572</UICCode>
+  </StationInput>
+  <StationInput>
+    <StationCode>FMZ</StationCode>
+    <Type>4</Type>
+    <KorteNaam>Mainz Hbf</KorteNaam>
+    <MiddelNaam>Mainz Hbf</MiddelNaam>
+    <LangeNaam>Mainz Hbf</LangeNaam>
+    <UICCode>8019051</UICCode>
   </StationInput>
   <StationInput>
     <StationCode>FN</StationCode>
@@ -2831,7 +2821,7 @@
     <KorteNaam>Mannheim</KorteNaam>
     <MiddelNaam>Mannheim Hbf</MiddelNaam>
     <LangeNaam>Mannheim Hbf</LangeNaam>
-    <UICCode>8014002</UICCode>
+    <UICCode>8014008</UICCode>
   </StationInput>
   <StationInput>
     <StationCode>MARIA</StationCode>
@@ -3658,8 +3648,8 @@
     <StationCode>SHL</StationCode>
     <Type>6</Type>
     <KorteNaam>Schiphol</KorteNaam>
-    <MiddelNaam>Schiphol</MiddelNaam>
-    <LangeNaam>Schiphol</LangeNaam>
+    <MiddelNaam>Schiphol Airport</MiddelNaam>
+    <LangeNaam>Schiphol Airport</LangeNaam>
     <InstapTip>
       <UitstapStation>AMF</UitstapStation>
     </InstapTip>
@@ -4268,15 +4258,6 @@
     <UICCode>8400651</UICCode>
   </StationInput>
   <StationInput>
-    <StationCode>VWD</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Veenwouden</KorteNaam>
-    <MiddelNaam>Veenwouden</MiddelNaam>
-    <LangeNaam>Veenwouden</LangeNaam>
-    <TaalCode>nl</TaalCode>
-    <UICCode>8400638</UICCode>
-  </StationInput>
-  <StationInput>
     <StationCode>VZ</StationCode>
     <Type>0</Type>
     <KorteNaam>Vriezenvn</KorteNaam>
@@ -4641,15 +4622,6 @@
     <UICCode>8400752</UICCode>
   </StationInput>
   <StationInput>
-    <StationCode>ZWW</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Zwaagwest</KorteNaam>
-    <MiddelNaam>Zwaagwesteinde</MiddelNaam>
-    <LangeNaam>Zwaagwesteinde</LangeNaam>
-    <TaalCode>nl</TaalCode>
-    <UICCode>8400745</UICCode>
-  </StationInput>
-  <StationInput>
     <StationCode>BERHBL</StationCode>
     <Type>6</Type>
     <KorteNaam>Berlin Hbf</KorteNaam>
@@ -4999,6 +4971,15 @@
     <LangeNaam>Westervoort</LangeNaam>
     <TaalCode>nl</TaalCode>
     <UICCode>8400688</UICCode>
+  </StationInput>
+  <StationInput>
+    <StationCode>FLK</StationCode>
+    <Type>0</Type>
+    <KorteNaam>Lokeren</KorteNaam>
+    <MiddelNaam>Lokeren</MiddelNaam>
+    <LangeNaam>Lokeren</LangeNaam>
+    <TaalCode>nl</TaalCode>
+    <UICCode>8894201</UICCode>
   </StationInput>
   <StationInput>
     <StationCode>OETZ</StationCode>
@@ -5584,5 +5565,104 @@
     <LangeNaam>Liège-Palais</LangeNaam>
     <TaalCode>nl</TaalCode>
     <UICCode>8841525</UICCode>
+  </StationInput>
+  <StationInput>
+    <StationCode>DWE</StationCode>
+    <Type>0</Type>
+    <KorteNaam>Westereen</KorteNaam>
+    <MiddelNaam>De Westereen</MiddelNaam>
+    <LangeNaam>De Westereen</LangeNaam>
+    <TaalCode>nl</TaalCode>
+    <UICCode>8400745</UICCode>
+  </StationInput>
+  <StationInput>
+    <StationCode>FWD</StationCode>
+    <Type>0</Type>
+    <KorteNaam>Feanwalden</KorteNaam>
+    <MiddelNaam>Feanwalden</MiddelNaam>
+    <LangeNaam>Feanwalden</LangeNaam>
+    <TaalCode>nl</TaalCode>
+    <UICCode>8400638</UICCode>
+  </StationInput>
+  <StationInput>
+    <StationCode>EHS</StationCode>
+    <Type>0</Type>
+    <KorteNaam>Strijp-S</KorteNaam>
+    <MiddelNaam>Eindhoven Strijp</MiddelNaam>
+    <LangeNaam>Eindhoven Strijp-S</LangeNaam>
+    <TaalCode>nl</TaalCode>
+    <UICCode>8400196</UICCode>
+  </StationInput>
+  <StationInput>
+    <StationCode>ESK</StationCode>
+    <Type>0</Type>
+    <KorteNaam>Kennispark</KorteNaam>
+    <MiddelNaam>Kennispark</MiddelNaam>
+    <LangeNaam>Enschede Kennispark</LangeNaam>
+    <TaalCode>nl</TaalCode>
+    <UICCode>8400221</UICCode>
+  </StationInput>
+  <StationInput>
+    <StationCode>LZD</StationCode>
+    <Type>0</Type>
+    <KorteNaam>Zwijndrech</KorteNaam>
+    <MiddelNaam>Zwijndrecht (B)</MiddelNaam>
+    <LangeNaam>Zwijndrecht (Belgie)</LangeNaam>
+    <TaalCode>nl</TaalCode>
+    <UICCode>8894821</UICCode>
+  </StationInput>
+  <StationInput>
+    <StationCode>LM</StationCode>
+    <Type>0</Type>
+    <KorteNaam>Melsele</KorteNaam>
+    <MiddelNaam>Melsele</MiddelNaam>
+    <LangeNaam>Melsele</LangeNaam>
+    <TaalCode>nl</TaalCode>
+    <UICCode>8894755</UICCode>
+  </StationInput>
+  <StationInput>
+    <StationCode>FBR</StationCode>
+    <Type>0</Type>
+    <KorteNaam>Beveren</KorteNaam>
+    <MiddelNaam>Beveren</MiddelNaam>
+    <LangeNaam>Beveren</LangeNaam>
+    <TaalCode>nl</TaalCode>
+    <UICCode>8894748</UICCode>
+  </StationInput>
+  <StationInput>
+    <StationCode>FNU</StationCode>
+    <Type>0</Type>
+    <KorteNaam>Nieuwkerke</KorteNaam>
+    <MiddelNaam>Nieuwkerken-Waas</MiddelNaam>
+    <LangeNaam>Nieuwkerken-Waas</LangeNaam>
+    <TaalCode>nl</TaalCode>
+    <UICCode>8894714</UICCode>
+  </StationInput>
+  <StationInput>
+    <StationCode>FSN</StationCode>
+    <Type>0</Type>
+    <KorteNaam>Sint-Nikla</KorteNaam>
+    <MiddelNaam>Sint-Niklaas</MiddelNaam>
+    <LangeNaam>Sint-Niklaas</LangeNaam>
+    <TaalCode>nl</TaalCode>
+    <UICCode>8894508</UICCode>
+  </StationInput>
+  <StationInput>
+    <StationCode>LLB</StationCode>
+    <Type>0</Type>
+    <KorteNaam>Belsele</KorteNaam>
+    <MiddelNaam>Belsele</MiddelNaam>
+    <LangeNaam>Belsele</LangeNaam>
+    <TaalCode>nl</TaalCode>
+    <UICCode>8894433</UICCode>
+  </StationInput>
+  <StationInput>
+    <StationCode>LSW</StationCode>
+    <Type>0</Type>
+    <KorteNaam>Sinaai</KorteNaam>
+    <MiddelNaam>Sinaai</MiddelNaam>
+    <LangeNaam>Sinaai</LangeNaam>
+    <TaalCode>nl</TaalCode>
+    <UICCode>8894425</UICCode>
   </StationInput>
 </HARMInput>

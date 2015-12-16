@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2015-10-05T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2015-12-13T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <TreinSoortInput>
     <TreinFormule>1</TreinFormule>
     <TreinSoortCode>NSS</TreinSoortCode>
@@ -23,7 +23,7 @@
   <TreinSoortInput>
     <TreinFormule>4</TreinFormule>
     <TreinSoortCode>CNL</TreinSoortCode>
-    <TreinSoortOmschrijving>CityNightLine</TreinSoortOmschrijving>
+    <TreinSoortOmschrijving>CityNightLine/IC</TreinSoortOmschrijving>
   </TreinSoortInput>
   <TreinSoortInput>
     <TreinFormule>4</TreinFormule>
@@ -229,5 +229,20 @@
     <TreinFormule>5</TreinFormule>
     <TreinSoortCode>PR</TreinSoortCode>
     <TreinSoortOmschrijving>Panorama Rail</TreinSoortOmschrijving>
+  </TreinSoortInput>
+  <TreinSoortInput>
+    <TreinFormule>4</TreinFormule>
+    <TreinSoortCode>AE</TreinSoortCode>
+    <TreinSoortOmschrijving>Austria Express</TreinSoortOmschrijving>
+  </TreinSoortInput>
+  <TreinSoortInput>
+    <TreinFormule>4</TreinFormule>
+    <TreinSoortCode>KE</TreinSoortCode>
+    <TreinSoortOmschrijving>Krokus Express</TreinSoortOmschrijving>
+  </TreinSoortInput>
+  <TreinSoortInput>
+    <TreinFormule>4</TreinFormule>
+    <TreinSoortCode>SE</TreinSoortCode>
+    <TreinSoortOmschrijving>Sneeuw Express</TreinSoortOmschrijving>
   </TreinSoortInput>
 </HARMInput>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2015-10-05T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2015-12-13T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SpoorCorrectieInput>
     <DienstRegelPunt>RSD</DienstRegelPunt>
     <VanTreinNummer>3600</VanTreinNummer>
@@ -9,14 +9,6 @@
     <VPTVertrekSpoorNieuw>1</VPTVertrekSpoorNieuw>
   </SpoorCorrectieInput>
   <SpoorCorrectieInput>
-    <DienstRegelPunt>RSD</DienstRegelPunt>
-    <VanTreinNummer>2600</VanTreinNummer>
-    <TotEnMetTreinNummer>2699</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    <VPTVertrekSpoorOud>4A</VPTVertrekSpoorOud>
-    <VPTVertrekSpoorNieuw>4</VPTVertrekSpoorNieuw>
-  </SpoorCorrectieInput>
-  <SpoorCorrectieInput>
     <DienstRegelPunt>HGL</DienstRegelPunt>
     <VanTreinNummer>1700</VanTreinNummer>
     <TotEnMetTreinNummer>1799</TotEnMetTreinNummer>
@@ -47,14 +39,6 @@
     <IndicatorEvenOneven>N</IndicatorEvenOneven>
     <VPTVertrekSpoorOud>3B</VPTVertrekSpoorOud>
     <VPTVertrekSpoorNieuw>3</VPTVertrekSpoorNieuw>
-  </SpoorCorrectieInput>
-  <SpoorCorrectieInput>
-    <DienstRegelPunt>RSD</DienstRegelPunt>
-    <VanTreinNummer>12600</VanTreinNummer>
-    <TotEnMetTreinNummer>12699</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    <VPTVertrekSpoorOud>4A</VPTVertrekSpoorOud>
-    <VPTVertrekSpoorNieuw>4</VPTVertrekSpoorNieuw>
   </SpoorCorrectieInput>
   <SpoorCorrectieInput>
     <DienstRegelPunt>UT</DienstRegelPunt>
@@ -87,13 +71,5 @@
     <IndicatorEvenOneven>J</IndicatorEvenOneven>
     <VPTVertrekSpoorOud>8A</VPTVertrekSpoorOud>
     <VPTVertrekSpoorNieuw>8</VPTVertrekSpoorNieuw>
-  </SpoorCorrectieInput>
-  <SpoorCorrectieInput>
-    <DienstRegelPunt>UT</DienstRegelPunt>
-    <VanTreinNummer>8800</VanTreinNummer>
-    <TotEnMetTreinNummer>8899</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    <VPTVertrekSpoorOud>9A</VPTVertrekSpoorOud>
-    <VPTVertrekSpoorNieuw>9AK</VPTVertrekSpoorNieuw>
   </SpoorCorrectieInput>
 </HARMInput>
