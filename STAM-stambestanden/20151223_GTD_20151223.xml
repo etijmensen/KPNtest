@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:gtd:v1 Stam_GTD_v4.13.xsd" IngangsMoment="2015-12-13T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:gtd:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:gtd:v1 Stam_GTD_v4.13.xsd" IngangsMoment="2015-12-23T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:gtd:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>01</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>001</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>01 geen treinen, OA-90</OmschrijvingGUI>
@@ -20,7 +20,7 @@
     <Prioriteit>1</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>02</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>002</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>02 geen treinen, OA-0</OmschrijvingGUI>
@@ -39,7 +39,7 @@
     <Prioriteit>1</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>03</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>003</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>03 veelminder treinenOA60</OmschrijvingGUI>
@@ -58,7 +58,7 @@
     <Prioriteit>1</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>04</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>004</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>04 minder treinen, OA-0</OmschrijvingGUI>
@@ -77,7 +77,7 @@
     <Prioriteit>1</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>05</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>005</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>05 minder treinen, OA-25</OmschrijvingGUI>
@@ -96,7 +96,7 @@
     <Prioriteit>11</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>07</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>007</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <OmschrijvingGUI>07 verstoring (fase 1)</OmschrijvingGUI>
     <Omschrijving>
@@ -114,7 +114,7 @@
     <Prioriteit>1</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>08</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>008</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>08 vertraging, OA-nee</OmschrijvingGUI>
@@ -130,7 +130,7 @@
     <Prioriteit>14</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>09</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>009</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>09 vertrag./minder, OA-35</OmschrijvingGUI>
@@ -149,7 +149,7 @@
     <Prioriteit>5</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>11</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>011</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>11 geen IC's, OA-25</OmschrijvingGUI>
@@ -168,7 +168,7 @@
     <Prioriteit>5</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>12</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>012</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>12 geen Sneltr., OA-25</OmschrijvingGUI>
@@ -187,7 +187,7 @@
     <Prioriteit>5</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>13</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>013</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>13 geen Sprinters, OA-15</OmschrijvingGUI>
@@ -206,7 +206,7 @@
     <Prioriteit>5</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>14</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>014</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>14 geen stoptr., OA-15</OmschrijvingGUI>
@@ -225,7 +225,7 @@
     <Prioriteit>5</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>15</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>015</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>15 geen IC direct, OA-40</OmschrijvingGUI>
@@ -244,7 +244,7 @@
     <Prioriteit>1</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>16</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>016</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>16 geen Thalys-tr, OA-nee</OmschrijvingGUI>
@@ -260,7 +260,7 @@
     <Prioriteit>21</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>17</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>017</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>17 geen ICE-tr., OA-nee</OmschrijvingGUI>
@@ -276,7 +276,7 @@
     <Prioriteit>22</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>18</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>018</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>18 geen Thalys/ICd, OA-40</OmschrijvingGUI>
@@ -295,7 +295,7 @@
     <Prioriteit>1</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>21</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>021</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>21 minder IC's, OA-nee</OmschrijvingGUI>
@@ -311,7 +311,7 @@
     <Prioriteit>24</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>22</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>022</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>22 minder IC direct, OA-0</OmschrijvingGUI>
@@ -327,7 +327,7 @@
     <Prioriteit>26</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>23</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>023</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>23 minder ICE-tr., OA-nee</OmschrijvingGUI>
@@ -343,7 +343,7 @@
     <Prioriteit>27</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>24</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>024</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>24 minder Thalys/ICd OA-0</OmschrijvingGUI>
@@ -359,7 +359,7 @@
     <Prioriteit>25</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>25</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>025</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>25 minder Sprinters, OA-0</OmschrijvingGUI>
@@ -375,7 +375,7 @@
     <Prioriteit>28</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>26</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>026</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>26 minder stoptr., OA-0</OmschrijvingGUI>
@@ -391,7 +391,7 @@
     <Prioriteit>29</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>28</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>028</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>28 -bussen/treinen, OA-60</OmschrijvingGUI>
@@ -410,7 +410,7 @@
     <Prioriteit>1</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>31</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>031</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>31 verstoring trd, OA-0</OmschrijvingGUI>
@@ -429,7 +429,7 @@
     <Prioriteit>1</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>34</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>034</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <MogelijkBij>ET</MogelijkBij>
@@ -449,7 +449,7 @@
     <Prioriteit>10</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>35</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>035</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <MogelijkBij>ET</MogelijkBij>
@@ -466,7 +466,7 @@
     <Prioriteit>31</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>36</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>036</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <MogelijkBij>ET</MogelijkBij>
@@ -483,7 +483,7 @@
     <Prioriteit>32</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>41</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>041</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <MogelijkBij>ET</MogelijkBij>
@@ -500,7 +500,7 @@
     <Prioriteit>33</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>42</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>042</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <MogelijkBij>ET</MogelijkBij>
@@ -517,7 +517,7 @@
     <Prioriteit>34</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>43</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>043</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <MogelijkBij>ET</MogelijkBij>
@@ -534,7 +534,7 @@
     <Prioriteit>35</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>F4</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>F04</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <OmschrijvingGUI>fase-4 bericht</OmschrijvingGUI>
     <Omschrijving>
@@ -549,7 +549,7 @@
     <Prioriteit>40</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>F5</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>F05</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <OmschrijvingGUI>fase-5 bericht</OmschrijvingGUI>
     <Omschrijving>
@@ -564,7 +564,7 @@
     <Prioriteit>50</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>29</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>029</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>29 -bussen/treinen, OA-0</OmschrijvingGUI>
@@ -583,7 +583,7 @@
     <Prioriteit>1</Prioriteit>
   </GevolgenTreindienstInput>
   <GevolgenTreindienstInput>
-    <GevolgenTreindienstCode>19</GevolgenTreindienstCode>
+    <GevolgenTreindienstCode>019</GevolgenTreindienstCode>
     <MogelijkBij>EV</MogelijkBij>
     <MogelijkBij>GV</MogelijkBij>
     <OmschrijvingGUI>19 geen Int. tr., OA-nee</OmschrijvingGUI>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:vtk:v1 Stam_VTK_v4.13.xsd" IngangsMoment="2015-12-13T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:vtk:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:vtk:v1 Stam_VTK_v4.13.xsd" IngangsMoment="2015-12-23T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:vtk:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <VertragingsKeuzeInput>
-    <VertragingsKeuzeCode>1</VertragingsKeuzeCode>
+    <VertragingsKeuzeCode>001</VertragingsKeuzeCode>
     <OmschrijvingGUI>?</OmschrijvingGUI>
     <Omschrijving>
       <common:Kort>extra reistijd onbekend</common:Kort>
@@ -11,7 +11,7 @@
     <AantalWaarden>0</AantalWaarden>
   </VertragingsKeuzeInput>
   <VertragingsKeuzeInput>
-    <VertragingsKeuzeCode>2</VertragingsKeuzeCode>
+    <VertragingsKeuzeCode>002</VertragingsKeuzeCode>
     <OmschrijvingGUI>=</OmschrijvingGUI>
     <Omschrijving>
       <common:Kort>extra reistijd ±</common:Kort>
@@ -21,7 +21,7 @@
     <AantalWaarden>1</AantalWaarden>
   </VertragingsKeuzeInput>
   <VertragingsKeuzeInput>
-    <VertragingsKeuzeCode>3</VertragingsKeuzeCode>
+    <VertragingsKeuzeCode>003</VertragingsKeuzeCode>
     <OmschrijvingGUI>&lt;=</OmschrijvingGUI>
     <Omschrijving>
       <common:Kort>extra reistijd tot</common:Kort>
@@ -31,7 +31,7 @@
     <AantalWaarden>1</AantalWaarden>
   </VertragingsKeuzeInput>
   <VertragingsKeuzeInput>
-    <VertragingsKeuzeCode>4</VertragingsKeuzeCode>
+    <VertragingsKeuzeCode>004</VertragingsKeuzeCode>
     <OmschrijvingGUI>&gt;</OmschrijvingGUI>
     <Omschrijving>
       <common:Kort>extra reistijd meer dan</common:Kort>
@@ -41,7 +41,7 @@
     <AantalWaarden>1</AantalWaarden>
   </VertragingsKeuzeInput>
   <VertragingsKeuzeInput>
-    <VertragingsKeuzeCode>5</VertragingsKeuzeCode>
+    <VertragingsKeuzeCode>005</VertragingsKeuzeCode>
     <OmschrijvingGUI>-</OmschrijvingGUI>
     <Omschrijving>
       <common:Kort>extra reistijd</common:Kort>
@@ -51,7 +51,7 @@
     <AantalWaarden>2</AantalWaarden>
   </VertragingsKeuzeInput>
   <VertragingsKeuzeInput>
-    <VertragingsKeuzeCode>F4</VertragingsKeuzeCode>
+    <VertragingsKeuzeCode>F04</VertragingsKeuzeCode>
     <OmschrijvingGUI>F4</OmschrijvingGUI>
     <Omschrijving>
       <common:Kort>vertraging neemt af</common:Kort>
