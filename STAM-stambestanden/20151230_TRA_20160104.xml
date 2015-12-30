@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:tra:v1 Stam_TRA_v4.13.xsd" IngangsMoment="2015-12-13T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:tra:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:tra:v1 Stam_TRA_v4.13.xsd" IngangsMoment="2016-01-04T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:tra:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <TrajectInput>
     <TrajectCode>74</TrajectCode>
     <TrajectType>NL</TrajectType>
@@ -125,10 +125,6 @@
     <TrajectStations>
       <TrajectStationVolgnr>8</TrajectStationVolgnr>
       <TrajectStationCode>ALM</TrajectStationCode>
-    </TrajectStations>
-    <TrajectStations>
-      <TrajectStationVolgnr>9</TrajectStationVolgnr>
-      <TrajectStationCode>AHBF</TrajectStationCode>
     </TrajectStations>
     <VervoerderCode>100</VervoerderCode>
     <AantalReizen>19000</AantalReizen>
@@ -3901,6 +3897,45 @@
     <AantalReizen>9200</AantalReizen>
   </TrajectInput>
   <TrajectInput>
+    <TrajectCode>49</TrajectCode>
+    <TrajectType>Buurland</TrajectType>
+    <TrajectNaamCodes>
+      <VanStationCode>HRL</VanStationCode>
+      <NaarStationCode>HZ</NaarStationCode>
+    </TrajectNaamCodes>
+    <TrajectNaamExtern>
+      <Van>Heerlen</Van>
+      <Naar>Herzogenrath</Naar>
+    </TrajectNaamExtern>
+    <Ligging>DeelsNL</Ligging>
+    <TrajectStations>
+      <TrajectStationVolgnr>1</TrajectStationVolgnr>
+      <TrajectStationCode>HRL</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>2</TrajectStationVolgnr>
+      <TrajectStationCode>HRLK</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>3</TrajectStationVolgnr>
+      <TrajectStationCode>LG</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>4</TrajectStationVolgnr>
+      <TrajectStationCode>EGH</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>5</TrajectStationVolgnr>
+      <TrajectStationCode>EGHM</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>6</TrajectStationVolgnr>
+      <TrajectStationCode>HZ</TrajectStationCode>
+    </TrajectStations>
+    <VervoerderCode>910</VervoerderCode>
+    <AantalReizen>200</AantalReizen>
+  </TrajectInput>
+  <TrajectInput>
     <TrajectCode>103</TrajectCode>
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
@@ -5558,75 +5593,6 @@
     </TrajectStations>
     <VervoerderCode>100</VervoerderCode>
     <AantalReizen>15000</AantalReizen>
-  </TrajectInput>
-  <TrajectInput>
-    <TrajectCode>49</TrajectCode>
-    <TrajectType>Buurland</TrajectType>
-    <TrajectNaamCodes>
-      <VanStationCode>HRL</VanStationCode>
-      <ViaStationCode>AHBF</ViaStationCode>
-      <NaarStationCode>STOLB</NaarStationCode>
-    </TrajectNaamCodes>
-    <TrajectNaamExtern>
-      <Van>Heerlen</Van>
-      <Via>Aachen</Via>
-      <Naar>Stolberg</Naar>
-    </TrajectNaamExtern>
-    <Ligging>DeelsNL</Ligging>
-    <TrajectStations>
-      <TrajectStationVolgnr>1</TrajectStationVolgnr>
-      <TrajectStationCode>HRL</TrajectStationCode>
-    </TrajectStations>
-    <TrajectStations>
-      <TrajectStationVolgnr>2</TrajectStationVolgnr>
-      <TrajectStationCode>HRLK</TrajectStationCode>
-    </TrajectStations>
-    <TrajectStations>
-      <TrajectStationVolgnr>3</TrajectStationVolgnr>
-      <TrajectStationCode>LG</TrajectStationCode>
-    </TrajectStations>
-    <TrajectStations>
-      <TrajectStationVolgnr>4</TrajectStationVolgnr>
-      <TrajectStationCode>EGH</TrajectStationCode>
-    </TrajectStations>
-    <TrajectStations>
-      <TrajectStationVolgnr>5</TrajectStationVolgnr>
-      <TrajectStationCode>EGHM</TrajectStationCode>
-    </TrajectStations>
-    <TrajectStations>
-      <TrajectStationVolgnr>6</TrajectStationVolgnr>
-      <TrajectStationCode>HZ</TrajectStationCode>
-    </TrajectStations>
-    <TrajectStations>
-      <TrajectStationVolgnr>7</TrajectStationVolgnr>
-      <TrajectStationCode>KOHL</TrajectStationCode>
-    </TrajectStations>
-    <TrajectStations>
-      <TrajectStationVolgnr>8</TrajectStationVolgnr>
-      <TrajectStationCode>AW</TrajectStationCode>
-    </TrajectStations>
-    <TrajectStations>
-      <TrajectStationVolgnr>9</TrajectStationVolgnr>
-      <TrajectStationCode>ASCH</TrajectStationCode>
-    </TrajectStations>
-    <TrajectStations>
-      <TrajectStationVolgnr>10</TrajectStationVolgnr>
-      <TrajectStationCode>AHBF</TrajectStationCode>
-    </TrajectStations>
-    <TrajectStations>
-      <TrajectStationVolgnr>11</TrajectStationVolgnr>
-      <TrajectStationCode>ARE</TrajectStationCode>
-    </TrajectStations>
-    <TrajectStations>
-      <TrajectStationVolgnr>12</TrajectStationVolgnr>
-      <TrajectStationCode>EDF</TrajectStationCode>
-    </TrajectStations>
-    <TrajectStations>
-      <TrajectStationVolgnr>13</TrajectStationVolgnr>
-      <TrajectStationCode>STOLB</TrajectStationCode>
-    </TrajectStations>
-    <VervoerderCode>910</VervoerderCode>
-    <AantalReizen>200</AantalReizen>
   </TrajectInput>
   <TrajectInput>
     <TrajectCode>54</TrajectCode>
