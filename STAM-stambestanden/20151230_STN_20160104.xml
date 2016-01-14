@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:stn:v1 Stam_STN_v4.13.xsd" IngangsMoment="2015-12-13T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:stn:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:stn:v1 Stam_STN_v4.13.xsd" IngangsMoment="2016-01-04T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:stn:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StationInput>
     <StationCode>AC</StationCode>
     <Type>0</Type>
@@ -17,14 +17,6 @@
     <LangeNaam>Arnhem</LangeNaam>
     <TaalCode>nl</TaalCode>
     <UICCode>8400071</UICCode>
-  </StationInput>
-  <StationInput>
-    <StationCode>AHBF</StationCode>
-    <Type>5</Type>
-    <KorteNaam>Aachen</KorteNaam>
-    <MiddelNaam>Aachen Hbf</MiddelNaam>
-    <LangeNaam>Aachen Hbf</LangeNaam>
-    <UICCode>8015345</UICCode>
   </StationInput>
   <StationInput>
     <StationCode>AHP</StationCode>
@@ -263,14 +255,6 @@
     <UICCode>8400053</UICCode>
   </StationInput>
   <StationInput>
-    <StationCode>ARE</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Aachen RE</KorteNaam>
-    <MiddelNaam>Aachen R. Erde</MiddelNaam>
-    <LangeNaam>Aachen Rothe Erde</LangeNaam>
-    <UICCode>8015342</UICCode>
-  </StationInput>
-  <StationInput>
     <StationCode>ARN</StationCode>
     <Type>0</Type>
     <KorteNaam>Arnemuiden</KorteNaam>
@@ -296,14 +280,6 @@
     <LangeNaam>Amsterdam Bijlmer ArenA</LangeNaam>
     <TaalCode>nl</TaalCode>
     <UICCode>8400074</UICCode>
-  </StationInput>
-  <StationInput>
-    <StationCode>ASCH</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Aachen Sch</KorteNaam>
-    <MiddelNaam>Aachen Schanz</MiddelNaam>
-    <LangeNaam>Aachen Schanz</LangeNaam>
-    <UICCode>8031372</UICCode>
   </StationInput>
   <StationInput>
     <StationCode>ASD</StationCode>
@@ -421,14 +397,6 @@
     <MiddelNaam>Avignon TGV</MiddelNaam>
     <LangeNaam>Avignon TGV</LangeNaam>
     <UICCode>8731896</UICCode>
-  </StationInput>
-  <StationInput>
-    <StationCode>AW</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Aachen W</KorteNaam>
-    <MiddelNaam>Aachen West</MiddelNaam>
-    <LangeNaam>Aachen West</LangeNaam>
-    <UICCode>8015199</UICCode>
   </StationInput>
   <StationInput>
     <StationCode>BADENZ</StationCode>
@@ -1265,14 +1233,6 @@
     <UICCode>8010101</UICCode>
   </StationInput>
   <StationInput>
-    <StationCode>EDF</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Eilendorf</KorteNaam>
-    <MiddelNaam>Eilendorf</MiddelNaam>
-    <LangeNaam>Eilendorf</LangeNaam>
-    <UICCode>8015341</UICCode>
-  </StationInput>
-  <StationInput>
     <StationCode>EDKD</StationCode>
     <Type>0</Type>
     <KorteNaam>Dortmund K</KorteNaam>
@@ -1496,14 +1456,6 @@
     <LangeNaam>Enschede</LangeNaam>
     <TaalCode>nl</TaalCode>
     <UICCode>8400212</UICCode>
-  </StationInput>
-  <StationInput>
-    <StationCode>ESCH</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Eschweiler</KorteNaam>
-    <MiddelNaam>Eschweiler Hbf</MiddelNaam>
-    <LangeNaam>Eschweiler Hbf</LangeNaam>
-    <UICCode>8015336</UICCode>
   </StationInput>
   <StationInput>
     <StationCode>ESE</StationCode>
@@ -2438,14 +2390,6 @@
     <UICCode>8400363</UICCode>
   </StationInput>
   <StationInput>
-    <StationCode>KDR</StationCode>
-    <Type>4</Type>
-    <KorteNaam>Düren</KorteNaam>
-    <MiddelNaam>Düren</MiddelNaam>
-    <LangeNaam>Düren</LangeNaam>
-    <UICCode>8015331</UICCode>
-  </StationInput>
-  <StationInput>
     <StationCode>KDUL</StationCode>
     <Type>4</Type>
     <KorteNaam>Dülken</KorteNaam>
@@ -2520,14 +2464,6 @@
     <MiddelNaam>Kaldenkirchen</MiddelNaam>
     <LangeNaam>Kaldenkirchen</LangeNaam>
     <UICCode>8015131</UICCode>
-  </StationInput>
-  <StationInput>
-    <StationCode>KOHL</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Kohlscheid</KorteNaam>
-    <MiddelNaam>Kohlscheid</MiddelNaam>
-    <LangeNaam>Kohlscheid</LangeNaam>
-    <UICCode>8015195</UICCode>
   </StationInput>
   <StationInput>
     <StationCode>KOLN</StationCode>
@@ -3766,54 +3702,6 @@
     <UICCode>8400576</UICCode>
   </StationInput>
   <StationInput>
-    <StationCode>STOLA</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Stolberg A</KorteNaam>
-    <MiddelNaam>Stolberg Altst.</MiddelNaam>
-    <LangeNaam>Stolberg Altstadt</LangeNaam>
-    <UICCode>8037164</UICCode>
-  </StationInput>
-  <StationInput>
-    <StationCode>STOLB</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Stolberg H</KorteNaam>
-    <MiddelNaam>Stolberg Hbf</MiddelNaam>
-    <LangeNaam>Stolberg Hbf</LangeNaam>
-    <UICCode>8015338</UICCode>
-  </StationInput>
-  <StationInput>
-    <StationCode>STOLGB</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Stolberg G</KorteNaam>
-    <MiddelNaam>Stolberg GBF</MiddelNaam>
-    <LangeNaam>Stolberg GBF</LangeNaam>
-    <UICCode>8099999</UICCode>
-  </StationInput>
-  <StationInput>
-    <StationCode>STOLMB</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Stolberg M</KorteNaam>
-    <MiddelNaam>Stolberg M Bf</MiddelNaam>
-    <LangeNaam>Stolberg Mühlener Bahnhof</LangeNaam>
-    <UICCode>8037162</UICCode>
-  </StationInput>
-  <StationInput>
-    <StationCode>STOLR</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Stolberg R</KorteNaam>
-    <MiddelNaam>Stolberg Rathaus</MiddelNaam>
-    <LangeNaam>Stolberg Rathaus</LangeNaam>
-    <UICCode>8037156</UICCode>
-  </StationInput>
-  <StationInput>
-    <StationCode>STOLSM</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Stolberg S</KorteNaam>
-    <MiddelNaam>Stolberg Schn.</MiddelNaam>
-    <LangeNaam>Stolberg Schneidemuhle</LangeNaam>
-    <UICCode>8037124</UICCode>
-  </StationInput>
-  <StationInput>
     <StationCode>STV</StationCode>
     <Type>0</Type>
     <KorteNaam>Stavoren</KorteNaam>
@@ -4647,51 +4535,6 @@
     <LangeNaam>Houten Castellum</LangeNaam>
     <TaalCode>nl</TaalCode>
     <UICCode>8400335</UICCode>
-  </StationInput>
-  <StationInput>
-    <StationCode>ESCHW</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Eschweil-W</KorteNaam>
-    <MiddelNaam>Eschweiler-West</MiddelNaam>
-    <LangeNaam>Eschweiler-West</LangeNaam>
-    <TaalCode>nl</TaalCode>
-    <UICCode>8069832</UICCode>
-  </StationInput>
-  <StationInput>
-    <StationCode>ESCHT</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Eschweil T</KorteNaam>
-    <MiddelNaam>Eschweiler Talb.</MiddelNaam>
-    <LangeNaam>Eschweiler Talbahnhof</LangeNaam>
-    <TaalCode>nl</TaalCode>
-    <UICCode>8069831</UICCode>
-  </StationInput>
-  <StationInput>
-    <StationCode>ESCHN</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Eschweil-N</KorteNaam>
-    <MiddelNaam>Eschweiler-Nothb</MiddelNaam>
-    <LangeNaam>Eschweiler-Nothberg</LangeNaam>
-    <TaalCode>nl</TaalCode>
-    <UICCode>8069834</UICCode>
-  </StationInput>
-  <StationInput>
-    <StationCode>EWEIS</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Esch-Weisw</KorteNaam>
-    <MiddelNaam>Eschweiler-Weisw</MiddelNaam>
-    <LangeNaam>Eschweiler-Weisweiler</LangeNaam>
-    <TaalCode>nl</TaalCode>
-    <UICCode>8069835</UICCode>
-  </StationInput>
-  <StationInput>
-    <StationCode>LANG</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Langerwehe</KorteNaam>
-    <MiddelNaam>Langerwehe</MiddelNaam>
-    <LangeNaam>Langerwehe</LangeNaam>
-    <TaalCode>nl</TaalCode>
-    <UICCode>8015334</UICCode>
   </StationInput>
   <StationInput>
     <StationCode>BIELEF</StationCode>
@@ -5588,7 +5431,7 @@
     <StationCode>EHS</StationCode>
     <Type>0</Type>
     <KorteNaam>Strijp-S</KorteNaam>
-    <MiddelNaam>Eindhoven Strijp</MiddelNaam>
+    <MiddelNaam>Strijp-S</MiddelNaam>
     <LangeNaam>Eindhoven Strijp-S</LangeNaam>
     <TaalCode>nl</TaalCode>
     <UICCode>8400196</UICCode>
