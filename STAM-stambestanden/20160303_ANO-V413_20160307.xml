@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:ano:v1 Stam_ANO_v4.13.xsd" IngangsMoment="2016-01-04T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:ano:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:ano:v1 Stam_ANO_v4.13.xsd" IngangsMoment="2016-03-07T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:ano:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <AanleidingOorzaakInput>
     <OorzaakLang>door acties van het personeel</OorzaakLang>
     <OorzaakKort>acties van het personeel</OorzaakKort>
@@ -157,8 +157,8 @@
     <Aanleiding>sein- en overwegstoring</Aanleiding>
     <AanleidingCode>DEF026</AanleidingCode>
     <IndexWoorden>
-      <IndexWoord>sein- en overwegstoring na wkz</IndexWoord>
       <IndexWoord>misschien koperdiefstal S+O</IndexWoord>
+      <IndexWoord>sein- en overwegstoring na wkz</IndexWoord>
     </IndexWoorden>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
@@ -167,10 +167,10 @@
     <Aanleiding>sein- en wisselstoring(en)</Aanleiding>
     <AanleidingCode>DEF028</AanleidingCode>
     <IndexWoorden>
-      <IndexWoord>storing in VKL systeem</IndexWoord>
       <IndexWoord>def. PCL: sein + wisselstoring</IndexWoord>
       <IndexWoord>misschien koperdiefstal S+W</IndexWoord>
       <IndexWoord>sein- en wisselstoring na wkz</IndexWoord>
+      <IndexWoord>storing in VKL systeem</IndexWoord>
     </IndexWoorden>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
@@ -212,12 +212,6 @@
     <IndexWoorden>
       <IndexWoord>wissel - opengereden</IndexWoord>
     </IndexWoorden>
-  </AanleidingOorzaakInput>
-  <AanleidingOorzaakInput>
-    <OorzaakLang>door werkzaamheden</OorzaakLang>
-    <OorzaakKort>werkzaamheden</OorzaakKort>
-    <Aanleiding>herstelwerkzaamheden</Aanleiding>
-    <AanleidingCode>HER001</AanleidingCode>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
     <OorzaakLang>door een eerdere verstoring</OorzaakLang>
@@ -301,11 +295,11 @@
     <Aanleiding>politie</Aanleiding>
     <AanleidingCode>POL006</AanleidingCode>
     <IndexWoorden>
-      <IndexWoord>verdacht pakketje</IndexWoord>
-      <IndexWoord>verdacht persoon</IndexWoord>
       <IndexWoord>demonstratie</IndexWoord>
       <IndexWoord>bommelding/ -vinding</IndexWoord>
       <IndexWoord>supportersproblemen</IndexWoord>
+      <IndexWoord>verdacht pakketje</IndexWoord>
+      <IndexWoord>verdacht persoon</IndexWoord>
     </IndexWoorden>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
@@ -396,10 +390,10 @@
     <AanleidingCode>DEF012</AanleidingCode>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
-    <OorzaakLang>door problemen met een trein</OorzaakLang>
-    <OorzaakKort>problemen met trein</OorzaakKort>
-    <Aanleiding>problemen met een trein</Aanleiding>
-    <AanleidingCode>MAT006</AanleidingCode>
+    <OorzaakLang>door beperkingen in de materieelinzet</OorzaakLang>
+    <OorzaakKort>beperkingen materieel</OorzaakKort>
+    <Aanleiding>beperkingen materieelinzet</Aanleiding>
+    <AanleidingCode>MAT005</AanleidingCode>
     <IndexWoorden>
       <IndexWoord>noodrem trekken</IndexWoord>
       <IndexWoord>trein - bekogeld</IndexWoord>
@@ -430,11 +424,11 @@
     <Aanleiding>werkzaamheden</Aanleiding>
     <AanleidingCode>WKZ069</AanleidingCode>
     <IndexWoorden>
-      <IndexWoord>botsing tijdens rangeren</IndexWoord>
-      <IndexWoord>wateroverlast door bouwwkz</IndexWoord>
       <IndexWoord>opruimwerk na aanrijding</IndexWoord>
       <IndexWoord>snelheidsbeperking</IndexWoord>
       <IndexWoord>schouwwerkzaamheden</IndexWoord>
+      <IndexWoord>botsing tijdens rangeren</IndexWoord>
+      <IndexWoord>wateroverlast door bouwwkz</IndexWoord>
     </IndexWoorden>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
@@ -632,5 +626,23 @@
     <OorzaakKort>spoorvernieuwing</OorzaakKort>
     <Aanleiding>spoorvernieuwing</Aanleiding>
     <AanleidingCode>WKZ075</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door het onverwacht ontbreken van personeel</OorzaakLang>
+    <OorzaakKort>ontbreken personeel</OorzaakKort>
+    <Aanleiding>ontbreken personeel</Aanleiding>
+    <AanleidingCode>LOG011</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door rijp aan de bovenleiding</OorzaakLang>
+    <OorzaakKort>rijp - bovenleiding</OorzaakKort>
+    <Aanleiding>bovenleiding - rijp</Aanleiding>
+    <AanleidingCode>WOH010</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door harde wind op de Hogesnelheidslijn</OorzaakLang>
+    <OorzaakKort>harde wind HSL</OorzaakKort>
+    <Aanleiding>harde wind op HSL</Aanleiding>
+    <AanleidingCode>WOH011</AanleidingCode>
   </AanleidingOorzaakInput>
 </StamInput>
