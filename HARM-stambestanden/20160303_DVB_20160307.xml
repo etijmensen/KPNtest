@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2015-12-13T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2016-03-07T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DoorgaandeVerbindingInput>
     <TreinSerie>
       <VanTreinNummer>4400</VanTreinNummer>
@@ -309,6 +309,42 @@
     <TreinSerie>
       <VanTreinNummer>12800</VanTreinNummer>
       <TotEnMetTreinNummer>12899</TotEnMetTreinNummer>
+      <IndicatorEvenOneven>J</IndicatorEvenOneven>
+    </TreinSerie>
+  </DoorgaandeVerbindingInput>
+  <DoorgaandeVerbindingInput>
+    <TreinSerie>
+      <VanTreinNummer>12800</VanTreinNummer>
+      <TotEnMetTreinNummer>12899</TotEnMetTreinNummer>
+      <IndicatorEvenOneven>N</IndicatorEvenOneven>
+    </TreinSerie>
+    <TreinSerie>
+      <VanTreinNummer>11700</VanTreinNummer>
+      <TotEnMetTreinNummer>11799</TotEnMetTreinNummer>
+      <IndicatorEvenOneven>N</IndicatorEvenOneven>
+    </TreinSerie>
+  </DoorgaandeVerbindingInput>
+  <DoorgaandeVerbindingInput>
+    <TreinSerie>
+      <VanTreinNummer>11700</VanTreinNummer>
+      <TotEnMetTreinNummer>11799</TotEnMetTreinNummer>
+      <IndicatorEvenOneven>J</IndicatorEvenOneven>
+    </TreinSerie>
+    <TreinSerie>
+      <VanTreinNummer>12800</VanTreinNummer>
+      <TotEnMetTreinNummer>12899</TotEnMetTreinNummer>
+      <IndicatorEvenOneven>J</IndicatorEvenOneven>
+    </TreinSerie>
+  </DoorgaandeVerbindingInput>
+  <DoorgaandeVerbindingInput>
+    <TreinSerie>
+      <VanTreinNummer>11412</VanTreinNummer>
+      <TotEnMetTreinNummer>11412</TotEnMetTreinNummer>
+      <IndicatorEvenOneven>J</IndicatorEvenOneven>
+    </TreinSerie>
+    <TreinSerie>
+      <VanTreinNummer>1412</VanTreinNummer>
+      <TotEnMetTreinNummer>1412</TotEnMetTreinNummer>
       <IndicatorEvenOneven>J</IndicatorEvenOneven>
     </TreinSerie>
   </DoorgaandeVerbindingInput>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2015-12-13T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2016-03-07T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <VervoerderInput>
     <VervoerderCode>3</VervoerderCode>
     <VervoerderNaam>BBA</VervoerderNaam>
@@ -219,5 +219,9 @@
   <VervoerderInput>
     <VervoerderCode>963</VervoerderCode>
     <VervoerderNaam>LTE</VervoerderNaam>
+  </VervoerderInput>
+  <VervoerderInput>
+    <VervoerderCode>964</VervoerderCode>
+    <VervoerderNaam>Stoom Stichting Nederland</VervoerderNaam>
   </VervoerderInput>
 </HARMInput>
