@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:stn:v1 Stam_STN_v4.13.xsd" IngangsMoment="2016-03-07T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:stn:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:stn:v1 Stam_STN_v4.13.xsd" IngangsMoment="2016-03-15T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:stn:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StationInput>
     <StationCode>AC</StationCode>
     <Type>0</Type>
@@ -17,6 +17,14 @@
     <LangeNaam>Arnhem</LangeNaam>
     <TaalCode>nl</TaalCode>
     <UICCode>8400071</UICCode>
+  </StationInput>
+  <StationInput>
+    <StationCode>AHBF</StationCode>
+    <Type>5</Type>
+    <KorteNaam>Aachen</KorteNaam>
+    <MiddelNaam>Aachen Hbf</MiddelNaam>
+    <LangeNaam>Aachen Hbf</LangeNaam>
+    <UICCode>8015345</UICCode>
   </StationInput>
   <StationInput>
     <StationCode>AHP</StationCode>
@@ -284,7 +292,7 @@
   <StationInput>
     <StationCode>ASD</StationCode>
     <Type>6</Type>
-    <KorteNaam>A'dam C</KorteNaam>
+    <KorteNaam>Amsterdam</KorteNaam>
     <MiddelNaam>Amsterdam C.</MiddelNaam>
     <LangeNaam>Amsterdam Centraal</LangeNaam>
     <InstapTip>
@@ -314,7 +322,7 @@
   <StationInput>
     <StationCode>ASDZ</StationCode>
     <Type>4</Type>
-    <KorteNaam>A'dam Z</KorteNaam>
+    <KorteNaam>Amsterdm Z</KorteNaam>
     <MiddelNaam>Amsterdam Zuid</MiddelNaam>
     <LangeNaam>Amsterdam Zuid</LangeNaam>
     <TaalCode>nl</TaalCode>
@@ -791,7 +799,7 @@
   <StationInput>
     <StationCode>BZL</StationCode>
     <Type>0</Type>
-    <KorteNaam>Kapelle-B</KorteNaam>
+    <KorteNaam>Kapelle-Bi</KorteNaam>
     <MiddelNaam>Kapelle-Biezel.</MiddelNaam>
     <LangeNaam>Kapelle-Biezelinge</LangeNaam>
     <TaalCode>nl</TaalCode>
@@ -1096,7 +1104,7 @@
   <StationInput>
     <StationCode>DVD</StationCode>
     <Type>1</Type>
-    <KorteNaam>Duivendt</KorteNaam>
+    <KorteNaam>Duivendrt</KorteNaam>
     <MiddelNaam>Duivendrecht</MiddelNaam>
     <LangeNaam>Duivendrecht</LangeNaam>
     <InstapTip>
@@ -1637,7 +1645,7 @@
   <StationInput>
     <StationCode>GDM</StationCode>
     <Type>1</Type>
-    <KorteNaam>G'malsen</KorteNaam>
+    <KorteNaam>Geldermlsn</KorteNaam>
     <MiddelNaam>Geldermalsen</MiddelNaam>
     <LangeNaam>Geldermalsen</LangeNaam>
     <TaalCode>nl</TaalCode>
@@ -1716,7 +1724,7 @@
   <StationInput>
     <StationCode>GNN</StationCode>
     <Type>0</Type>
-    <KorteNaam>Groning N</KorteNaam>
+    <KorteNaam>Groningn N</KorteNaam>
     <MiddelNaam>Groningen Noord</MiddelNaam>
     <LangeNaam>Groningen Noord</LangeNaam>
     <TaalCode>nl</TaalCode>
@@ -2224,7 +2232,7 @@
   <StationInput>
     <StationCode>HRY</StationCode>
     <Type>7</Type>
-    <KorteNaam>H'veen IJs</KorteNaam>
+    <KorteNaam>IJsstadion</KorteNaam>
     <MiddelNaam>IJsstadion</MiddelNaam>
     <LangeNaam>Heerenveen IJsstadion</LangeNaam>
     <TaalCode>nl</TaalCode>
@@ -2254,7 +2262,7 @@
   <StationInput>
     <StationCode>HTO</StationCode>
     <Type>0</Type>
-    <KorteNaam>H'bosch O</KorteNaam>
+    <KorteNaam>Dn Bosch O</KorteNaam>
     <MiddelNaam>Hertogenbosch O.</MiddelNaam>
     <LangeNaam>'s-Hertogenbosch Oost</LangeNaam>
     <TaalCode>nl</TaalCode>
@@ -2485,7 +2493,7 @@
   <StationInput>
     <StationCode>KRD</StationCode>
     <Type>1</Type>
-    <KorteNaam>Kerkrade</KorteNaam>
+    <KorteNaam>Kerkrade C</KorteNaam>
     <MiddelNaam>Kerkrade C.</MiddelNaam>
     <LangeNaam>Kerkrade Centrum</LangeNaam>
     <TaalCode>nl</TaalCode>
@@ -2659,7 +2667,7 @@
   <StationInput>
     <StationCode>LLS</StationCode>
     <Type>5</Type>
-    <KorteNaam>Lelystad</KorteNaam>
+    <KorteNaam>Lelystad C</KorteNaam>
     <MiddelNaam>Lelystad C.</MiddelNaam>
     <LangeNaam>Lelystad Centrum</LangeNaam>
     <TaalCode>nl</TaalCode>
@@ -2933,7 +2941,7 @@
   <StationInput>
     <StationCode>MTH</StationCode>
     <Type>0</Type>
-    <KorteNaam>Martensh</KorteNaam>
+    <KorteNaam>Martenshk</KorteNaam>
     <MiddelNaam>Martenshoek</MiddelNaam>
     <LangeNaam>Martenshoek</LangeNaam>
     <TaalCode>nl</TaalCode>
@@ -2985,7 +2993,7 @@
   <StationInput>
     <StationCode>NDB</StationCode>
     <Type>1</Type>
-    <KorteNaam>Naarden-B</KorteNaam>
+    <KorteNaam>Naarden-Bu</KorteNaam>
     <MiddelNaam>Naarden-Bussum</MiddelNaam>
     <LangeNaam>Naarden-Bussum</LangeNaam>
     <TaalCode>nl</TaalCode>
@@ -3293,7 +3301,7 @@
   <StationInput>
     <StationCode>RAI</StationCode>
     <Type>0</Type>
-    <KorteNaam>A'dam RAI</KorteNaam>
+    <KorteNaam>RAI</KorteNaam>
     <MiddelNaam>Amsterdam RAI</MiddelNaam>
     <LangeNaam>Amsterdam RAI</LangeNaam>
     <TaalCode>nl</TaalCode>
@@ -3311,7 +3319,7 @@
   <StationInput>
     <StationCode>RB</StationCode>
     <Type>0</Type>
-    <KorteNaam>Rilland-B</KorteNaam>
+    <KorteNaam>Rilland-Ba</KorteNaam>
     <MiddelNaam>Rilland-Bath</MiddelNaam>
     <LangeNaam>Rilland-Bath</LangeNaam>
     <TaalCode>nl</TaalCode>
@@ -3328,7 +3336,7 @@
   <StationInput>
     <StationCode>RD</StationCode>
     <Type>0</Type>
-    <KorteNaam>Roodesch</KorteNaam>
+    <KorteNaam>Roodeschl</KorteNaam>
     <MiddelNaam>Roodeschool</MiddelNaam>
     <LangeNaam>Roodeschool</LangeNaam>
     <TaalCode>nl</TaalCode>
@@ -3460,7 +3468,7 @@
   <StationInput>
     <StationCode>RTD</StationCode>
     <Type>6</Type>
-    <KorteNaam>R'dam C</KorteNaam>
+    <KorteNaam>Rotterdam</KorteNaam>
     <MiddelNaam>Rotterdam C.</MiddelNaam>
     <LangeNaam>Rotterdam Centraal</LangeNaam>
     <InstapTip>
@@ -3475,7 +3483,7 @@
   <StationInput>
     <StationCode>RTN</StationCode>
     <Type>0</Type>
-    <KorteNaam>R'dam N</KorteNaam>
+    <KorteNaam>Rotterdm N</KorteNaam>
     <MiddelNaam>Rotterdam Noord</MiddelNaam>
     <LangeNaam>Rotterdam Noord</LangeNaam>
     <TaalCode>nl</TaalCode>
@@ -3493,7 +3501,7 @@
   <StationInput>
     <StationCode>RTZ</StationCode>
     <Type>0</Type>
-    <KorteNaam>R'dam Z</KorteNaam>
+    <KorteNaam>Rotterdm Z</KorteNaam>
     <MiddelNaam>Rotterdam Zuid</MiddelNaam>
     <LangeNaam>Rotterdam Zuid</LangeNaam>
     <TaalCode>nl</TaalCode>
@@ -4157,7 +4165,7 @@
   <StationInput>
     <StationCode>WAD</StationCode>
     <Type>0</Type>
-    <KorteNaam>Waddinxv</KorteNaam>
+    <KorteNaam>Waddinxvn</KorteNaam>
     <MiddelNaam>Waddinxveen</MiddelNaam>
     <LangeNaam>Waddinxveen</LangeNaam>
     <TaalCode>nl</TaalCode>
@@ -4377,7 +4385,7 @@
   <StationInput>
     <StationCode>ZA</StationCode>
     <Type>0</Type>
-    <KorteNaam>Zetten-A</KorteNaam>
+    <KorteNaam>Zetten-And</KorteNaam>
     <MiddelNaam>Zetten-Andelst</MiddelNaam>
     <LangeNaam>Zetten-Andelst</LangeNaam>
     <TaalCode>nl</TaalCode>
@@ -4467,7 +4475,7 @@
   <StationInput>
     <StationCode>ZTMO</StationCode>
     <Type>0</Type>
-    <KorteNaam>Z'meer O</KorteNaam>
+    <KorteNaam>Zoetermr O</KorteNaam>
     <MiddelNaam>Zoetermeer Oost</MiddelNaam>
     <LangeNaam>Zoetermeer Oost</LangeNaam>
     <TaalCode>nl</TaalCode>
@@ -4530,8 +4538,8 @@
   <StationInput>
     <StationCode>HTNC</StationCode>
     <Type>0</Type>
-    <KorteNaam>Houten C</KorteNaam>
-    <MiddelNaam>Castellum</MiddelNaam>
+    <KorteNaam>Houten Cas</KorteNaam>
+    <MiddelNaam>Houten Castellum</MiddelNaam>
     <LangeNaam>Houten Castellum</LangeNaam>
     <TaalCode>nl</TaalCode>
     <UICCode>8400335</UICCode>
@@ -4611,7 +4619,7 @@
   <StationInput>
     <StationCode>TBU</StationCode>
     <Type>0</Type>
-    <KorteNaam>Tilburg U</KorteNaam>
+    <KorteNaam>Tilburg Un</KorteNaam>
     <MiddelNaam>Tilburg Univers.</MiddelNaam>
     <LangeNaam>Tilburg Universiteit</LangeNaam>
     <TaalCode>nl</TaalCode>
@@ -4800,7 +4808,7 @@
   <StationInput>
     <StationCode>BHDV</StationCode>
     <Type>0</Type>
-    <KorteNaam>Boven-H.</KorteNaam>
+    <KorteNaam>Boven-Har</KorteNaam>
     <MiddelNaam>Boven-Hardinxv.</MiddelNaam>
     <LangeNaam>Boven-Hardinxveld</LangeNaam>
     <TaalCode>nl</TaalCode>
@@ -4881,7 +4889,7 @@
   <StationInput>
     <StationCode>HBZM</StationCode>
     <Type>0</Type>
-    <KorteNaam>Blauwe Z</KorteNaam>
+    <KorteNaam>Blauwe Zm</KorteNaam>
     <MiddelNaam>Blauwe Zoom</MiddelNaam>
     <LangeNaam>Hardinxveld Blauwe Zoom</LangeNaam>
     <TaalCode>nl</TaalCode>
@@ -4926,7 +4934,7 @@
   <StationInput>
     <StationCode>AMPO</StationCode>
     <Type>0</Type>
-    <KorteNaam>Almere P</KorteNaam>
+    <KorteNaam>Almere Prt</KorteNaam>
     <MiddelNaam>Almere Poort</MiddelNaam>
     <LangeNaam>Almere Poort</LangeNaam>
     <TaalCode>nl</TaalCode>
@@ -4953,7 +4961,7 @@
   <StationInput>
     <StationCode>HGLG</StationCode>
     <Type>0</Type>
-    <KorteNaam>Hengelo G</KorteNaam>
+    <KorteNaam>Gezondhprk</KorteNaam>
     <MiddelNaam>Hengelo Gezondh.</MiddelNaam>
     <LangeNaam>Hengelo Gezondheidspark</LangeNaam>
     <TaalCode>nl</TaalCode>
@@ -5070,7 +5078,7 @@
   <StationInput>
     <StationCode>UTLR</StationCode>
     <Type>0</Type>
-    <KorteNaam>Leidsche R</KorteNaam>
+    <KorteNaam>LeidscheRn</KorteNaam>
     <MiddelNaam>Leidsche Rijn</MiddelNaam>
     <LangeNaam>Utrecht Leidsche Rijn</LangeNaam>
     <TaalCode>nl</TaalCode>
