@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:stn:v1 Stam_STN_v4.13.xsd" IngangsMoment="2016-03-16T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:stn:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2016-04-14T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StationInput>
     <StationCode>AC</StationCode>
     <Type>0</Type>
@@ -24,6 +24,7 @@
     <KorteNaam>Aachen</KorteNaam>
     <MiddelNaam>Aachen Hbf</MiddelNaam>
     <LangeNaam>Aachen Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8015345</UICCode>
   </StationInput>
   <StationInput>
@@ -59,6 +60,7 @@
     <KorteNaam>Aime-la-Pl</KorteNaam>
     <MiddelNaam>Aime-la-Plagne</MiddelNaam>
     <LangeNaam>Aime-la-Plagne</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8774176</UICCode>
   </StationInput>
   <StationInput>
@@ -67,6 +69,7 @@
     <KorteNaam>Aix-en-Pro</KorteNaam>
     <MiddelNaam>Aix-en-Provence</MiddelNaam>
     <LangeNaam>Aix-en-Provence</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8731901</UICCode>
   </StationInput>
   <StationInput>
@@ -93,6 +96,7 @@
     <KorteNaam>Albertv.</KorteNaam>
     <MiddelNaam>Albertville</MiddelNaam>
     <LangeNaam>Albertville</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8774164</UICCode>
   </StationInput>
   <StationInput>
@@ -215,6 +219,7 @@
     <KorteNaam>Antw-dok</KorteNaam>
     <MiddelNaam>Antw-N'dokken</MiddelNaam>
     <LangeNaam>Antwerpen-Noorderdokken</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8821089</UICCode>
   </StationInput>
   <StationInput>
@@ -379,6 +384,7 @@
     <KorteNaam>Antwerpen</KorteNaam>
     <MiddelNaam>Antwerpen-C.</MiddelNaam>
     <LangeNaam>Antwerpen-Centraal</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8821006</UICCode>
   </StationInput>
   <StationInput>
@@ -387,6 +393,7 @@
     <KorteNaam>Antw-Bal</KorteNaam>
     <MiddelNaam>Antw-Luchtbal</MiddelNaam>
     <LangeNaam>Antwerpen-Luchtbal</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8821063</UICCode>
   </StationInput>
   <StationInput>
@@ -404,6 +411,7 @@
     <KorteNaam>Avignon</KorteNaam>
     <MiddelNaam>Avignon TGV</MiddelNaam>
     <LangeNaam>Avignon TGV</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8731896</UICCode>
   </StationInput>
   <StationInput>
@@ -412,6 +420,7 @@
     <KorteNaam>Baden</KorteNaam>
     <MiddelNaam>Baden</MiddelNaam>
     <LangeNaam>Baden</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8503504</UICCode>
   </StationInput>
   <StationInput>
@@ -420,6 +429,7 @@
     <KorteNaam>Basel Bad</KorteNaam>
     <MiddelNaam>Basel Bad Bf</MiddelNaam>
     <LangeNaam>Basel Bad Bf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8014431</UICCode>
   </StationInput>
   <StationInput>
@@ -428,6 +438,7 @@
     <KorteNaam>Basel SBB</KorteNaam>
     <MiddelNaam>Basel SBB</MiddelNaam>
     <LangeNaam>Basel SBB</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8500010</UICCode>
   </StationInput>
   <StationInput>
@@ -481,6 +492,7 @@
     <KorteNaam>Antw-Berch</KorteNaam>
     <MiddelNaam>Antw-Berchem</MiddelNaam>
     <LangeNaam>Antwerpen-Berchem</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8821121</UICCode>
   </StationInput>
   <StationInput>
@@ -489,6 +501,7 @@
     <KorteNaam>Berlin Hbf</KorteNaam>
     <MiddelNaam>Berlin Hbf</MiddelNaam>
     <LangeNaam>Berlin Hbf (tief)</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8031922</UICCode>
   </StationInput>
   <StationInput>
@@ -524,6 +537,7 @@
     <KorteNaam>Bentheim</KorteNaam>
     <MiddelNaam>Bad Bentheim</MiddelNaam>
     <LangeNaam>Bad Bentheim</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8021156</UICCode>
   </StationInput>
   <StationInput>
@@ -532,6 +546,7 @@
     <KorteNaam>Berlin Ost</KorteNaam>
     <MiddelNaam>Berlin Ostbhf</MiddelNaam>
     <LangeNaam>Berlin Ostbahnhof</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8003004</UICCode>
   </StationInput>
   <StationInput>
@@ -657,6 +672,7 @@
     <KorteNaam>Bonn Hbf</KorteNaam>
     <MiddelNaam>Bonn Hbf</MiddelNaam>
     <LangeNaam>Bonn Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8015485</UICCode>
   </StationInput>
   <StationInput>
@@ -665,6 +681,7 @@
     <KorteNaam>Bourg-StM</KorteNaam>
     <MiddelNaam>Bourg-St-Maurice</MiddelNaam>
     <LangeNaam>Bourg-St-Maurice</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8774179</UICCode>
   </StationInput>
   <StationInput>
@@ -700,6 +717,7 @@
     <KorteNaam>Bressoux</KorteNaam>
     <MiddelNaam>Bressoux</MiddelNaam>
     <LangeNaam>Bressoux</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8843901</UICCode>
   </StationInput>
   <StationInput>
@@ -717,6 +735,7 @@
     <KorteNaam>Brussel-C</KorteNaam>
     <MiddelNaam>Brussel-C.</MiddelNaam>
     <LangeNaam>Brussel-Centraal</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8813003</UICCode>
   </StationInput>
   <StationInput>
@@ -725,6 +744,7 @@
     <KorteNaam>Brussel-N</KorteNaam>
     <MiddelNaam>Brussel-Noord</MiddelNaam>
     <LangeNaam>Brussel-Noord</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8812005</UICCode>
   </StationInput>
   <StationInput>
@@ -733,6 +753,7 @@
     <KorteNaam>Brussel-Z</KorteNaam>
     <MiddelNaam>Brussel Z./Midi</MiddelNaam>
     <LangeNaam>Brussel-Zuid/Midi</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8814001</UICCode>
   </StationInput>
   <StationInput>
@@ -768,6 +789,7 @@
     <KorteNaam>Berlin-Spa</KorteNaam>
     <MiddelNaam>Berlin-Spandau</MiddelNaam>
     <LangeNaam>Berlin-Spandau</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8003025</UICCode>
   </StationInput>
   <StationInput>
@@ -785,6 +807,7 @@
     <KorteNaam>Bünde (W)</KorteNaam>
     <MiddelNaam>Bünde (Westf)</MiddelNaam>
     <LangeNaam>Bünde (Westf)</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8000059</UICCode>
   </StationInput>
   <StationInput>
@@ -820,6 +843,7 @@
     <KorteNaam>Chambéry</KorteNaam>
     <MiddelNaam>Chambéry</MiddelNaam>
     <LangeNaam>Chambéry</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8774100</UICCode>
   </StationInput>
   <StationInput>
@@ -855,6 +879,7 @@
     <KorteNaam>Como</KorteNaam>
     <MiddelNaam>Como</MiddelNaam>
     <LangeNaam>Como</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8301307</UICCode>
   </StationInput>
   <StationInput>
@@ -1073,6 +1098,7 @@
     <KorteNaam>Duisburg</KorteNaam>
     <MiddelNaam>Duisburg Hbf</MiddelNaam>
     <LangeNaam>Duisburg Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8010316</UICCode>
   </StationInput>
   <StationInput>
@@ -1081,6 +1107,7 @@
     <KorteNaam>Düsseldrf</KorteNaam>
     <MiddelNaam>Düsseldorf Hbf</MiddelNaam>
     <LangeNaam>Düsseldorf Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8008094</UICCode>
   </StationInput>
   <StationInput>
@@ -1155,6 +1182,7 @@
     <KorteNaam>Altenberge</KorteNaam>
     <MiddelNaam>Altenberge</MiddelNaam>
     <LangeNaam>Altenberge</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8021148</UICCode>
   </StationInput>
   <StationInput>
@@ -1163,6 +1191,7 @@
     <KorteNaam>Ahaus</KorteNaam>
     <MiddelNaam>Ahaus</MiddelNaam>
     <LangeNaam>Ahaus</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8021123</UICCode>
   </StationInput>
   <StationInput>
@@ -1171,6 +1200,7 @@
     <KorteNaam>Bönen</KorteNaam>
     <MiddelNaam>Bönen</MiddelNaam>
     <LangeNaam>Bönen</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8010385</UICCode>
   </StationInput>
   <StationInput>
@@ -1179,6 +1209,7 @@
     <KorteNaam>Steinf-Bur</KorteNaam>
     <MiddelNaam>Steinfurt-Burgst</MiddelNaam>
     <LangeNaam>Steinfurt-Burgsteinfurt</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8021143</UICCode>
   </StationInput>
   <StationInput>
@@ -1187,6 +1218,7 @@
     <KorteNaam>Steinf-Bor</KorteNaam>
     <MiddelNaam>Steinfurt-Borgh</MiddelNaam>
     <LangeNaam>Steinfurt-Borghorst</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8021150</UICCode>
   </StationInput>
   <StationInput>
@@ -1195,6 +1227,7 @@
     <KorteNaam>Bork</KorteNaam>
     <MiddelNaam>Bork</MiddelNaam>
     <LangeNaam>Bork</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8021111</UICCode>
   </StationInput>
   <StationInput>
@@ -1212,6 +1245,7 @@
     <KorteNaam>Coesfeld</KorteNaam>
     <MiddelNaam>Coesfeld (Westf)</MiddelNaam>
     <LangeNaam>Coesfeld (Westf)</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8021119</UICCode>
   </StationInput>
   <StationInput>
@@ -1238,6 +1272,7 @@
     <KorteNaam>Dortmund D</KorteNaam>
     <MiddelNaam>Dortmund Derne</MiddelNaam>
     <LangeNaam>Dortmund Derne</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8010101</UICCode>
   </StationInput>
   <StationInput>
@@ -1246,6 +1281,7 @@
     <KorteNaam>Dortmund K</KorteNaam>
     <MiddelNaam>Dortmund Kirchd.</MiddelNaam>
     <LangeNaam>Dortmund Kirchderne</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8010102</UICCode>
   </StationInput>
   <StationInput>
@@ -1263,6 +1299,7 @@
     <KorteNaam>Dortmund</KorteNaam>
     <MiddelNaam>Dortmund Hbf</MiddelNaam>
     <LangeNaam>Dortmund Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8010053</UICCode>
   </StationInput>
   <StationInput>
@@ -1271,6 +1308,7 @@
     <KorteNaam>Dülmen</KorteNaam>
     <MiddelNaam>Dülmen</MiddelNaam>
     <LangeNaam>Dülmen</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8021005</UICCode>
   </StationInput>
   <StationInput>
@@ -1279,6 +1317,7 @@
     <KorteNaam>Ennepetal</KorteNaam>
     <MiddelNaam>Ennepetal</MiddelNaam>
     <LangeNaam>Ennepetal (Gevelsberg)</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8008134</UICCode>
   </StationInput>
   <StationInput>
@@ -1287,6 +1326,7 @@
     <KorteNaam>Epe (West)</KorteNaam>
     <MiddelNaam>Epe (Westf)</MiddelNaam>
     <LangeNaam>Epe (Westf)</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8021126</UICCode>
   </StationInput>
   <StationInput>
@@ -1313,6 +1353,7 @@
     <KorteNaam>Steinf-Gr</KorteNaam>
     <MiddelNaam>Steinfurt-Grotte</MiddelNaam>
     <LangeNaam>Steinfurt-Grottenkamp</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8071069</UICCode>
   </StationInput>
   <StationInput>
@@ -1330,6 +1371,7 @@
     <KorteNaam>Rosend-H</KorteNaam>
     <MiddelNaam>Rosendahl-Holtw.</MiddelNaam>
     <LangeNaam>Rosendahl-Holtwick</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8021121</UICCode>
   </StationInput>
   <StationInput>
@@ -1338,6 +1380,7 @@
     <KorteNaam>H'wickede</KorteNaam>
     <MiddelNaam>Holzwickede</MiddelNaam>
     <LangeNaam>Holzwickede</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8010384</UICCode>
   </StationInput>
   <StationInput>
@@ -1355,6 +1398,7 @@
     <KorteNaam>Lü'hausen</KorteNaam>
     <MiddelNaam>Lüdinghausen</MiddelNaam>
     <LangeNaam>Lüdinghausen</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8021113</UICCode>
   </StationInput>
   <StationInput>
@@ -1363,6 +1407,7 @@
     <KorteNaam>Lette</KorteNaam>
     <MiddelNaam>Lette (Kr Coers)</MiddelNaam>
     <LangeNaam>Lette (Kr Coersfeld)</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8021117</UICCode>
   </StationInput>
   <StationInput>
@@ -1371,6 +1416,7 @@
     <KorteNaam>Legden</KorteNaam>
     <MiddelNaam>Legden</MiddelNaam>
     <LangeNaam>Legden</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8021122</UICCode>
   </StationInput>
   <StationInput>
@@ -1379,6 +1425,7 @@
     <KorteNaam>Lünen Hbf</KorteNaam>
     <MiddelNaam>Lünen Hbf</MiddelNaam>
     <LangeNaam>Lünen Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8010098</UICCode>
   </StationInput>
   <StationInput>
@@ -1387,6 +1434,7 @@
     <KorteNaam>Emmerich</KorteNaam>
     <MiddelNaam>Emmerich</MiddelNaam>
     <LangeNaam>Emmerich</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8010288</UICCode>
   </StationInput>
   <StationInput>
@@ -1422,6 +1470,7 @@
     <KorteNaam>Metelen L.</KorteNaam>
     <MiddelNaam>Metelen Land</MiddelNaam>
     <LangeNaam>Metelen Land</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8021151</UICCode>
   </StationInput>
   <StationInput>
@@ -1430,6 +1479,7 @@
     <KorteNaam>Münster N</KorteNaam>
     <MiddelNaam>Münster Nord</MiddelNaam>
     <LangeNaam>Münster Zentrum Nord</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8023783</UICCode>
   </StationInput>
   <StationInput>
@@ -1438,6 +1488,7 @@
     <KorteNaam>Nordwalde</KorteNaam>
     <MiddelNaam>Nordwalde</MiddelNaam>
     <LangeNaam>Nordwalde</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8021149</UICCode>
   </StationInput>
   <StationInput>
@@ -1446,6 +1497,7 @@
     <KorteNaam>Ochtrup</KorteNaam>
     <MiddelNaam>Ochtrup</MiddelNaam>
     <LangeNaam>Ochtrup</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8021152</UICCode>
   </StationInput>
   <StationInput>
@@ -1454,6 +1506,7 @@
     <KorteNaam>Preussen</KorteNaam>
     <MiddelNaam>Preussen</MiddelNaam>
     <LangeNaam>Preussen</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8010100</UICCode>
   </StationInput>
   <StationInput>
@@ -1480,6 +1533,7 @@
     <KorteNaam>Selm-B</KorteNaam>
     <MiddelNaam>Selm-Beifang</MiddelNaam>
     <LangeNaam>Selm-Beifang</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8021120</UICCode>
   </StationInput>
   <StationInput>
@@ -1488,6 +1542,7 @@
     <KorteNaam>Selm</KorteNaam>
     <MiddelNaam>Selm</MiddelNaam>
     <LangeNaam>Selm</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8021112</UICCode>
   </StationInput>
   <StationInput>
@@ -1496,6 +1551,7 @@
     <KorteNaam>Essen (B)</KorteNaam>
     <MiddelNaam>Essen (Belgie)</MiddelNaam>
     <LangeNaam>Essen (Belgie)</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8821402</UICCode>
   </StationInput>
   <StationInput>
@@ -1504,6 +1560,7 @@
     <KorteNaam>Schwerte</KorteNaam>
     <MiddelNaam>Schwerte (R)</MiddelNaam>
     <LangeNaam>Schwerte (Ruhr)</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8008016</UICCode>
   </StationInput>
   <StationInput>
@@ -1530,6 +1587,7 @@
     <KorteNaam>Unna</KorteNaam>
     <MiddelNaam>Unna</MiddelNaam>
     <LangeNaam>Unna</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8010382</UICCode>
   </StationInput>
   <StationInput>
@@ -1538,6 +1596,7 @@
     <KorteNaam>Frankfurt</KorteNaam>
     <MiddelNaam>Frankfurt Hbf</MiddelNaam>
     <LangeNaam>Frankfurt (M) Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8011068</UICCode>
   </StationInput>
   <StationInput>
@@ -1546,6 +1605,7 @@
     <KorteNaam>Kalmthout</KorteNaam>
     <MiddelNaam>Kalmthout</MiddelNaam>
     <LangeNaam>Kalmthout</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8821444</UICCode>
   </StationInput>
   <StationInput>
@@ -1554,6 +1614,7 @@
     <KorteNaam>Limburg S</KorteNaam>
     <MiddelNaam>Limburg Süd</MiddelNaam>
     <LangeNaam>Limburg Süd</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8032572</UICCode>
   </StationInput>
   <StationInput>
@@ -1562,6 +1623,7 @@
     <KorteNaam>Mainz Hbf</KorteNaam>
     <MiddelNaam>Mainz Hbf</MiddelNaam>
     <LangeNaam>Mainz Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8019051</UICCode>
   </StationInput>
   <StationInput>
@@ -1579,6 +1641,7 @@
     <KorteNaam>FrankfurtF</KorteNaam>
     <MiddelNaam>Frankfurt Flugh.</MiddelNaam>
     <LangeNaam>Frankfurt Flughafen Fernb</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8011090</UICCode>
   </StationInput>
   <StationInput>
@@ -1587,6 +1650,7 @@
     <KorteNaam>Visé</KorteNaam>
     <MiddelNaam>Visé</MiddelNaam>
     <LangeNaam>Visé</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8846201</UICCode>
   </StationInput>
   <StationInput>
@@ -1595,6 +1659,7 @@
     <KorteNaam>Gronau</KorteNaam>
     <MiddelNaam>Gronau (Westf.)</MiddelNaam>
     <LangeNaam>Gronau (Westf.)</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8021128</UICCode>
   </StationInput>
   <StationInput>
@@ -1666,6 +1731,7 @@
     <KorteNaam>Geislingen</KorteNaam>
     <MiddelNaam>Geislingen</MiddelNaam>
     <LangeNaam>Geislingen</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8029086</UICCode>
   </StationInput>
   <StationInput>
@@ -1692,6 +1758,7 @@
     <KorteNaam>Kijkuit</KorteNaam>
     <MiddelNaam>Kijkuit</MiddelNaam>
     <LangeNaam>Kijkuit</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8821451</UICCode>
   </StationInput>
   <StationInput>
@@ -1826,6 +1893,7 @@
     <KorteNaam>Wildert</KorteNaam>
     <MiddelNaam>Wildert</MiddelNaam>
     <LangeNaam>Wildert</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8821436</UICCode>
   </StationInput>
   <StationInput>
@@ -1852,6 +1920,7 @@
     <KorteNaam>Hagen</KorteNaam>
     <MiddelNaam>Hagen Hbf</MiddelNaam>
     <LangeNaam>Hagen Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8008073</UICCode>
   </StationInput>
   <StationInput>
@@ -1860,6 +1929,7 @@
     <KorteNaam>Hamburg H</KorteNaam>
     <MiddelNaam>Hamburg Hbf</MiddelNaam>
     <LangeNaam>Hamburg Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8001071</UICCode>
   </StationInput>
   <StationInput>
@@ -1868,6 +1938,7 @@
     <KorteNaam>Hamm</KorteNaam>
     <MiddelNaam>Hamm (Westf.)</MiddelNaam>
     <LangeNaam>Hamm (Westf.)</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8010002</UICCode>
   </StationInput>
   <StationInput>
@@ -1876,6 +1947,7 @@
     <KorteNaam>Hannover H</KorteNaam>
     <MiddelNaam>Hannover Hbf</MiddelNaam>
     <LangeNaam>Hannover Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8013552</UICCode>
   </StationInput>
   <StationInput>
@@ -2310,6 +2382,7 @@
     <KorteNaam>Wolfsburg</KorteNaam>
     <MiddelNaam>Wolfsburg</MiddelNaam>
     <LangeNaam>Wolfsburg</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8013017</UICCode>
   </StationInput>
   <StationInput>
@@ -2318,6 +2391,7 @@
     <KorteNaam>Herzogenr</KorteNaam>
     <MiddelNaam>Herzogenrath</MiddelNaam>
     <LangeNaam>Herzogenrath</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8015190</UICCode>
   </StationInput>
   <StationInput>
@@ -2344,6 +2418,7 @@
     <KorteNaam>Innsbruck</KorteNaam>
     <MiddelNaam>Innsbruck Hbf</MiddelNaam>
     <LangeNaam>Innsbruck Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8101187</UICCode>
   </StationInput>
   <StationInput>
@@ -2352,6 +2427,7 @@
     <KorteNaam>Karlsruhe</KorteNaam>
     <MiddelNaam>Karlsruhe Hbf</MiddelNaam>
     <LangeNaam>Karlsruhe Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8014231</UICCode>
   </StationInput>
   <StationInput>
@@ -2378,6 +2454,7 @@
     <KorteNaam>Boisheim</KorteNaam>
     <MiddelNaam>Boisheim</MiddelNaam>
     <LangeNaam>Boisheim</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8015128</UICCode>
   </StationInput>
   <StationInput>
@@ -2386,6 +2463,7 @@
     <KorteNaam>Breyell</KorteNaam>
     <MiddelNaam>Breyell</MiddelNaam>
     <LangeNaam>Breyell</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8015129</UICCode>
   </StationInput>
   <StationInput>
@@ -2403,6 +2481,7 @@
     <KorteNaam>Dülken</KorteNaam>
     <MiddelNaam>Dülken</MiddelNaam>
     <LangeNaam>Dülken</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8015125</UICCode>
   </StationInput>
   <StationInput>
@@ -2411,6 +2490,7 @@
     <KorteNaam>Köln-Deutz</KorteNaam>
     <MiddelNaam>Köln-Deutz</MiddelNaam>
     <LangeNaam>Köln-Deutz</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8015559</UICCode>
   </StationInput>
   <StationInput>
@@ -2419,6 +2499,7 @@
     <KorteNaam>Koblenz</KorteNaam>
     <MiddelNaam>Koblenz Hbf</MiddelNaam>
     <LangeNaam>Koblenz Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8019022</UICCode>
   </StationInput>
   <StationInput>
@@ -2445,6 +2526,7 @@
     <KorteNaam>Montabaur</KorteNaam>
     <MiddelNaam>Montabaur</MiddelNaam>
     <LangeNaam>Montabaur</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8019585</UICCode>
   </StationInput>
   <StationInput>
@@ -2471,6 +2553,7 @@
     <KorteNaam>Kaldenkir</KorteNaam>
     <MiddelNaam>Kaldenkirchen</MiddelNaam>
     <LangeNaam>Kaldenkirchen</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8015131</UICCode>
   </StationInput>
   <StationInput>
@@ -2479,6 +2562,7 @@
     <KorteNaam>Köln Hbf</KorteNaam>
     <MiddelNaam>Köln Hbf</MiddelNaam>
     <LangeNaam>Köln Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8015458</UICCode>
   </StationInput>
   <StationInput>
@@ -2514,6 +2598,7 @@
     <KorteNaam>Siegburg</KorteNaam>
     <MiddelNaam>Siegburg/Bonn</MiddelNaam>
     <LangeNaam>Siegburg/Bonn</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8015588</UICCode>
   </StationInput>
   <StationInput>
@@ -2522,6 +2607,7 @@
     <KorteNaam>Schwelm</KorteNaam>
     <MiddelNaam>Schwelm</MiddelNaam>
     <LangeNaam>Schwelm</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8008136</UICCode>
   </StationInput>
   <StationInput>
@@ -2539,6 +2625,7 @@
     <KorteNaam>Kufstein</KorteNaam>
     <MiddelNaam>Kufstein</MiddelNaam>
     <LangeNaam>Kufstein</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8102184</UICCode>
   </StationInput>
   <StationInput>
@@ -2556,6 +2643,7 @@
     <KorteNaam>Wup'tal B</KorteNaam>
     <MiddelNaam>Wuppertal B</MiddelNaam>
     <LangeNaam>Wuppertal Barmen</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8008142</UICCode>
   </StationInput>
   <StationInput>
@@ -2564,6 +2652,7 @@
     <KorteNaam>Wup'tal O</KorteNaam>
     <MiddelNaam>Wuppertal O</MiddelNaam>
     <LangeNaam>Wuppertal Oberbarmen</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8008138</UICCode>
   </StationInput>
   <StationInput>
@@ -2590,6 +2679,7 @@
     <KorteNaam>Landry</KorteNaam>
     <MiddelNaam>Landry</MiddelNaam>
     <LangeNaam>Landry</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8774177</UICCode>
   </StationInput>
   <StationInput>
@@ -2637,6 +2727,7 @@
     <KorteNaam>Leer</KorteNaam>
     <MiddelNaam>Leer (Ostfr.)</MiddelNaam>
     <LangeNaam>Leer (Ostfriesland)</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8021091</UICCode>
   </StationInput>
   <StationInput>
@@ -2645,6 +2736,7 @@
     <KorteNaam>Leuven</KorteNaam>
     <MiddelNaam>Leuven</MiddelNaam>
     <LangeNaam>Leuven</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8833100</UICCode>
   </StationInput>
   <StationInput>
@@ -2662,6 +2754,7 @@
     <KorteNaam>Kapellen</KorteNaam>
     <MiddelNaam>Kapellen</MiddelNaam>
     <LangeNaam>Kapellen</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8821535</UICCode>
   </StationInput>
   <StationInput>
@@ -2688,6 +2781,7 @@
     <KorteNaam>Rathenow</KorteNaam>
     <MiddelNaam>Rathenow</MiddelNaam>
     <LangeNaam>Rathenow</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8024069</UICCode>
   </StationInput>
   <StationInput>
@@ -2696,6 +2790,7 @@
     <KorteNaam>Stendal</KorteNaam>
     <MiddelNaam>Stendal</MiddelNaam>
     <LangeNaam>Stendal</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8024062</UICCode>
   </StationInput>
   <StationInput>
@@ -2722,6 +2817,7 @@
     <KorteNaam>Liège-G.</KorteNaam>
     <MiddelNaam>Liège-Guillemins</MiddelNaam>
     <LangeNaam>Liège-Guillemins</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8841004</UICCode>
   </StationInput>
   <StationInput>
@@ -2757,6 +2853,7 @@
     <KorteNaam>Augsburg</KorteNaam>
     <MiddelNaam>Augsburg Hbf</MiddelNaam>
     <LangeNaam>Augsburg Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8002071</UICCode>
   </StationInput>
   <StationInput>
@@ -2765,6 +2862,7 @@
     <KorteNaam>Mannheim</KorteNaam>
     <MiddelNaam>Mannheim Hbf</MiddelNaam>
     <LangeNaam>Mannheim Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8014008</UICCode>
   </StationInput>
   <StationInput>
@@ -2773,6 +2871,7 @@
     <KorteNaam>St-Mariab</KorteNaam>
     <MiddelNaam>St-Mariaburg</MiddelNaam>
     <LangeNaam>St-Mariaburg</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8821543</UICCode>
   </StationInput>
   <StationInput>
@@ -2781,6 +2880,7 @@
     <KorteNaam>Marne-la-V</KorteNaam>
     <MiddelNaam>Marne-la-Vallée</MiddelNaam>
     <LangeNaam>Marne-la-Vallée-Chessy</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8738264</UICCode>
   </StationInput>
   <StationInput>
@@ -2789,6 +2889,7 @@
     <KorteNaam>Marseille</KorteNaam>
     <MiddelNaam>Marseille-St-C</MiddelNaam>
     <LangeNaam>Marseille-St-Charles</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8775100</UICCode>
   </StationInput>
   <StationInput>
@@ -2806,6 +2907,7 @@
     <KorteNaam>Mönchengl</KorteNaam>
     <MiddelNaam>Mönchengladbach</MiddelNaam>
     <LangeNaam>Mönchengladbach Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8015165</UICCode>
   </StationInput>
   <StationInput>
@@ -2823,6 +2925,7 @@
     <KorteNaam>Mechelen</KorteNaam>
     <MiddelNaam>Mechelen</MiddelNaam>
     <LangeNaam>Mechelen</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8822004</UICCode>
   </StationInput>
   <StationInput>
@@ -2849,6 +2952,7 @@
     <KorteNaam>Günzburg</KorteNaam>
     <MiddelNaam>Günzburg</MiddelNaam>
     <LangeNaam>Günzburg</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8002084</UICCode>
   </StationInput>
   <StationInput>
@@ -2857,6 +2961,7 @@
     <KorteNaam>Heide</KorteNaam>
     <MiddelNaam>Heide</MiddelNaam>
     <LangeNaam>Heide</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8821519</UICCode>
   </StationInput>
   <StationInput>
@@ -2865,6 +2970,7 @@
     <KorteNaam>Minden</KorteNaam>
     <MiddelNaam>Minden (Westf.)</MiddelNaam>
     <LangeNaam>Minden (Westf.)</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8013578</UICCode>
   </StationInput>
   <StationInput>
@@ -2882,6 +2988,7 @@
     <KorteNaam>Moutiers-S</KorteNaam>
     <MiddelNaam>Moutiers-Salins</MiddelNaam>
     <LangeNaam>Moutiers-Salins-Brides</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8774172</UICCode>
   </StationInput>
   <StationInput>
@@ -2962,6 +3069,7 @@
     <KorteNaam>München</KorteNaam>
     <MiddelNaam>München Hbf</MiddelNaam>
     <LangeNaam>München Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8020347</UICCode>
   </StationInput>
   <StationInput>
@@ -2970,6 +3078,7 @@
     <KorteNaam>Münster</KorteNaam>
     <MiddelNaam>Münster (Westf.)</MiddelNaam>
     <LangeNaam>Münster (Westf.) Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8021011</UICCode>
   </StationInput>
   <StationInput>
@@ -3005,6 +3114,7 @@
     <KorteNaam>N.kempen</KorteNaam>
     <MiddelNaam>Noorderkempen</MiddelNaam>
     <LangeNaam>Noorderkempen</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8821105</UICCode>
   </StationInput>
   <StationInput>
@@ -3013,6 +3123,7 @@
     <KorteNaam>Neuss</KorteNaam>
     <MiddelNaam>Neuss Hbf</MiddelNaam>
     <LangeNaam>Neuss Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8015149</UICCode>
   </StationInput>
   <StationInput>
@@ -3075,6 +3186,7 @@
     <KorteNaam>Nürnberg</KorteNaam>
     <MiddelNaam>Nürnberg Hbf</MiddelNaam>
     <LangeNaam>Nürnberg Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8022194</UICCode>
   </StationInput>
   <StationInput>
@@ -3155,6 +3267,7 @@
     <KorteNaam>Oberhausen</KorteNaam>
     <MiddelNaam>Oberhausen Hbf</MiddelNaam>
     <LangeNaam>Oberhausen Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8010263</UICCode>
   </StationInput>
   <StationInput>
@@ -3181,6 +3294,7 @@
     <KorteNaam>Bad Oeynh</KorteNaam>
     <MiddelNaam>Bad Oeynhausen</MiddelNaam>
     <LangeNaam>Bad Oeynhausen</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8013585</UICCode>
   </StationInput>
   <StationInput>
@@ -3207,6 +3321,7 @@
     <KorteNaam>Osnabrück</KorteNaam>
     <MiddelNaam>Osnabrück Hbf</MiddelNaam>
     <LangeNaam>Osnabrück Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8021025</UICCode>
   </StationInput>
   <StationInput>
@@ -3260,6 +3375,7 @@
     <KorteNaam>Paris-Nord</KorteNaam>
     <MiddelNaam>Paris-Nord</MiddelNaam>
     <LangeNaam>Paris-Nord</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8727100</UICCode>
   </StationInput>
   <StationInput>
@@ -3331,6 +3447,7 @@
     <KorteNaam>Baden-B.</KorteNaam>
     <MiddelNaam>Baden-Baden</MiddelNaam>
     <LangeNaam>Baden-Baden</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8014277</UICCode>
   </StationInput>
   <StationInput>
@@ -3348,6 +3465,7 @@
     <KorteNaam>Freiburg</KorteNaam>
     <MiddelNaam>Freiburg (B.)</MiddelNaam>
     <LangeNaam>Freiburg (Breisgau) Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8014350</UICCode>
   </StationInput>
   <StationInput>
@@ -3365,6 +3483,7 @@
     <KorteNaam>Rheine</KorteNaam>
     <MiddelNaam>Rheine</MiddelNaam>
     <LangeNaam>Rheine</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8021067</UICCode>
   </StationInput>
   <StationInput>
@@ -3409,6 +3528,7 @@
     <KorteNaam>Offenburg</KorteNaam>
     <MiddelNaam>Offenburg</MiddelNaam>
     <LangeNaam>Offenburg</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8014309</UICCode>
   </StationInput>
   <StationInput>
@@ -3787,6 +3907,7 @@
     <KorteNaam>Göppingen</KorteNaam>
     <MiddelNaam>Göppingen</MiddelNaam>
     <LangeNaam>Göppingen</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8029066</UICCode>
   </StationInput>
   <StationInput>
@@ -3804,6 +3925,7 @@
     <KorteNaam>Plochingen</KorteNaam>
     <MiddelNaam>Plochingen</MiddelNaam>
     <LangeNaam>Plochingen</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8029060</UICCode>
   </StationInput>
   <StationInput>
@@ -3821,6 +3943,7 @@
     <KorteNaam>Stuttgart</KorteNaam>
     <MiddelNaam>Stuttgart Hbf</MiddelNaam>
     <LangeNaam>Stuttgart Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8029034</UICCode>
   </StationInput>
   <StationInput>
@@ -3829,6 +3952,7 @@
     <KorteNaam>Ulm</KorteNaam>
     <MiddelNaam>Ulm Hbf</MiddelNaam>
     <LangeNaam>Ulm Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8029103</UICCode>
   </StationInput>
   <StationInput>
@@ -3945,6 +4069,7 @@
     <KorteNaam>ValenceTGV</KorteNaam>
     <MiddelNaam>Valence TGV</MiddelNaam>
     <LangeNaam>Valence TGV</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8776302</UICCode>
   </StationInput>
   <StationInput>
@@ -4043,6 +4168,7 @@
     <KorteNaam>Viersen</KorteNaam>
     <MiddelNaam>Viersen</MiddelNaam>
     <LangeNaam>Viersen</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8015122</UICCode>
   </StationInput>
   <StationInput>
@@ -4240,6 +4366,7 @@
     <KorteNaam>Wien Westb</KorteNaam>
     <MiddelNaam>Wien Westbf</MiddelNaam>
     <LangeNaam>Wien Westbahnhof</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8101001</UICCode>
   </StationInput>
   <StationInput>
@@ -4275,6 +4402,7 @@
     <KorteNaam>Wörgl</KorteNaam>
     <MiddelNaam>Wörgl</MiddelNaam>
     <LangeNaam>Wörgl</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8101170</UICCode>
   </StationInput>
   <StationInput>
@@ -4292,6 +4420,7 @@
     <KorteNaam>Weener</KorteNaam>
     <MiddelNaam>Weener</MiddelNaam>
     <LangeNaam>Weener</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8021239</UICCode>
   </StationInput>
   <StationInput>
@@ -4327,6 +4456,7 @@
     <KorteNaam>Wuppertal</KorteNaam>
     <MiddelNaam>Wuppertal Hbf</MiddelNaam>
     <LangeNaam>Wuppertal Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8008140</UICCode>
   </StationInput>
   <StationInput>
@@ -4335,6 +4465,7 @@
     <KorteNaam>Würzburg</KorteNaam>
     <MiddelNaam>Würzburg Hbf</MiddelNaam>
     <LangeNaam>Würzburg Hbf</LangeNaam>
+    <TaalCode>nl</TaalCode>
     <UICCode>8022539</UICCode>
   </StationInput>
   <StationInput>
@@ -5384,9 +5515,9 @@
   <StationInput>
     <StationCode>FBNL</StationCode>
     <Type>6</Type>
-    <KorteNaam>Brus Lucht</KorteNaam>
-    <MiddelNaam>Brussel Luchthvn</MiddelNaam>
-    <LangeNaam>Brussel Nat. Luchthaven</LangeNaam>
+    <KorteNaam>Brus Airpt</KorteNaam>
+    <MiddelNaam>Brussels Airport</MiddelNaam>
+    <LangeNaam>Brussels Airport-Zaventem</LangeNaam>
     <TaalCode>nl</TaalCode>
     <UICCode>8819406</UICCode>
   </StationInput>
@@ -5525,4 +5656,13 @@
     <TaalCode>nl</TaalCode>
     <UICCode>8767133</UICCode>
   </StationInput>
-</StamInput>
+  <StationInput>
+    <StationCode>HBDP</StationCode>
+    <Type>6</Type>
+    <KorteNaam>Budapest</KorteNaam>
+    <MiddelNaam>Budapest</MiddelNaam>
+    <LangeNaam>Budapest</LangeNaam>
+    <TaalCode>nl</TaalCode>
+    <UICCode>5510017</UICCode>
+  </StationInput>
+</HARMInput>
