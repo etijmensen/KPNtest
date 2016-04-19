@@ -1,0 +1,648 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2016-04-27T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door acties van het personeel</OorzaakLang>
+    <OorzaakKort>acties van het personeel</OorzaakKort>
+    <Aanleiding>acties van het personeel</Aanleiding>
+    <AanleidingCode>ACT002</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een beschadigd spoorviaduct</OorzaakLang>
+    <OorzaakKort>beschadigd viaduct</OorzaakKort>
+    <Aanleiding>spoorviaduct - beschadigd</Aanleiding>
+    <AanleidingCode>ARY001</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een aanrijding</OorzaakLang>
+    <OorzaakKort>aanrijding</OorzaakKort>
+    <Aanleiding>aanrijding</Aanleiding>
+    <AanleidingCode>ARY002</AanleidingCode>
+    <IndexWoorden>
+      <IndexWoord>aanrijding bijna/vermoedelijk</IndexWoord>
+    </IndexWoorden>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een aanrijding met een persoon</OorzaakLang>
+    <OorzaakKort>aanrijding met persoon</OorzaakKort>
+    <Aanleiding>aanrijding - persoon</Aanleiding>
+    <AanleidingCode>ARY004</AanleidingCode>
+    <IndexWoorden>
+      <IndexWoord>persoon gevonden - aangereden?</IndexWoord>
+      <IndexWoord>stoffelijk overschot gevonden</IndexWoord>
+    </IndexWoorden>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een beschadigde spoorbrug</OorzaakLang>
+    <OorzaakKort>beschadigde spoorbrug</OorzaakKort>
+    <Aanleiding>spoorbrug - beschadigd</Aanleiding>
+    <AanleidingCode>ASB001</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door het onschadelijk maken van een WO-II bom</OorzaakLang>
+    <OorzaakKort>WO-II bom</OorzaakKort>
+    <Aanleiding>WO-II-bom</Aanleiding>
+    <AanleidingCode>BOM003</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>op last van de brandweer</OorzaakLang>
+    <OorzaakKort>op last van de brandweer</OorzaakKort>
+    <Aanleiding>brandweer</Aanleiding>
+    <AanleidingCode>BRA009</AanleidingCode>
+    <IndexWoorden>
+      <IndexWoord>gaslek</IndexWoord>
+      <IndexWoord>brand naast het spoor</IndexWoord>
+      <IndexWoord>def. brandmelder tunnel/statio</IndexWoord>
+      <IndexWoord>brand algemeen</IndexWoord>
+      <IndexWoord>gevaarlijke stoffen</IndexWoord>
+    </IndexWoorden>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een brandmelding</OorzaakLang>
+    <OorzaakKort>brandmelding</OorzaakKort>
+    <Aanleiding>brandmelding</Aanleiding>
+    <AanleidingCode>BRA013</AanleidingCode>
+    <IndexWoorden>
+      <IndexWoord>bermbrand</IndexWoord>
+      <IndexWoord>brand in het spoor</IndexWoord>
+      <IndexWoord>brandalarm 1e melding</IndexWoord>
+      <IndexWoord>brandende biels 1e melding</IndexWoord>
+    </IndexWoorden>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door problemen op het spoor in het buitenland</OorzaakLang>
+    <OorzaakKort>problemen in buitenland</OorzaakKort>
+    <Aanleiding>problemen in het buitenland</Aanleiding>
+    <AanleidingCode>BUI001</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door acties in het buitenland</OorzaakLang>
+    <OorzaakKort>acties in het buitenland</OorzaakKort>
+    <Aanleiding>buitenland - acties</Aanleiding>
+    <AanleidingCode>BUI002</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door te veel vertraging in het buitenland</OorzaakLang>
+    <OorzaakKort>vertraging in buitenland</OorzaakKort>
+    <Aanleiding>buitenland - vertraagd uit</Aanleiding>
+    <AanleidingCode>BUI003</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een beschadigde bovenleiding</OorzaakLang>
+    <OorzaakKort>beschadigde bovenleiding</OorzaakKort>
+    <Aanleiding>bovenleiding - beschadigd</Aanleiding>
+    <AanleidingCode>DEF002</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een defecte bovenleiding</OorzaakLang>
+    <OorzaakKort>defecte bovenleiding</OorzaakKort>
+    <Aanleiding>defect - bovenleiding</Aanleiding>
+    <AanleidingCode>DEF004</AanleidingCode>
+    <IndexWoorden>
+      <IndexWoord>bovenleiding - breuk</IndexWoord>
+      <IndexWoord>bovenleiding - hangdraden def.</IndexWoord>
+    </IndexWoorden>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een voorwerp in de bovenleiding</OorzaakLang>
+    <OorzaakKort>voorwerp in bovenleiding</OorzaakKort>
+    <Aanleiding>voorwerp in bovenleiding</Aanleiding>
+    <AanleidingCode>DEF007</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een defect spoor</OorzaakLang>
+    <OorzaakKort>defect spoor</OorzaakKort>
+    <Aanleiding>defect - spoor</Aanleiding>
+    <AanleidingCode>DEF009</AanleidingCode>
+    <IndexWoorden>
+      <IndexWoord>defect - communicatiesysteem</IndexWoord>
+      <IndexWoord>defecte - infra</IndexWoord>
+      <IndexWoord>defect - GSMR</IndexWoord>
+      <IndexWoord>kabelstoring</IndexWoord>
+      <IndexWoord>spoorspatting</IndexWoord>
+      <IndexWoord>spoorstaafbreuk</IndexWoord>
+      <IndexWoord>spoorverzakking</IndexWoord>
+      <IndexWoord>toestand baan</IndexWoord>
+      <IndexWoord>wissel - afgekeurd</IndexWoord>
+    </IndexWoorden>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een defecte overweg</OorzaakLang>
+    <OorzaakKort>defecte overweg</OorzaakKort>
+    <Aanleiding>defecte - overweg</Aanleiding>
+    <AanleidingCode>DEF015</AanleidingCode>
+    <IndexWoorden>
+      <IndexWoord>defect - overweginstallatie</IndexWoord>
+    </IndexWoorden>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een defecte spoorbrug</OorzaakLang>
+    <OorzaakKort>defecte spoorbrug</OorzaakKort>
+    <Aanleiding>defecte - spoorbrug</Aanleiding>
+    <AanleidingCode>DEF016</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een defecte trein</OorzaakLang>
+    <OorzaakKort>defecte trein</OorzaakKort>
+    <Aanleiding>defecte - trein</Aanleiding>
+    <AanleidingCode>DEF017</AanleidingCode>
+    <IndexWoorden>
+      <IndexWoord>lekkende ketelwagen 1e melding</IndexWoord>
+      <IndexWoord>materieel - defect op spoor</IndexWoord>
+      <IndexWoord>materieel - defect + tekort</IndexWoord>
+    </IndexWoorden>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een sein-en overwegstoring</OorzaakLang>
+    <OorzaakKort>sein- en overwegstoring</OorzaakKort>
+    <Aanleiding>sein- en overwegstoring</Aanleiding>
+    <AanleidingCode>DEF026</AanleidingCode>
+    <IndexWoorden>
+      <IndexWoord>misschien koperdiefstal S+O</IndexWoord>
+      <IndexWoord>sein- en overwegstoring na wkz</IndexWoord>
+    </IndexWoorden>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een sein-en wisselstoring</OorzaakLang>
+    <OorzaakKort>sein- en wisselstoring</OorzaakKort>
+    <Aanleiding>sein- en wisselstoring(en)</Aanleiding>
+    <AanleidingCode>DEF028</AanleidingCode>
+    <IndexWoorden>
+      <IndexWoord>def. PCL: sein + wisselstoring</IndexWoord>
+      <IndexWoord>misschien koperdiefstal S+W</IndexWoord>
+      <IndexWoord>sein- en wisselstoring na wkz</IndexWoord>
+      <IndexWoord>storing in VKL systeem</IndexWoord>
+    </IndexWoorden>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een seinstoring</OorzaakLang>
+    <OorzaakKort>seinstoring</OorzaakKort>
+    <Aanleiding>seinstoring</Aanleiding>
+    <AanleidingCode>DEF029</AanleidingCode>
+    <IndexWoorden>
+      <IndexWoord>blokstoring</IndexWoord>
+      <IndexWoord>sectiestoring</IndexWoord>
+    </IndexWoorden>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een stroomstoring</OorzaakLang>
+    <OorzaakKort>stroomstoring</OorzaakKort>
+    <Aanleiding>stroomstoring</Aanleiding>
+    <AanleidingCode>DEF034</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door vandalisme</OorzaakLang>
+    <OorzaakKort>vandalisme</OorzaakKort>
+    <Aanleiding>vandalisme</Aanleiding>
+    <AanleidingCode>DEF036</AanleidingCode>
+    <IndexWoorden>
+      <IndexWoord>muntenleggers</IndexWoord>
+    </IndexWoorden>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een defect wissel</OorzaakLang>
+    <OorzaakKort>defect wissel</OorzaakKort>
+    <Aanleiding>defect - wissel</Aanleiding>
+    <AanleidingCode>DEF037</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een wisselstoring</OorzaakLang>
+    <OorzaakKort>wisselstoring</OorzaakKort>
+    <Aanleiding>wissel - storing</Aanleiding>
+    <AanleidingCode>DEF039</AanleidingCode>
+    <IndexWoorden>
+      <IndexWoord>wissel - opengereden</IndexWoord>
+    </IndexWoorden>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een eerdere verstoring</OorzaakLang>
+    <OorzaakKort>eerdere verstoring</OorzaakKort>
+    <Aanleiding>eerdere verstoring</Aanleiding>
+    <AanleidingCode>LOG002</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door te grote vertraging</OorzaakLang>
+    <OorzaakKort>te grote vertraging</OorzaakKort>
+    <Aanleiding>te grote vertraging</Aanleiding>
+    <AanleidingCode>LOG006</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een tekort aan treinen</OorzaakLang>
+    <OorzaakKort>tekort aan treinen</OorzaakKort>
+    <Aanleiding>tekort aan treinen</Aanleiding>
+    <AanleidingCode>MAT001</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een ontspoorde trein</OorzaakLang>
+    <OorzaakKort>ontspoorde trein</OorzaakKort>
+    <Aanleiding>ontsporing - trein</Aanleiding>
+    <AanleidingCode>MAT007</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een gestrande trein</OorzaakLang>
+    <OorzaakKort>gestrande trein</OorzaakKort>
+    <Aanleiding>trein - gestrand</Aanleiding>
+    <AanleidingCode>MAT012</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een ontspoorde goederentrein</OorzaakLang>
+    <OorzaakKort>ontspoorde goederentrein</OorzaakKort>
+    <Aanleiding>ontsporing - goederentrein</Aanleiding>
+    <AanleidingCode>MAT014</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een ontspoorde werktrein</OorzaakLang>
+    <OorzaakKort>ontspoorde werktrein</OorzaakKort>
+    <Aanleiding>ontsporing - werktrein</Aanleiding>
+    <AanleidingCode>MAT015</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een auto op het spoor</OorzaakLang>
+    <OorzaakKort>auto op het spoor</OorzaakKort>
+    <Aanleiding>auto op het spoor</Aanleiding>
+    <AanleidingCode>OOS001</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een boom op het spoor</OorzaakLang>
+    <OorzaakKort>boom op het spoor</OorzaakKort>
+    <Aanleiding>boom op het spoor</Aanleiding>
+    <AanleidingCode>OOS002</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een dier op het spoor</OorzaakLang>
+    <OorzaakKort>dier op het spoor</OorzaakKort>
+    <Aanleiding>dier(en) in/op/bij het spoor</Aanleiding>
+    <AanleidingCode>OOS003</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door rommel op het spoor</OorzaakLang>
+    <OorzaakKort>rommel op het spoor</OorzaakKort>
+    <Aanleiding>spoor - obstakel of rommel in/bij/op</Aanleiding>
+    <AanleidingCode>OOS009</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een versperring</OorzaakLang>
+    <OorzaakKort>versperring</OorzaakKort>
+    <Aanleiding>versperring</Aanleiding>
+    <AanleidingCode>OOS012</AanleidingCode>
+    <IndexWoorden>
+      <IndexWoord>hinder op/bij het spoor</IndexWoord>
+      <IndexWoord>spoorbezetting</IndexWoord>
+    </IndexWoorden>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>op last van de politie</OorzaakLang>
+    <OorzaakKort>op last van de politie</OorzaakKort>
+    <Aanleiding>politie</Aanleiding>
+    <AanleidingCode>POL006</AanleidingCode>
+    <IndexWoorden>
+      <IndexWoord>demonstratie</IndexWoord>
+      <IndexWoord>bommelding/ -vinding</IndexWoord>
+      <IndexWoord>supportersproblemen</IndexWoord>
+      <IndexWoord>verdacht pakketje</IndexWoord>
+      <IndexWoord>verdacht persoon</IndexWoord>
+    </IndexWoorden>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>om veiligheidsredenen</OorzaakLang>
+    <OorzaakKort>veiligheidsredenen</OorzaakKort>
+    <Aanleiding>veiligheidsredenen</Aanleiding>
+    <AanleidingCode>POL009</AanleidingCode>
+    <IndexWoorden>
+      <IndexWoord>terrorisme - dreiging</IndexWoord>
+    </IndexWoorden>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door grote drukte</OorzaakLang>
+    <OorzaakKort>grote drukte</OorzaakKort>
+    <Aanleiding>grote drukte (reizigers)</Aanleiding>
+    <AanleidingCode>REI001</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door de aanleg van een nieuw spoor</OorzaakLang>
+    <OorzaakKort>aanleg nieuw spoor</OorzaakKort>
+    <Aanleiding>aanleg van een nieuw spoor</Aanleiding>
+    <AanleidingCode>WKZ070</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door blikseminslag</OorzaakLang>
+    <OorzaakKort>blikseminslag</OorzaakKort>
+    <Aanleiding>blikseminslag</Aanleiding>
+    <AanleidingCode>WOH001</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door gladde sporen</OorzaakLang>
+    <OorzaakKort>gladde sporen</OorzaakKort>
+    <Aanleiding>gladde sporen</Aanleiding>
+    <AanleidingCode>WOH002</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door de weersomstandigheden</OorzaakLang>
+    <OorzaakKort>het weer</OorzaakKort>
+    <Aanleiding>weersomstandigheden</Aanleiding>
+    <AanleidingCode>WOH003</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door stormschade</OorzaakLang>
+    <OorzaakKort>stormschade</OorzaakKort>
+    <Aanleiding>stormschade</Aanleiding>
+    <AanleidingCode>WOH004</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een aangepaste dienstregeling</OorzaakLang>
+    <OorzaakKort>aangepaste dienstregeling</OorzaakKort>
+    <Aanleiding>aangepaste dienstregeling</Aanleiding>
+    <AanleidingCode>WOH006</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door de sneeuw</OorzaakLang>
+    <OorzaakKort>sneeuw</OorzaakKort>
+    <Aanleiding>sneeuw</Aanleiding>
+    <AanleidingCode>WOH007</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door ijzelvorming aan de bovenleiding</OorzaakLang>
+    <OorzaakKort>ijzelvorming</OorzaakKort>
+    <Aanleiding>bovenleiding - ijzelvorming</Aanleiding>
+    <AanleidingCode>WOH008</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een aanrijding op de weg</OorzaakLang>
+    <OorzaakKort>aanrijding op de weg</OorzaakKort>
+    <Aanleiding>aanrijding op de weg</Aanleiding>
+    <AanleidingCode>ARY006</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een bermbrand</OorzaakLang>
+    <OorzaakKort>bermbrand</OorzaakKort>
+    <Aanleiding>bermbrand</Aanleiding>
+    <AanleidingCode>BRA002</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door brand in een trein</OorzaakLang>
+    <OorzaakKort>brand in trein</OorzaakKort>
+    <Aanleiding>brand in trein</Aanleiding>
+    <AanleidingCode>BRA005</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een grote sein- en wisselstoring</OorzaakLang>
+    <OorzaakKort>sein- en wisselstoring</OorzaakKort>
+    <Aanleiding>grote sein- en wisselstoring</Aanleiding>
+    <AanleidingCode>DEF012</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door beperkingen in de materieelinzet</OorzaakLang>
+    <OorzaakKort>beperkingen materieel</OorzaakKort>
+    <Aanleiding>beperkingen materieelinzet</Aanleiding>
+    <AanleidingCode>MAT005</AanleidingCode>
+    <IndexWoorden>
+      <IndexWoord>noodrem trekken</IndexWoord>
+      <IndexWoord>trein - bekogeld</IndexWoord>
+      <IndexWoord>trein op stroomloos deel brug</IndexWoord>
+    </IndexWoorden>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door uitloop van werkzaamheden</OorzaakLang>
+    <OorzaakKort>uitloop werkzaamheden</OorzaakKort>
+    <Aanleiding>uitloop werkzaamheden</Aanleiding>
+    <AanleidingCode>WKZ002</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door de verwachte weersomstandigheden</OorzaakLang>
+    <OorzaakKort>verwacht weer</OorzaakKort>
+    <Aanleiding>verwachte weersomstandigheden</Aanleiding>
+    <AanleidingCode>WOH009</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door onverwachte werkzaamheden</OorzaakLang>
+    <OorzaakKort>onverwachte werkzaamheden</OorzaakKort>
+    <Aanleiding>onverwachte werkzaamheden</Aanleiding>
+    <AanleidingCode>WKZ006</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door Koningsdag</OorzaakLang>
+    <OorzaakKort>Koningsdag</OorzaakKort>
+    <Aanleiding>Koningsdag</Aanleiding>
+    <AanleidingCode>WKZ069</AanleidingCode>
+    <IndexWoorden>
+      <IndexWoord>opruimwerk na aanrijding</IndexWoord>
+      <IndexWoord>snelheidsbeperking</IndexWoord>
+      <IndexWoord>schouwwerkzaamheden</IndexWoord>
+      <IndexWoord>botsing tijdens rangeren</IndexWoord>
+      <IndexWoord>wateroverlast door bouwwkz</IndexWoord>
+    </IndexWoorden>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door de bouw van een tunnel</OorzaakLang>
+    <OorzaakKort>bouw tunnel</OorzaakKort>
+    <Aanleiding>bouw van een tunnel</Aanleiding>
+    <AanleidingCode>WKZ071</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door de bouw van een viaduct</OorzaakLang>
+    <OorzaakKort>bouw viaduct</OorzaakKort>
+    <Aanleiding>bouw van een viaduct</Aanleiding>
+    <AanleidingCode>WKZ072</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door de bouw van een nieuw station</OorzaakLang>
+    <OorzaakKort>nieuwbouw station</OorzaakKort>
+    <Aanleiding>nieuwbouw station</Aanleiding>
+    <AanleidingCode>WKZ073</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door de verbouwing van een station</OorzaakLang>
+    <OorzaakKort>verbouw station</OorzaakKort>
+    <Aanleiding>verbouwing station</Aanleiding>
+    <AanleidingCode>WKZ074</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door het vervangen van een spoorbrug</OorzaakLang>
+    <OorzaakKort>een vervangen spoorbrug</OorzaakKort>
+    <Aanleiding>vervangen spoorbrug</Aanleiding>
+    <AanleidingCode>WKZ076</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door koperdiefstal</OorzaakLang>
+    <OorzaakKort>koperdiefstal</OorzaakKort>
+    <Aanleiding>koperdiefstal</Aanleiding>
+    <AanleidingCode>DEF040</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een storing in een tunnel</OorzaakLang>
+    <OorzaakKort>storing in tunnel</OorzaakKort>
+    <Aanleiding>tunnelstoring</Aanleiding>
+    <AanleidingCode>DEF041</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door technisch onderzoek</OorzaakLang>
+    <OorzaakKort>technisch onderzoek</OorzaakKort>
+    <Aanleiding>technisch onderzoek</Aanleiding>
+    <AanleidingCode>DEF042</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een aanrijding met een voertuig</OorzaakLang>
+    <OorzaakKort>aanrijding</OorzaakKort>
+    <Aanleiding>aanrijding - voertuig</Aanleiding>
+    <AanleidingCode>ARY007</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een beschadigde overweg</OorzaakLang>
+    <OorzaakKort>beschadigde overweg</OorzaakKort>
+    <Aanleiding>overweg - beschadigd</Aanleiding>
+    <AanleidingCode>ARY009</AanleidingCode>
+    <IndexWoorden>
+      <IndexWoord>aanrijding - tegen overwegboom</IndexWoord>
+    </IndexWoorden>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een overwegstoring</OorzaakLang>
+    <OorzaakKort>overwegstoring</OorzaakKort>
+    <Aanleiding>overwegstoring</Aanleiding>
+    <AanleidingCode>DEF043</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een storing in het reisinformatiesysteem</OorzaakLang>
+    <OorzaakKort>storing reisinfosysteem</OorzaakKort>
+    <Aanleiding>storing reisinformatiesysteem</Aanleiding>
+    <AanleidingCode>DEF045</AanleidingCode>
+    <IndexWoorden>
+      <IndexWoord>planregels niet ingelezen</IndexWoord>
+    </IndexWoorden>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door defecte treinen</OorzaakLang>
+    <OorzaakKort>defecte treinen</OorzaakKort>
+    <Aanleiding>defecte treinen</Aanleiding>
+    <AanleidingCode>LOG008</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een persoon op het spoor</OorzaakLang>
+    <OorzaakKort>persoon op het spoor</OorzaakKort>
+    <Aanleiding>persoon op het spoor</Aanleiding>
+    <AanleidingCode>OOS013</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door mensen op het spoor</OorzaakLang>
+    <OorzaakKort>mensen op het spoor</OorzaakKort>
+    <Aanleiding>mensen op het spoor</Aanleiding>
+    <AanleidingCode>OOS014</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door politieonderzoek</OorzaakLang>
+    <OorzaakKort>politieonderzoek</OorzaakKort>
+    <Aanleiding>politieonderzoek</Aanleiding>
+    <AanleidingCode>POL012</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een spoedreparatie aan het spoor</OorzaakLang>
+    <OorzaakKort>spoedreparatie</OorzaakKort>
+    <Aanleiding>spoedreparatie aan het spoor</Aanleiding>
+    <AanleidingCode>WKZ009</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door meerdere verstoringen</OorzaakLang>
+    <OorzaakKort>meerdere verstoringen</OorzaakKort>
+    <Aanleiding>meerdere verstoringen</Aanleiding>
+    <AanleidingCode>LOG010</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een storing in de bediening van seinen</OorzaakLang>
+    <OorzaakKort>storing bediening seinen</OorzaakKort>
+    <Aanleiding>storing bediening seinen</Aanleiding>
+    <AanleidingCode>DEF008</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een verstoring elders</OorzaakLang>
+    <OorzaakKort>een verstoring elders</OorzaakKort>
+    <Aanleiding>een verstoring elders</Aanleiding>
+    <AanleidingCode>LOG007</AanleidingCode>
+    <IndexWoorden>
+      <IndexWoord>mcn niet aanwezig door vtg</IndexWoord>
+      <IndexWoord>hc niet aanwezig door vtg</IndexWoord>
+    </IndexWoorden>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een evenement</OorzaakLang>
+    <OorzaakKort>evenement</OorzaakKort>
+    <Aanleiding>evenement</Aanleiding>
+    <AanleidingCode>REI003</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door de Libelle Zomerweek</OorzaakLang>
+    <OorzaakKort>Libelle Zomerweek</OorzaakKort>
+    <Aanleiding>Libelle Zomerweek</Aanleiding>
+    <AanleidingCode>REI004</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door de Vierdaagse</OorzaakLang>
+    <OorzaakKort>Vierdaagse</OorzaakKort>
+    <Aanleiding>Vierdaagse</Aanleiding>
+    <AanleidingCode>REI005</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een bedevaart</OorzaakLang>
+    <OorzaakKort>bedevaart</OorzaakKort>
+    <Aanleiding>bedevaart</Aanleiding>
+    <AanleidingCode>REI006</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door Thialf-schaatsen</OorzaakLang>
+    <OorzaakKort>Thialf-schaatsen</OorzaakKort>
+    <Aanleiding>Thialf-schaatsen</Aanleiding>
+    <AanleidingCode>REI007</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door nog onbekende oorzaak</OorzaakLang>
+    <OorzaakKort>onbekende oorzaak</OorzaakKort>
+    <Aanleiding>onbekende oorzaak</Aanleiding>
+    <AanleidingCode>ONB001</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een vervangende trein</OorzaakLang>
+    <OorzaakKort>vervangende trein</OorzaakKort>
+    <Aanleiding>vervangende trein</Aanleiding>
+    <AanleidingCode>EXT001</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door Koningsdag</OorzaakLang>
+    <OorzaakKort>Koningsdag</OorzaakKort>
+    <Aanleiding>Koningsdag</Aanleiding>
+    <AanleidingCode>REI008</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door inzet van hulpdiensten</OorzaakLang>
+    <OorzaakKort>hulpdiensten</OorzaakKort>
+    <Aanleiding>inzet hulpdiensten</Aanleiding>
+    <AanleidingCode>POL003</AanleidingCode>
+    <IndexWoorden>
+      <IndexWoord>ambulance/politie bij trein</IndexWoord>
+      <IndexWoord>ongeval nabij het spoor</IndexWoord>
+      <IndexWoord>tps/reiziger onwel</IndexWoord>
+      <IndexWoord>vechtpartij trein/station</IndexWoord>
+    </IndexWoorden>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door spoorvernieuwing</OorzaakLang>
+    <OorzaakKort>spoorvernieuwing</OorzaakKort>
+    <Aanleiding>spoorvernieuwing</Aanleiding>
+    <AanleidingCode>WKZ075</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door het onverwacht ontbreken van personeel</OorzaakLang>
+    <OorzaakKort>ontbreken personeel</OorzaakKort>
+    <Aanleiding>ontbreken personeel</Aanleiding>
+    <AanleidingCode>LOG011</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door rijp aan de bovenleiding</OorzaakLang>
+    <OorzaakKort>rijp - bovenleiding</OorzaakKort>
+    <Aanleiding>bovenleiding - rijp</Aanleiding>
+    <AanleidingCode>WOH010</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door harde wind op de Hogesnelheidslijn</OorzaakLang>
+    <OorzaakKort>harde wind HSL</OorzaakKort>
+    <Aanleiding>harde wind op HSL</Aanleiding>
+    <AanleidingCode>WOH011</AanleidingCode>
+  </AanleidingOorzaakInput>
+</HARMInput>
