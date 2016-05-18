@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:stn:v1 Stam_STN_v4.13.xsd" IngangsMoment="2016-04-14T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:stn:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:stn:v1 Stam_STN_v4.13.xsd" IngangsMoment="2016-05-28T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:stn:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StationInput>
     <StationCode>AC</StationCode>
     <Type>0</Type>
@@ -12,9 +12,9 @@
   <StationInput>
     <StationCode>AH</StationCode>
     <Type>5</Type>
-    <KorteNaam>Arnhem</KorteNaam>
-    <MiddelNaam>Arnhem</MiddelNaam>
-    <LangeNaam>Arnhem</LangeNaam>
+    <KorteNaam>Arnhem C</KorteNaam>
+    <MiddelNaam>Arnhem C.</MiddelNaam>
+    <LangeNaam>Arnhem Centraal</LangeNaam>
     <TaalCode>nl</TaalCode>
     <UICCode>8400071</UICCode>
   </StationInput>
@@ -1697,15 +1697,6 @@
     <LangeNaam>Gouda Goverwelle</LangeNaam>
     <TaalCode>nl</TaalCode>
     <UICCode>8400257</UICCode>
-  </StationInput>
-  <StationInput>
-    <StationCode>GDK</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Geerdijk</KorteNaam>
-    <MiddelNaam>Geerdijk</MiddelNaam>
-    <LangeNaam>Geerdijk</LangeNaam>
-    <TaalCode>nl</TaalCode>
-    <UICCode>8400239</UICCode>
   </StationInput>
   <StationInput>
     <StationCode>GDM</StationCode>
