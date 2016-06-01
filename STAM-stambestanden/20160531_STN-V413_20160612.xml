@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:stn:v1 Stam_STN_v4.13.xsd" IngangsMoment="2016-05-28T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:stn:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:stn:v1 Stam_STN_v4.13.xsd" IngangsMoment="2016-06-12T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:stn:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StationInput>
     <StationCode>AC</StationCode>
     <Type>0</Type>
@@ -4010,15 +4010,6 @@
     <UICCode>8400615</UICCode>
   </StationInput>
   <StationInput>
-    <StationCode>UTL</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Lunetten</KorteNaam>
-    <MiddelNaam>Utrecht Lunetten</MiddelNaam>
-    <LangeNaam>Utrecht Lunetten</LangeNaam>
-    <TaalCode>nl</TaalCode>
-    <UICCode>8400623</UICCode>
-  </StationInput>
-  <StationInput>
     <StationCode>UTM</StationCode>
     <Type>0</Type>
     <KorteNaam>Maliebaan</KorteNaam>
@@ -5655,5 +5646,14 @@
     <LangeNaam>Budapest</LangeNaam>
     <TaalCode>nl</TaalCode>
     <UICCode>5510017</UICCode>
+  </StationInput>
+  <StationInput>
+    <StationCode>UTLN</StationCode>
+    <Type>0</Type>
+    <KorteNaam>Lunetten</KorteNaam>
+    <MiddelNaam>Utrecht Lunetten</MiddelNaam>
+    <LangeNaam>Utrecht Lunetten</LangeNaam>
+    <TaalCode>nl</TaalCode>
+    <UICCode>8400623</UICCode>
   </StationInput>
 </StamInput>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2016-04-14T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2016-06-12T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StationInput>
     <StationCode>AC</StationCode>
     <Type>0</Type>
@@ -12,9 +12,9 @@
   <StationInput>
     <StationCode>AH</StationCode>
     <Type>5</Type>
-    <KorteNaam>Arnhem</KorteNaam>
-    <MiddelNaam>Arnhem</MiddelNaam>
-    <LangeNaam>Arnhem</LangeNaam>
+    <KorteNaam>Arnhem C</KorteNaam>
+    <MiddelNaam>Arnhem C.</MiddelNaam>
+    <LangeNaam>Arnhem Centraal</LangeNaam>
     <TaalCode>nl</TaalCode>
     <UICCode>8400071</UICCode>
   </StationInput>
@@ -1697,15 +1697,6 @@
     <LangeNaam>Gouda Goverwelle</LangeNaam>
     <TaalCode>nl</TaalCode>
     <UICCode>8400257</UICCode>
-  </StationInput>
-  <StationInput>
-    <StationCode>GDK</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Geerdijk</KorteNaam>
-    <MiddelNaam>Geerdijk</MiddelNaam>
-    <LangeNaam>Geerdijk</LangeNaam>
-    <TaalCode>nl</TaalCode>
-    <UICCode>8400239</UICCode>
   </StationInput>
   <StationInput>
     <StationCode>GDM</StationCode>
@@ -4019,15 +4010,6 @@
     <UICCode>8400615</UICCode>
   </StationInput>
   <StationInput>
-    <StationCode>UTL</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Lunetten</KorteNaam>
-    <MiddelNaam>Utrecht Lunetten</MiddelNaam>
-    <LangeNaam>Utrecht Lunetten</LangeNaam>
-    <TaalCode>nl</TaalCode>
-    <UICCode>8400623</UICCode>
-  </StationInput>
-  <StationInput>
     <StationCode>UTM</StationCode>
     <Type>0</Type>
     <KorteNaam>Maliebaan</KorteNaam>
@@ -5664,5 +5646,14 @@
     <LangeNaam>Budapest</LangeNaam>
     <TaalCode>nl</TaalCode>
     <UICCode>5510017</UICCode>
+  </StationInput>
+  <StationInput>
+    <StationCode>UTLN</StationCode>
+    <Type>0</Type>
+    <KorteNaam>Lunetten</KorteNaam>
+    <MiddelNaam>Utrecht Lunetten</MiddelNaam>
+    <LangeNaam>Utrecht Lunetten</LangeNaam>
+    <TaalCode>nl</TaalCode>
+    <UICCode>8400623</UICCode>
   </StationInput>
 </HARMInput>

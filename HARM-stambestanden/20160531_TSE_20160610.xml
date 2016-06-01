@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2016-04-14T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2016-06-10T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <TreinSerieInput>
     <VanTreinNummer>1</VanTreinNummer>
     <TotEnMetTreinNummer>99</TotEnMetTreinNummer>
@@ -7726,7 +7726,7 @@
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>MSM Partyzug Dortmund</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>113480</VanTreinNummer>
@@ -7736,7 +7736,7 @@
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>MSM Partyzug Dortmund</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>213480</VanTreinNummer>
@@ -7746,7 +7746,7 @@
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>MSM Partyzug Dortmund</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>313480</VanTreinNummer>
@@ -7756,7 +7756,7 @@
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>MSM Partyzug Dortmund</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>713480</VanTreinNummer>
@@ -7766,7 +7766,7 @@
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>MSM Partyzug Dortmund</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>250</VanTreinNummer>
@@ -10114,15 +10114,6 @@
     <TreinSoortCode>IC</TreinSoortCode>
   </TreinSerieInput>
   <TreinSerieInput>
-    <VanTreinNummer>711500</VanTreinNummer>
-    <TotEnMetTreinNummer>711599</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>IC</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
     <VanTreinNummer>32600</VanTreinNummer>
     <TotEnMetTreinNummer>32699</TotEnMetTreinNummer>
     <VervoerderCode>400</VervoerderCode>
@@ -10454,7 +10445,7 @@
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>MSM Partyzug Dortmund</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>113481</VanTreinNummer>
@@ -10464,7 +10455,7 @@
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>MSM Partyzug Dortmund</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>213481</VanTreinNummer>
@@ -10474,7 +10465,7 @@
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>MSM Partyzug Dortmund</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>313481</VanTreinNummer>
@@ -10484,7 +10475,7 @@
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>MSM Partyzug Dortmund</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>713481</VanTreinNummer>
@@ -10494,7 +10485,7 @@
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>MSM Partyzug Dortmund</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>13484</VanTreinNummer>
@@ -10504,7 +10495,7 @@
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Sziget Express</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>113484</VanTreinNummer>
@@ -10514,7 +10505,7 @@
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Sziget Express</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>213484</VanTreinNummer>
@@ -10524,7 +10515,7 @@
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Sziget Express</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>313484</VanTreinNummer>
@@ -10534,7 +10525,7 @@
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Sziget Express</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>713484</VanTreinNummer>
@@ -10544,7 +10535,7 @@
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Sziget Express</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>13495</VanTreinNummer>
@@ -11821,102 +11812,102 @@
   <TreinSerieInput>
     <VanTreinNummer>13488</VanTreinNummer>
     <TotEnMetTreinNummer>13488</TotEnMetTreinNummer>
-    <VervoerderCode>963</VervoerderCode>
+    <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Tweakers Express 2015</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>113488</VanTreinNummer>
     <TotEnMetTreinNummer>113488</TotEnMetTreinNummer>
-    <VervoerderCode>963</VervoerderCode>
+    <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Tweakers Express 2015</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>213488</VanTreinNummer>
     <TotEnMetTreinNummer>213488</TotEnMetTreinNummer>
-    <VervoerderCode>963</VervoerderCode>
+    <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Tweakers Express 2015</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>313488</VanTreinNummer>
     <TotEnMetTreinNummer>313488</TotEnMetTreinNummer>
-    <VervoerderCode>963</VervoerderCode>
+    <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Tweakers Express 2015</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>713488</VanTreinNummer>
     <TotEnMetTreinNummer>713488</TotEnMetTreinNummer>
-    <VervoerderCode>963</VervoerderCode>
+    <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Tweakers Express 2015</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>13489</VanTreinNummer>
     <TotEnMetTreinNummer>13489</TotEnMetTreinNummer>
-    <VervoerderCode>963</VervoerderCode>
+    <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Tweakers Express 2015</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>113489</VanTreinNummer>
     <TotEnMetTreinNummer>113489</TotEnMetTreinNummer>
-    <VervoerderCode>963</VervoerderCode>
+    <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Tweakers Express 2015</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>213489</VanTreinNummer>
     <TotEnMetTreinNummer>213489</TotEnMetTreinNummer>
-    <VervoerderCode>963</VervoerderCode>
+    <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Tweakers Express 2015</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>313489</VanTreinNummer>
     <TotEnMetTreinNummer>313489</TotEnMetTreinNummer>
-    <VervoerderCode>963</VervoerderCode>
+    <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Tweakers Express 2015</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>713489</VanTreinNummer>
     <TotEnMetTreinNummer>713489</TotEnMetTreinNummer>
-    <VervoerderCode>963</VervoerderCode>
+    <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>INT</TreinSoortCode>
-    <TreinNaam>Tweakers Express 2015</TreinNaam>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>13901</VanTreinNummer>
@@ -12262,51 +12253,6 @@
     <SpeciaalKaartje>N</SpeciaalKaartje>
     <TreinSoortCode>ICD</TreinSoortCode>
     <TreinNaam>Toeslag Schiphol-Rotterdam vv</TreinNaam>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>17900</VanTreinNummer>
-    <TotEnMetTreinNummer>17999</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>SPR</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>117900</VanTreinNummer>
-    <TotEnMetTreinNummer>117999</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>SPR</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>217900</VanTreinNummer>
-    <TotEnMetTreinNummer>217999</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>SPR</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>317900</VanTreinNummer>
-    <TotEnMetTreinNummer>317999</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>SPR</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>717900</VanTreinNummer>
-    <TotEnMetTreinNummer>717999</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>SPR</TreinSoortCode>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>33202</VanTreinNummer>
@@ -13168,49 +13114,54 @@
     <TreinSoortCode>ST</TreinSoortCode>
   </TreinSerieInput>
   <TreinSerieInput>
-    <VanTreinNummer>20180</VanTreinNummer>
+    <VanTreinNummer>20186</VanTreinNummer>
     <TotEnMetTreinNummer>20199</TotEnMetTreinNummer>
-    <VervoerderCode>911</VervoerderCode>
+    <VervoerderCode>100</VervoerderCode>
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ST</TreinSoortCode>
+    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinNaam>Niet instappen</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
-    <VanTreinNummer>120180</VanTreinNummer>
+    <VanTreinNummer>120186</VanTreinNummer>
     <TotEnMetTreinNummer>120199</TotEnMetTreinNummer>
-    <VervoerderCode>911</VervoerderCode>
+    <VervoerderCode>100</VervoerderCode>
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ST</TreinSoortCode>
+    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinNaam>Niet instappen</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
-    <VanTreinNummer>220180</VanTreinNummer>
+    <VanTreinNummer>220186</VanTreinNummer>
     <TotEnMetTreinNummer>220199</TotEnMetTreinNummer>
-    <VervoerderCode>911</VervoerderCode>
+    <VervoerderCode>100</VervoerderCode>
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ST</TreinSoortCode>
+    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinNaam>Niet instappen</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
-    <VanTreinNummer>320180</VanTreinNummer>
+    <VanTreinNummer>320186</VanTreinNummer>
     <TotEnMetTreinNummer>320199</TotEnMetTreinNummer>
-    <VervoerderCode>911</VervoerderCode>
+    <VervoerderCode>100</VervoerderCode>
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ST</TreinSoortCode>
+    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinNaam>Niet instappen</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
-    <VanTreinNummer>720180</VanTreinNummer>
+    <VanTreinNummer>720186</VanTreinNummer>
     <TotEnMetTreinNummer>720199</TotEnMetTreinNummer>
-    <VervoerderCode>911</VervoerderCode>
+    <VervoerderCode>100</VervoerderCode>
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>ST</TreinSoortCode>
+    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinNaam>Niet instappen</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>13498</VanTreinNummer>
@@ -13398,24 +13349,6 @@
     <TreinSoortCode>EX</TreinSoortCode>
   </TreinSerieInput>
   <TreinSerieInput>
-    <VanTreinNummer>710800</VanTreinNummer>
-    <TotEnMetTreinNummer>710899</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>IC</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
-    <VanTreinNummer>713000</VanTreinNummer>
-    <TotEnMetTreinNummer>713099</TotEnMetTreinNummer>
-    <VervoerderCode>100</VervoerderCode>
-    <Reserveren>N</Reserveren>
-    <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>IC</TreinSoortCode>
-  </TreinSerieInput>
-  <TreinSerieInput>
     <VanTreinNummer>38100</VanTreinNummer>
     <TotEnMetTreinNummer>38100</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
@@ -13554,5 +13487,105 @@
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>SPC</TreinSoortCode>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>20180</VanTreinNummer>
+    <TotEnMetTreinNummer>20185</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>IC</TreinSoortCode>
+    <TreinNaam>Niet instappen</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>120180</VanTreinNummer>
+    <TotEnMetTreinNummer>120185</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>IC</TreinSoortCode>
+    <TreinNaam>Niet instappen</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>220180</VanTreinNummer>
+    <TotEnMetTreinNummer>220185</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>IC</TreinSoortCode>
+    <TreinNaam>Niet instappen</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>320180</VanTreinNummer>
+    <TotEnMetTreinNummer>320185</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>IC</TreinSoortCode>
+    <TreinNaam>Niet instappen</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>720180</VanTreinNummer>
+    <TotEnMetTreinNummer>720185</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>IC</TreinSoortCode>
+    <TreinNaam>Niet instappen</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>13485</VanTreinNummer>
+    <TotEnMetTreinNummer>13485</TotEnMetTreinNummer>
+    <VervoerderCode>962</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>113485</VanTreinNummer>
+    <TotEnMetTreinNummer>113485</TotEnMetTreinNummer>
+    <VervoerderCode>962</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>213485</VanTreinNummer>
+    <TotEnMetTreinNummer>213485</TotEnMetTreinNummer>
+    <VervoerderCode>962</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>313485</VanTreinNummer>
+    <TotEnMetTreinNummer>313485</TotEnMetTreinNummer>
+    <VervoerderCode>962</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>713485</VanTreinNummer>
+    <TotEnMetTreinNummer>713485</TotEnMetTreinNummer>
+    <VervoerderCode>962</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinNaam>Shutterstock Agency Cup</TreinNaam>
   </TreinSerieInput>
 </HARMInput>
