@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:tsr:v1 Stam_TSR_v4.13.xsd" IngangsMoment="2016-05-28T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:tsr:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:tsr:v1 Stam_TSR_v4.13.xsd" IngangsMoment="2016-06-10T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:tsr:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <TreinSerieRouteInput>
     <VanTreinNummer>400</VanTreinNummer>
     <TotEnMetTreinNummer>459</TotEnMetTreinNummer>
@@ -294,10 +294,17 @@
     <EindStationCode>ZL</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>31300</VanTreinNummer>
-    <TotEnMetTreinNummer>31399</TotEnMetTreinNummer>
-    <BeginStationCode>AMF</BeginStationCode>
-    <EindStationCode>ED</EindStationCode>
+    <VanTreinNummer>29650</VanTreinNummer>
+    <TotEnMetTreinNummer>29699</TotEnMetTreinNummer>
+    <BeginStationCode>ASD</BeginStationCode>
+    <EindStationCode>HDR</EindStationCode>
+  </TreinSerieRouteInput>
+  <TreinSerieRouteInput>
+    <VanTreinNummer>1500</VanTreinNummer>
+    <TotEnMetTreinNummer>1599</TotEnMetTreinNummer>
+    <BeginStationCode>EKZ</BeginStationCode>
+    <ViaStationCode>ASD</ViaStationCode>
+    <EindStationCode>AMF</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
     <VanTreinNummer>15800</VanTreinNummer>
@@ -305,6 +312,13 @@
     <BeginStationCode>HFD</BeginStationCode>
     <ViaStationCode>ASD</ViaStationCode>
     <EindStationCode>AMF</EindStationCode>
+  </TreinSerieRouteInput>
+  <TreinSerieRouteInput>
+    <VanTreinNummer>2400</VanTreinNummer>
+    <TotEnMetTreinNummer>2499</TotEnMetTreinNummer>
+    <BeginStationCode>LLS</BeginStationCode>
+    <ViaStationCode>ASDZ</ViaStationCode>
+    <EindStationCode>SHL</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
     <VanTreinNummer>13479</VanTreinNummer>
@@ -342,11 +356,11 @@
     <EindStationCode>GD</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>1500</VanTreinNummer>
-    <TotEnMetTreinNummer>1599</TotEnMetTreinNummer>
-    <BeginStationCode>EKZ</BeginStationCode>
-    <ViaStationCode>ASD</ViaStationCode>
-    <EindStationCode>AMF</EindStationCode>
+    <VanTreinNummer>37200</VanTreinNummer>
+    <TotEnMetTreinNummer>37299</TotEnMetTreinNummer>
+    <BeginStationCode>LW</BeginStationCode>
+    <ViaStationCode>HLG</ViaStationCode>
+    <EindStationCode>HLGH</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
     <VanTreinNummer>5400</VanTreinNummer>
@@ -384,11 +398,11 @@
     <EindStationCode>GDM</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>2400</VanTreinNummer>
-    <TotEnMetTreinNummer>2499</TotEnMetTreinNummer>
-    <BeginStationCode>LLS</BeginStationCode>
-    <ViaStationCode>ASDZ</ViaStationCode>
-    <EindStationCode>SHL</EindStationCode>
+    <VanTreinNummer>32000</VanTreinNummer>
+    <TotEnMetTreinNummer>32099</TotEnMetTreinNummer>
+    <BeginStationCode>MTR</BeginStationCode>
+    <ViaStationCode>HRL</ViaStationCode>
+    <EindStationCode>KRD</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
     <VanTreinNummer>21400</VanTreinNummer>
@@ -426,11 +440,11 @@
     <EindStationCode>ODZ</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>37200</VanTreinNummer>
-    <TotEnMetTreinNummer>37299</TotEnMetTreinNummer>
-    <BeginStationCode>LW</BeginStationCode>
-    <ViaStationCode>HLG</ViaStationCode>
-    <EindStationCode>HLGH</EindStationCode>
+    <VanTreinNummer>11700</VanTreinNummer>
+    <TotEnMetTreinNummer>11799</TotEnMetTreinNummer>
+    <BeginStationCode>GVC</BeginStationCode>
+    <ViaStationCode>UT</ViaStationCode>
+    <EindStationCode>AMFS</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
     <VanTreinNummer>21400</VanTreinNummer>
@@ -468,11 +482,11 @@
     <EindStationCode>HFD</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>32000</VanTreinNummer>
-    <TotEnMetTreinNummer>32099</TotEnMetTreinNummer>
-    <BeginStationCode>MTR</BeginStationCode>
-    <ViaStationCode>HRL</ViaStationCode>
-    <EindStationCode>KRD</EindStationCode>
+    <VanTreinNummer>12500</VanTreinNummer>
+    <TotEnMetTreinNummer>12599</TotEnMetTreinNummer>
+    <BeginStationCode>RTD</BeginStationCode>
+    <ViaStationCode>UT</ViaStationCode>
+    <EindStationCode>LW</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
     <VanTreinNummer>30800</VanTreinNummer>
@@ -510,11 +524,11 @@
     <EindStationCode>RHN</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>11700</VanTreinNummer>
-    <TotEnMetTreinNummer>11799</TotEnMetTreinNummer>
-    <BeginStationCode>GVC</BeginStationCode>
-    <ViaStationCode>UT</ViaStationCode>
-    <EindStationCode>AMFS</EindStationCode>
+    <VanTreinNummer>3300</VanTreinNummer>
+    <TotEnMetTreinNummer>3399</TotEnMetTreinNummer>
+    <BeginStationCode>HNK</BeginStationCode>
+    <ViaStationCode>ZD</ViaStationCode>
+    <EindStationCode>HFD</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
     <VanTreinNummer>30700</VanTreinNummer>
@@ -547,11 +561,22 @@
     <EindStationCode>WW</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>12500</VanTreinNummer>
-    <TotEnMetTreinNummer>12599</TotEnMetTreinNummer>
-    <BeginStationCode>RTD</BeginStationCode>
-    <ViaStationCode>UT</ViaStationCode>
-    <EindStationCode>LW</EindStationCode>
+    <VanTreinNummer>31400</VanTreinNummer>
+    <TotEnMetTreinNummer>31499</TotEnMetTreinNummer>
+    <BeginStationCode>AMF</BeginStationCode>
+    <EindStationCode>BNZ</EindStationCode>
+  </TreinSerieRouteInput>
+  <TreinSerieRouteInput>
+    <VanTreinNummer>8500</VanTreinNummer>
+    <TotEnMetTreinNummer>8599</TotEnMetTreinNummer>
+    <BeginStationCode>ZL</BeginStationCode>
+    <EindStationCode>KPN</EindStationCode>
+  </TreinSerieRouteInput>
+  <TreinSerieRouteInput>
+    <VanTreinNummer>113800</VanTreinNummer>
+    <TotEnMetTreinNummer>113899</TotEnMetTreinNummer>
+    <BeginStationCode>ZL</BeginStationCode>
+    <EindStationCode>CO</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
     <VanTreinNummer>3800</VanTreinNummer>
@@ -584,11 +609,10 @@
     <EindStationCode>GN</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>3300</VanTreinNummer>
-    <TotEnMetTreinNummer>3399</TotEnMetTreinNummer>
-    <BeginStationCode>HNK</BeginStationCode>
-    <ViaStationCode>ZD</ViaStationCode>
-    <EindStationCode>HFD</EindStationCode>
+    <VanTreinNummer>23400</VanTreinNummer>
+    <TotEnMetTreinNummer>23499</TotEnMetTreinNummer>
+    <BeginStationCode>UT</BeginStationCode>
+    <EindStationCode>NM</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
     <VanTreinNummer>14000</VanTreinNummer>
@@ -621,10 +645,10 @@
     <EindStationCode>CO</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>31400</VanTreinNummer>
-    <TotEnMetTreinNummer>31499</TotEnMetTreinNummer>
-    <BeginStationCode>AMF</BeginStationCode>
-    <EindStationCode>BNZ</EindStationCode>
+    <VanTreinNummer>5500</VanTreinNummer>
+    <TotEnMetTreinNummer>5599</TotEnMetTreinNummer>
+    <BeginStationCode>UT</BeginStationCode>
+    <EindStationCode>BRN</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
     <VanTreinNummer>28300</VanTreinNummer>
@@ -657,10 +681,10 @@
     <EindStationCode>MT</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>8500</VanTreinNummer>
-    <TotEnMetTreinNummer>8599</TotEnMetTreinNummer>
-    <BeginStationCode>ZL</BeginStationCode>
-    <EindStationCode>KPN</EindStationCode>
+    <VanTreinNummer>23500</VanTreinNummer>
+    <TotEnMetTreinNummer>23599</TotEnMetTreinNummer>
+    <BeginStationCode>STD</BeginStationCode>
+    <EindStationCode>HRL</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
     <VanTreinNummer>21400</VanTreinNummer>
@@ -693,10 +717,10 @@
     <EindStationCode>BKL</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>113800</VanTreinNummer>
-    <TotEnMetTreinNummer>113899</TotEnMetTreinNummer>
-    <BeginStationCode>ZL</BeginStationCode>
-    <EindStationCode>CO</EindStationCode>
+    <VanTreinNummer>114100</VanTreinNummer>
+    <TotEnMetTreinNummer>114199</TotEnMetTreinNummer>
+    <BeginStationCode>RTD</BeginStationCode>
+    <EindStationCode>HLD</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
     <VanTreinNummer>14200</VanTreinNummer>
@@ -729,10 +753,10 @@
     <EindStationCode>HRL</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>23400</VanTreinNummer>
-    <TotEnMetTreinNummer>23499</TotEnMetTreinNummer>
-    <BeginStationCode>UT</BeginStationCode>
-    <EindStationCode>NM</EindStationCode>
+    <VanTreinNummer>12800</VanTreinNummer>
+    <TotEnMetTreinNummer>12899</TotEnMetTreinNummer>
+    <BeginStationCode>RTD</BeginStationCode>
+    <EindStationCode>GD</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
     <VanTreinNummer>9700</VanTreinNummer>
@@ -765,10 +789,10 @@
     <EindStationCode>HLD</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>5500</VanTreinNummer>
-    <TotEnMetTreinNummer>5599</TotEnMetTreinNummer>
-    <BeginStationCode>UT</BeginStationCode>
-    <EindStationCode>BRN</EindStationCode>
+    <VanTreinNummer>106800</VanTreinNummer>
+    <TotEnMetTreinNummer>106899</TotEnMetTreinNummer>
+    <BeginStationCode>RM</BeginStationCode>
+    <EindStationCode>MTR</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
     <VanTreinNummer>2700</VanTreinNummer>
@@ -795,16 +819,16 @@
     <EindStationCode>GD</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>12800</VanTreinNummer>
-    <TotEnMetTreinNummer>12899</TotEnMetTreinNummer>
-    <BeginStationCode>RTD</BeginStationCode>
-    <EindStationCode>GD</EindStationCode>
+    <VanTreinNummer>32300</VanTreinNummer>
+    <TotEnMetTreinNummer>32399</TotEnMetTreinNummer>
+    <BeginStationCode>NM</BeginStationCode>
+    <EindStationCode>BMR</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>23500</VanTreinNummer>
-    <TotEnMetTreinNummer>23599</TotEnMetTreinNummer>
-    <BeginStationCode>STD</BeginStationCode>
-    <EindStationCode>HRL</EindStationCode>
+    <VanTreinNummer>103000</VanTreinNummer>
+    <TotEnMetTreinNummer>103099</TotEnMetTreinNummer>
+    <BeginStationCode>NM</BeginStationCode>
+    <EindStationCode>HDR</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
     <VanTreinNummer>32200</VanTreinNummer>
@@ -831,16 +855,16 @@
     <EindStationCode>GO</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>106800</VanTreinNummer>
-    <TotEnMetTreinNummer>106899</TotEnMetTreinNummer>
-    <BeginStationCode>RM</BeginStationCode>
-    <EindStationCode>MTR</EindStationCode>
+    <VanTreinNummer>37400</VanTreinNummer>
+    <TotEnMetTreinNummer>37499</TotEnMetTreinNummer>
+    <BeginStationCode>LW</BeginStationCode>
+    <EindStationCode>GN</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>114100</VanTreinNummer>
-    <TotEnMetTreinNummer>114199</TotEnMetTreinNummer>
-    <BeginStationCode>RTD</BeginStationCode>
-    <EindStationCode>HLD</EindStationCode>
+    <VanTreinNummer>9000</VanTreinNummer>
+    <TotEnMetTreinNummer>9099</TotEnMetTreinNummer>
+    <BeginStationCode>LW</BeginStationCode>
+    <EindStationCode>MP</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
     <VanTreinNummer>37000</VanTreinNummer>
@@ -867,16 +891,16 @@
     <EindStationCode>LUIK</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>32300</VanTreinNummer>
-    <TotEnMetTreinNummer>32399</TotEnMetTreinNummer>
-    <BeginStationCode>NM</BeginStationCode>
-    <EindStationCode>BMR</EindStationCode>
+    <VanTreinNummer>20300</VanTreinNummer>
+    <TotEnMetTreinNummer>20399</TotEnMetTreinNummer>
+    <BeginStationCode>HRL</BeginStationCode>
+    <EindStationCode>HZ</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>103000</VanTreinNummer>
-    <TotEnMetTreinNummer>103099</TotEnMetTreinNummer>
-    <BeginStationCode>NM</BeginStationCode>
-    <EindStationCode>HDR</EindStationCode>
+    <VanTreinNummer>4400</VanTreinNummer>
+    <TotEnMetTreinNummer>4499</TotEnMetTreinNummer>
+    <BeginStationCode>HT</BeginStationCode>
+    <EindStationCode>NM</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
     <VanTreinNummer>39900</VanTreinNummer>
@@ -903,16 +927,16 @@
     <EindStationCode>GN</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>37400</VanTreinNummer>
-    <TotEnMetTreinNummer>37499</TotEnMetTreinNummer>
-    <BeginStationCode>LW</BeginStationCode>
-    <EindStationCode>GN</EindStationCode>
+    <VanTreinNummer>105100</VanTreinNummer>
+    <TotEnMetTreinNummer>105199</TotEnMetTreinNummer>
+    <BeginStationCode>GVC</BeginStationCode>
+    <EindStationCode>RSD</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>9000</VanTreinNummer>
-    <TotEnMetTreinNummer>9099</TotEnMetTreinNummer>
-    <BeginStationCode>LW</BeginStationCode>
-    <EindStationCode>MP</EindStationCode>
+    <VanTreinNummer>2000</VanTreinNummer>
+    <TotEnMetTreinNummer>2099</TotEnMetTreinNummer>
+    <BeginStationCode>GVC</BeginStationCode>
+    <EindStationCode>UT</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
     <VanTreinNummer>9800</VanTreinNummer>
@@ -939,16 +963,16 @@
     <EindStationCode>ZVT</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>20300</VanTreinNummer>
-    <TotEnMetTreinNummer>20399</TotEnMetTreinNummer>
-    <BeginStationCode>HRL</BeginStationCode>
-    <EindStationCode>HZ</EindStationCode>
+    <VanTreinNummer>36800</VanTreinNummer>
+    <TotEnMetTreinNummer>36899</TotEnMetTreinNummer>
+    <BeginStationCode>GR</BeginStationCode>
+    <EindStationCode>GDM</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>4400</VanTreinNummer>
-    <TotEnMetTreinNummer>4499</TotEnMetTreinNummer>
-    <BeginStationCode>HT</BeginStationCode>
-    <EindStationCode>NM</EindStationCode>
+    <VanTreinNummer>5000</VanTreinNummer>
+    <TotEnMetTreinNummer>5099</TotEnMetTreinNummer>
+    <BeginStationCode>GVC</BeginStationCode>
+    <EindStationCode>BD</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
     <VanTreinNummer>15100</VanTreinNummer>
@@ -975,16 +999,10 @@
     <EindStationCode>RSD</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>105100</VanTreinNummer>
-    <TotEnMetTreinNummer>105199</TotEnMetTreinNummer>
-    <BeginStationCode>GVC</BeginStationCode>
-    <EindStationCode>RSD</EindStationCode>
-  </TreinSerieRouteInput>
-  <TreinSerieRouteInput>
-    <VanTreinNummer>2000</VanTreinNummer>
-    <TotEnMetTreinNummer>2099</TotEnMetTreinNummer>
-    <BeginStationCode>GVC</BeginStationCode>
-    <EindStationCode>UT</EindStationCode>
+    <VanTreinNummer>39500</VanTreinNummer>
+    <TotEnMetTreinNummer>39599</TotEnMetTreinNummer>
+    <BeginStationCode>ES</BeginStationCode>
+    <EindStationCode>G</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
     <VanTreinNummer>9500</VanTreinNummer>
@@ -1017,10 +1035,10 @@
     <EindStationCode>VDM</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>5000</VanTreinNummer>
-    <TotEnMetTreinNummer>5099</TotEnMetTreinNummer>
-    <BeginStationCode>GVC</BeginStationCode>
-    <EindStationCode>BD</EindStationCode>
+    <VanTreinNummer>8200</VanTreinNummer>
+    <TotEnMetTreinNummer>8200</TotEnMetTreinNummer>
+    <BeginStationCode>ATW</BeginStationCode>
+    <EindStationCode>RSD</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
     <VanTreinNummer>18600</VanTreinNummer>
@@ -1053,10 +1071,10 @@
     <EindStationCode>WT</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>39500</VanTreinNummer>
-    <TotEnMetTreinNummer>39599</TotEnMetTreinNummer>
-    <BeginStationCode>ES</BeginStationCode>
-    <EindStationCode>G</EindStationCode>
+    <VanTreinNummer>10104</VanTreinNummer>
+    <TotEnMetTreinNummer>10105</TotEnMetTreinNummer>
+    <BeginStationCode>ASD</BeginStationCode>
+    <EindStationCode>EM</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
     <VanTreinNummer>10120</VanTreinNummer>
@@ -1089,10 +1107,10 @@
     <EindStationCode>EKZ</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
-    <VanTreinNummer>8200</VanTreinNummer>
-    <TotEnMetTreinNummer>8200</TotEnMetTreinNummer>
-    <BeginStationCode>ATW</BeginStationCode>
-    <EindStationCode>RSD</EindStationCode>
+    <VanTreinNummer>31300</VanTreinNummer>
+    <TotEnMetTreinNummer>31399</TotEnMetTreinNummer>
+    <BeginStationCode>AMF</BeginStationCode>
+    <EindStationCode>ED</EindStationCode>
   </TreinSerieRouteInput>
   <TreinSerieRouteInput>
     <VanTreinNummer>31000</VanTreinNummer>
@@ -1117,17 +1135,5 @@
     <TotEnMetTreinNummer>10349</TotEnMetTreinNummer>
     <BeginStationCode>ASD</BeginStationCode>
     <EindStationCode>BH</EindStationCode>
-  </TreinSerieRouteInput>
-  <TreinSerieRouteInput>
-    <VanTreinNummer>29650</VanTreinNummer>
-    <TotEnMetTreinNummer>29699</TotEnMetTreinNummer>
-    <BeginStationCode>ASD</BeginStationCode>
-    <EindStationCode>HDR</EindStationCode>
-  </TreinSerieRouteInput>
-  <TreinSerieRouteInput>
-    <VanTreinNummer>10104</VanTreinNummer>
-    <TotEnMetTreinNummer>10105</TotEnMetTreinNummer>
-    <BeginStationCode>ASD</BeginStationCode>
-    <EindStationCode>EM</EindStationCode>
   </TreinSerieRouteInput>
 </StamInput>
