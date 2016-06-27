@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2016-04-27T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2016-06-30T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <AanleidingOorzaakInput>
     <OorzaakLang>door acties van het personeel</OorzaakLang>
     <OorzaakKort>acties van het personeel</OorzaakKort>
-    <Aanleiding>acties van het personeel</Aanleiding>
+    <Aanleiding>LET-OP-acties van het personeel</Aanleiding>
     <AanleidingCode>ACT002</AanleidingCode>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
@@ -228,13 +228,13 @@
   <AanleidingOorzaakInput>
     <OorzaakLang>door een tekort aan treinen</OorzaakLang>
     <OorzaakKort>tekort aan treinen</OorzaakKort>
-    <Aanleiding>tekort aan treinen</Aanleiding>
+    <Aanleiding>LET-OP-tekort aan treinen</Aanleiding>
     <AanleidingCode>MAT001</AanleidingCode>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
     <OorzaakLang>door een ontspoorde trein</OorzaakLang>
     <OorzaakKort>ontspoorde trein</OorzaakKort>
-    <Aanleiding>ontsporing - trein</Aanleiding>
+    <Aanleiding>LET-OP-ontsporing - trein</Aanleiding>
     <AanleidingCode>MAT007</AanleidingCode>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
@@ -246,13 +246,13 @@
   <AanleidingOorzaakInput>
     <OorzaakLang>door een ontspoorde goederentrein</OorzaakLang>
     <OorzaakKort>ontspoorde goederentrein</OorzaakKort>
-    <Aanleiding>ontsporing - goederentrein</Aanleiding>
+    <Aanleiding>LET-OP-ontsporing - goederentrein</Aanleiding>
     <AanleidingCode>MAT014</AanleidingCode>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
     <OorzaakLang>door een ontspoorde werktrein</OorzaakLang>
     <OorzaakKort>ontspoorde werktrein</OorzaakKort>
-    <Aanleiding>ontsporing - werktrein</Aanleiding>
+    <Aanleiding>LET-OP-ontsporing - werktrein</Aanleiding>
     <AanleidingCode>MAT015</AanleidingCode>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
@@ -276,7 +276,7 @@
   <AanleidingOorzaakInput>
     <OorzaakLang>door rommel op het spoor</OorzaakLang>
     <OorzaakKort>rommel op het spoor</OorzaakKort>
-    <Aanleiding>spoor - obstakel of rommel in/bij/op</Aanleiding>
+    <Aanleiding>spoor - rommel in/bij/op</Aanleiding>
     <AanleidingCode>OOS009</AanleidingCode>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
@@ -305,7 +305,7 @@
   <AanleidingOorzaakInput>
     <OorzaakLang>om veiligheidsredenen</OorzaakLang>
     <OorzaakKort>veiligheidsredenen</OorzaakKort>
-    <Aanleiding>veiligheidsredenen</Aanleiding>
+    <Aanleiding>LET-OP-veiligheidsredenen</Aanleiding>
     <AanleidingCode>POL009</AanleidingCode>
     <IndexWoorden>
       <IndexWoord>terrorisme - dreiging</IndexWoord>
@@ -392,7 +392,7 @@
   <AanleidingOorzaakInput>
     <OorzaakLang>door beperkingen in de materieelinzet</OorzaakLang>
     <OorzaakKort>beperkingen materieel</OorzaakKort>
-    <Aanleiding>beperkingen materieelinzet</Aanleiding>
+    <Aanleiding>LET-OP-beperkingen materieelinzet</Aanleiding>
     <AanleidingCode>MAT005</AanleidingCode>
     <IndexWoorden>
       <IndexWoord>noodrem trekken</IndexWoord>
@@ -419,9 +419,9 @@
     <AanleidingCode>WKZ006</AanleidingCode>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
-    <OorzaakLang>door Koningsdag</OorzaakLang>
-    <OorzaakKort>Koningsdag</OorzaakKort>
-    <Aanleiding>Koningsdag</Aanleiding>
+    <OorzaakLang>door werkzaamheden</OorzaakLang>
+    <OorzaakKort>werkzaamheden</OorzaakKort>
+    <Aanleiding>werkzaamheden</Aanleiding>
     <AanleidingCode>WKZ069</AanleidingCode>
     <IndexWoorden>
       <IndexWoord>opruimwerk na aanrijding</IndexWoord>
@@ -512,7 +512,7 @@
   <AanleidingOorzaakInput>
     <OorzaakLang>door defecte treinen</OorzaakLang>
     <OorzaakKort>defecte treinen</OorzaakKort>
-    <Aanleiding>defecte treinen</Aanleiding>
+    <Aanleiding>LET-OP-defecte treinen</Aanleiding>
     <AanleidingCode>LOG008</AanleidingCode>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
@@ -626,12 +626,6 @@
     <OorzaakKort>spoorvernieuwing</OorzaakKort>
     <Aanleiding>spoorvernieuwing</Aanleiding>
     <AanleidingCode>WKZ075</AanleidingCode>
-  </AanleidingOorzaakInput>
-  <AanleidingOorzaakInput>
-    <OorzaakLang>door het onverwacht ontbreken van personeel</OorzaakLang>
-    <OorzaakKort>ontbreken personeel</OorzaakKort>
-    <Aanleiding>ontbreken personeel</Aanleiding>
-    <AanleidingCode>LOG011</AanleidingCode>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
     <OorzaakLang>door rijp aan de bovenleiding</OorzaakLang>

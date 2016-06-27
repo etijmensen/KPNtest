@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:sas:v1 Stam_SAS_v4.13.xsd" IngangsMoment="2016-06-30T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:sas:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <StandaardStopPlaatsAVVInput>
+    <Code>001</Code>
+    <OmschrijvingGUI>streekbusstation</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>streekbusstation</common:Kort>
+      <common:Middel>streekbusstation</common:Middel>
+      <common:Lang>vanaf het streekbusstation</common:Lang>
+    </Omschrijving>
+  </StandaardStopPlaatsAVVInput>
+  <StandaardStopPlaatsAVVInput>
+    <Code>002</Code>
+    <OmschrijvingGUI>stadsbusstation</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>stadsbusstation</common:Kort>
+      <common:Middel>stadsbusstation</common:Middel>
+      <common:Lang>vanaf het stadsbusstation</common:Lang>
+    </Omschrijving>
+  </StandaardStopPlaatsAVVInput>
+  <StandaardStopPlaatsAVVInput>
+    <Code>003</Code>
+    <OmschrijvingGUI>voorzijde</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>voorzijde</common:Kort>
+      <common:Middel>voorzijde</common:Middel>
+      <common:Lang>vanaf de voorzijde van het station</common:Lang>
+    </Omschrijving>
+  </StandaardStopPlaatsAVVInput>
+  <StandaardStopPlaatsAVVInput>
+    <Code>004</Code>
+    <OmschrijvingGUI>achterzijde</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>achterzijde</common:Kort>
+      <common:Middel>achterzijde</common:Middel>
+      <common:Lang>vanaf de achterzijde van het station</common:Lang>
+    </Omschrijving>
+  </StandaardStopPlaatsAVVInput>
+  <StandaardStopPlaatsAVVInput>
+    <Code>005</Code>
+    <OmschrijvingGUI>busstation</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>busstation</common:Kort>
+      <common:Middel>busstation</common:Middel>
+      <common:Lang>vanaf het busstation</common:Lang>
+    </Omschrijving>
+  </StandaardStopPlaatsAVVInput>
+  <StandaardStopPlaatsAVVInput>
+    <Code>006</Code>
+    <OmschrijvingGUI>Provinciale weg</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Prov.weg</common:Kort>
+      <common:Middel>Provinciale weg</common:Middel>
+      <common:Lang>vanaf de Provinciale weg</common:Lang>
+    </Omschrijving>
+  </StandaardStopPlaatsAVVInput>
+  <StandaardStopPlaatsAVVInput>
+    <Code>007</Code>
+    <OmschrijvingGUI>spoorviaduct</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>spoorviaduct</common:Kort>
+      <common:Middel>spoorviaduct</common:Middel>
+      <common:Lang>onder het spoorviaduct</common:Lang>
+    </Omschrijving>
+  </StandaardStopPlaatsAVVInput>
+  <StandaardStopPlaatsAVVInput>
+    <Code>008</Code>
+    <OmschrijvingGUI>Stationsplein</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Stationsplein</common:Kort>
+      <common:Middel>Stationsplein</common:Middel>
+      <common:Lang>vanaf het Stationsplein</common:Lang>
+    </Omschrijving>
+  </StandaardStopPlaatsAVVInput>
+  <StandaardStopPlaatsAVVInput>
+    <Code>009</Code>
+    <OmschrijvingGUI>P+R-terrein</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>P+R</common:Kort>
+      <common:Middel>P+R-terrein</common:Middel>
+      <common:Lang>vanaf het P+R-terrein</common:Lang>
+    </Omschrijving>
+  </StandaardStopPlaatsAVVInput>
+  <StandaardStopPlaatsAVVInput>
+    <Code>010</Code>
+    <OmschrijvingGUI>bushalte</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>bushalte</common:Kort>
+      <common:Middel>bushalte</common:Middel>
+      <common:Lang>vanaf de bushalte</common:Lang>
+    </Omschrijving>
+  </StandaardStopPlaatsAVVInput>
+  <StandaardStopPlaatsAVVInput>
+    <Code>011</Code>
+    <OmschrijvingGUI>metrostation</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>metrostation</common:Kort>
+      <common:Middel>metrostation</common:Middel>
+      <common:Lang>vanaf het metrostation</common:Lang>
+    </Omschrijving>
+  </StandaardStopPlaatsAVVInput>
+  <StandaardStopPlaatsAVVInput>
+    <Code>012</Code>
+    <OmschrijvingGUI>tramhalte</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>tramhalte</common:Kort>
+      <common:Middel>tramhalte</common:Middel>
+      <common:Lang>vanaf de tramhalte</common:Lang>
+    </Omschrijving>
+  </StandaardStopPlaatsAVVInput>
+  <StandaardStopPlaatsAVVInput>
+    <Code>013</Code>
+    <OmschrijvingGUI>busstat. centrumzijde</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>centrumzijde</common:Kort>
+      <common:Middel>busstation centrumzijde</common:Middel>
+      <common:Lang>vanaf het busstation, centrumzijde</common:Lang>
+    </Omschrijving>
+  </StandaardStopPlaatsAVVInput>
+  <StandaardStopPlaatsAVVInput>
+    <Code>014</Code>
+    <OmschrijvingGUI>halte centrumzijde</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>centrumzijde</common:Kort>
+      <common:Middel>bushalte centrumzijde</common:Middel>
+      <common:Lang>vanaf de bushalte, centrumzijde</common:Lang>
+    </Omschrijving>
+  </StandaardStopPlaatsAVVInput>
+  <StandaardStopPlaatsAVVInput>
+    <Code>015</Code>
+    <OmschrijvingGUI>taxi-standplaats</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>taxi-plaats</common:Kort>
+      <common:Middel>taxi-standplaats</common:Middel>
+      <common:Lang>vanaf de taxi-standplaats</common:Lang>
+    </Omschrijving>
+  </StandaardStopPlaatsAVVInput>
+  <StandaardStopPlaatsAVVInput>
+    <Code>016</Code>
+    <OmschrijvingGUI>parkeerplaats</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>parkeerplaats</common:Kort>
+      <common:Middel>parkeerplaats</common:Middel>
+      <common:Lang>vanaf de parkeerplaats</common:Lang>
+    </Omschrijving>
+  </StandaardStopPlaatsAVVInput>
+  <StandaardStopPlaatsAVVInput>
+    <Code>017</Code>
+    <OmschrijvingGUI>bus-terminal</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>bus-terminal</common:Kort>
+      <common:Middel>bus-terminal</common:Middel>
+      <common:Lang>vanaf de bus-terminal</common:Lang>
+    </Omschrijving>
+  </StandaardStopPlaatsAVVInput>
+  <StandaardStopPlaatsAVVInput>
+    <Code>018</Code>
+    <OmschrijvingGUI>busplatform</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>busplatform</common:Kort>
+      <common:Middel>busplatform</common:Middel>
+      <common:Lang>vanaf het busplatform</common:Lang>
+    </Omschrijving>
+  </StandaardStopPlaatsAVVInput>
+  <StandaardStopPlaatsAVVInput>
+    <Code>019</Code>
+    <OmschrijvingGUI>NS Bushalte</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>NS Bushalte</common:Kort>
+      <common:Middel>NS Bushalte</common:Middel>
+      <common:Lang>vanaf de NS Bushalte</common:Lang>
+    </Omschrijving>
+  </StandaardStopPlaatsAVVInput>
+</StamInput>

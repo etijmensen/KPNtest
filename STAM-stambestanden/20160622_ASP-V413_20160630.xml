@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:asp:v1 Stam_ASP_v4.13.xsd" IngangsMoment="2016-05-30T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:asp:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:asp:v1 Stam_ASP_v4.13.xsd" IngangsMoment="2016-06-30T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:asp:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StopPlaatsAVVInput>
     <Code>AC900</Code>
     <StationCode>AC</StationCode>
@@ -21,9 +21,19 @@
     <CodeStandaardStopplaats>017</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>AH900</Code>
+    <StationCode>AH</StationCode>
+    <CodeStandaardStopplaats>001</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>AHP900</Code>
     <StationCode>AHP</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>AHP901</Code>
+    <StationCode>AHP</StationCode>
+    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>AHPR900</Code>
@@ -86,6 +96,11 @@
     <CodeStandaardStopplaats>019</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>AML901</Code>
+    <StationCode>AML</StationCode>
+    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>AMPO900</Code>
     <StationCode>AMPO</StationCode>
     <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
@@ -121,9 +136,24 @@
     <CodeStandaardStopplaats>019</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>APD901</Code>
+    <StationCode>APD</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>APDM900</Code>
+    <StationCode>APDM</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>APDO900</Code>
     <StationCode>APDO</StationCode>
     <CodeStandaardStopplaats>019</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>APG900</Code>
+    <StationCode>APG</StationCode>
+    <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>APN900</Code>
@@ -191,6 +221,11 @@
     <CodeStandaardStopplaats>007</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>ATN900</Code>
+    <StationCode>ATN</StationCode>
+    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>AVAT900</Code>
     <StationCode>AVAT</StationCode>
     <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
@@ -209,6 +244,11 @@
     <Code>BDG900</Code>
     <StationCode>BDG</StationCode>
     <CodeStandaardStopplaats>008</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>BDM900</Code>
+    <StationCode>BDM</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>BDPB001</Code>
@@ -238,7 +278,7 @@
   <StopPlaatsAVVInput>
     <Code>BHDV900</Code>
     <StationCode>BHDV</StationCode>
-    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>BHV900</Code>
@@ -316,9 +356,19 @@
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>BP900</Code>
+    <StationCode>BP</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>BR900</Code>
     <StationCode>BR</StationCode>
     <CodeStandaardStopplaats>014</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>BR901</Code>
+    <StationCode>BR</StationCode>
+    <CodeStandaardStopplaats>016</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>BRD900</Code>
@@ -343,7 +393,7 @@
   <StopPlaatsAVVInput>
     <Code>BSD900</Code>
     <StationCode>BSD</StationCode>
-    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+    <CodeStandaardStopplaats>016</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>BSK900</Code>
@@ -391,6 +441,11 @@
     <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>CO900</Code>
+    <StationCode>CO</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>CPS900</Code>
     <StationCode>CPS</StationCode>
     <CodeStandaardStopplaats>008</CodeStandaardStopplaats>
@@ -416,6 +471,11 @@
     </Omschrijving>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>DDR900</Code>
+    <StationCode>DDR</StationCode>
+    <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>DDZD001</Code>
     <StationCode>DDZD</StationCode>
     <OmschrijvingGUI>Spirea</OmschrijvingGUI>
@@ -436,6 +496,11 @@
     <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>DLN900</Code>
+    <StationCode>DLN</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>DMN900</Code>
     <StationCode>DMN</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
@@ -448,7 +513,7 @@
   <StopPlaatsAVVInput>
     <Code>DN900</Code>
     <StationCode>DN</StationCode>
-    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+    <CodeStandaardStopplaats>004</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>DR900</Code>
@@ -474,6 +539,16 @@
     <Code>DT900</Code>
     <StationCode>DT</StationCode>
     <CodeStandaardStopplaats>018</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>DTC900</Code>
+    <StationCode>DTC</StationCode>
+    <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>DTCH900</Code>
+    <StationCode>DTCH</StationCode>
+    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>DTZ900</Code>
@@ -506,6 +581,11 @@
     <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>DV900</Code>
+    <StationCode>DVN</StationCode>
+    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>DVNK001</Code>
     <StationCode>DVNK</StationCode>
     <OmschrijvingGUI>A. Tinneplein</OmschrijvingGUI>
@@ -521,6 +601,11 @@
     <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>DZ900</Code>
+    <StationCode>DZ</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>EC900</Code>
     <StationCode>EC</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
@@ -534,6 +619,11 @@
     <Code>ED901</Code>
     <StationCode>ED</StationCode>
     <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>EDC901</Code>
+    <StationCode>EDC</StationCode>
+    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>EDN900</Code>
@@ -566,6 +656,16 @@
     <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>EMN900</Code>
+    <StationCode>EMN</StationCode>
+    <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>EMNZ900</Code>
+    <StationCode>EMNZ</StationCode>
+    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>ES900</Code>
     <StationCode>ES</StationCode>
     <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
@@ -586,6 +686,21 @@
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>FN900</Code>
+    <StationCode>FN</StationCode>
+    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>FWD900</Code>
+    <StationCode>FWD</StationCode>
+    <CodeStandaardStopplaats>016</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>GBG900</Code>
+    <StationCode>GBG</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>GD900</Code>
     <StationCode>GD</StationCode>
     <CodeStandaardStopplaats>013</CodeStandaardStopplaats>
@@ -601,9 +716,24 @@
     <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>GDM901</Code>
+    <StationCode>GDM</StationCode>
+    <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>GERP900</Code>
     <StationCode>GERP</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>GERP901</Code>
+    <StationCode>GERP</StationCode>
+    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>GK900</Code>
+    <StationCode>GK</StationCode>
+    <CodeStandaardStopplaats>006</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>GLN900</Code>
@@ -621,9 +751,9 @@
     <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
-    <Code>GND901</Code>
-    <StationCode>GND</StationCode>
-    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+    <Code>GNN900</Code>
+    <StationCode>GNN</StationCode>
+    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>GO900</Code>
@@ -648,7 +778,7 @@
   <StopPlaatsAVVInput>
     <Code>GR900</Code>
     <StationCode>GR</StationCode>
-    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>GS900</Code>
@@ -711,9 +841,19 @@
     <CodeStandaardStopplaats>016</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>HDB900</Code>
+    <StationCode>HDB</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>HDE900</Code>
     <StationCode>HDE</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>HDG900</Code>
+    <StationCode>HDG</StationCode>
+    <CodeStandaardStopplaats>016</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>HDR900</Code>
@@ -771,14 +911,14 @@
     <CodeStandaardStopplaats>008</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
-    <Code>HLD001</Code>
+    <Code>HLD900</Code>
     <StationCode>HLD</StationCode>
-    <OmschrijvingGUI>Stationsweg</OmschrijvingGUI>
-    <Omschrijving>
-      <common:Kort>Stationsweg</common:Kort>
-      <common:Middel>Stationsweg</common:Middel>
-      <common:Lang>vanaf de Stationsweg</common:Lang>
-    </Omschrijving>
+    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>HLD901</Code>
+    <StationCode>HLD</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>HLDS001</Code>
@@ -789,6 +929,16 @@
       <common:Middel>Strandweg</common:Middel>
       <common:Lang>vanaf de Strandweg</common:Lang>
     </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>HLG900</Code>
+    <StationCode>HLG</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>HLGH900</Code>
+    <StationCode>HLGH</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>HLM001</Code>
@@ -926,16 +1076,6 @@
     <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
-    <Code>HVSM001</Code>
-    <StationCode>HVSM</StationCode>
-    <OmschrijvingGUI>Bouwman Boulevard</OmschrijvingGUI>
-    <Omschrijving>
-      <common:Kort>Bouwman Boulevard</common:Kort>
-      <common:Middel>Mies Bouwman Boulevard</common:Middel>
-      <common:Lang>vanaf de Mies Bouwman Boulevard</common:Lang>
-    </Omschrijving>
-  </StopPlaatsAVVInput>
-  <StopPlaatsAVVInput>
     <Code>HVSM900</Code>
     <StationCode>HVSM</StationCode>
     <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
@@ -961,9 +1101,19 @@
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>IJT900</Code>
+    <StationCode>IJT</StationCode>
+    <CodeStandaardStopplaats>016</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>KBD900</Code>
     <StationCode>KBD</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>KBK900</Code>
+    <StationCode>KBK</StationCode>
+    <CodeStandaardStopplaats>006</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>KBW900</Code>
@@ -1001,6 +1151,16 @@
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>KTR900</Code>
+    <StationCode>KTR</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>KW900</Code>
+    <StationCode>KW</StationCode>
+    <CodeStandaardStopplaats>006</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>KZD900</Code>
     <StationCode>KZD</StationCode>
     <CodeStandaardStopplaats>006</CodeStandaardStopplaats>
@@ -1031,29 +1191,9 @@
     </Omschrijving>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
-    <Code>LDM001</Code>
-    <StationCode>LDM</StationCode>
-    <OmschrijvingGUI>Stationsweg</OmschrijvingGUI>
-    <Omschrijving>
-      <common:Kort>Stationsweg</common:Kort>
-      <common:Middel>Stationsweg</common:Middel>
-      <common:Lang>vanaf de Stationsweg</common:Lang>
-    </Omschrijving>
-  </StopPlaatsAVVInput>
-  <StopPlaatsAVVInput>
     <Code>LDM900</Code>
     <StationCode>LDM</StationCode>
-    <CodeStandaardStopplaats>002</CodeStandaardStopplaats>
-  </StopPlaatsAVVInput>
-  <StopPlaatsAVVInput>
-    <Code>LDM901</Code>
-    <StationCode>LDM</StationCode>
-    <CodeStandaardStopplaats>001</CodeStandaardStopplaats>
-  </StopPlaatsAVVInput>
-  <StopPlaatsAVVInput>
-    <Code>LDM902</Code>
-    <StationCode>LDM</StationCode>
-    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>LEDN900</Code>
@@ -1069,6 +1209,11 @@
     <Code>LLS900</Code>
     <StationCode>LLS</StationCode>
     <CodeStandaardStopplaats>004</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>LP900</Code>
+    <StationCode>LP</StationCode>
+    <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>LTN900</Code>
@@ -1091,6 +1236,11 @@
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>LTV900</Code>
+    <StationCode>LTV</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>LUT900</Code>
     <StationCode>LUT</StationCode>
     <CodeStandaardStopplaats>004</CodeStandaardStopplaats>
@@ -1099,6 +1249,16 @@
     <Code>LW900</Code>
     <StationCode>LW</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>LW901</Code>
+    <StationCode>LW</StationCode>
+    <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>LWC900</Code>
+    <StationCode>LWC</StationCode>
+    <CodeStandaardStopplaats>004</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>MAS900</Code>
@@ -1124,6 +1284,11 @@
     <Code>MP900</Code>
     <StationCode>MP</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>MRB900</Code>
+    <StationCode>MRB</StationCode>
+    <CodeStandaardStopplaats>016</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>MRN900</Code>
@@ -1153,7 +1318,12 @@
   <StopPlaatsAVVInput>
     <Code>MT900</Code>
     <StationCode>MT</StationCode>
-    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+    <CodeStandaardStopplaats>004</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>MTH900</Code>
+    <StationCode>MTH</StationCode>
+    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>MTR900</Code>
@@ -1194,6 +1364,11 @@
     <Code>NMGO900</Code>
     <StationCode>NMGO</StationCode>
     <CodeStandaardStopplaats>019</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>NMH900</Code>
+    <StationCode>NMH</StationCode>
+    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>NML900</Code>
@@ -1276,6 +1451,11 @@
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>OMN900</Code>
+    <StationCode>OMN</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>OST900</Code>
     <StationCode>OST</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
@@ -1354,6 +1534,11 @@
     <Code>RHN900</Code>
     <StationCode>RHN</StationCode>
     <CodeStandaardStopplaats>009</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>RL900</Code>
+    <StationCode>RL</StationCode>
+    <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>RLB900</Code>
@@ -1476,6 +1661,11 @@
     <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>SDA900</Code>
+    <StationCode>SDA</StationCode>
+    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>SDM001</Code>
     <StationCode>SDM</StationCode>
     <OmschrijvingGUI>Horvathweg</OmschrijvingGUI>
@@ -1521,6 +1711,11 @@
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>SK900</Code>
+    <StationCode>SK</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>SM900</Code>
     <StationCode>SM</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
@@ -1561,9 +1756,19 @@
     <CodeStandaardStopplaats>004</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>STV900</Code>
+    <StationCode>STV</StationCode>
+    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>STZ900</Code>
     <StationCode>STZ</StationCode>
     <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>SWD900</Code>
+    <StationCode>SWD</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>SWK900</Code>
@@ -1576,6 +1781,11 @@
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>TBG900</Code>
+    <StationCode>TBG</StationCode>
+    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>TBR900</Code>
     <StationCode>TBR</StationCode>
     <CodeStandaardStopplaats>007</CodeStandaardStopplaats>
@@ -1586,9 +1796,19 @@
     <CodeStandaardStopplaats>007</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>TG900</Code>
+    <StationCode>TG</StationCode>
+    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>TL900</Code>
     <StationCode>TL</StationCode>
     <CodeStandaardStopplaats>008</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>TL901</Code>
+    <StationCode>TL</StationCode>
+    <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>TPSW900</Code>
@@ -1599,6 +1819,21 @@
     <Code>TWL900</Code>
     <StationCode>TWL</StationCode>
     <CodeStandaardStopplaats>019</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>UHM900</Code>
+    <StationCode>UHM</StationCode>
+    <CodeStandaardStopplaats>016</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>UHZ900</Code>
+    <StationCode>UHZ</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>UST900</Code>
+    <StationCode>UST</StationCode>
+    <CodeStandaardStopplaats>008</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>UT001</Code>
@@ -1661,6 +1896,11 @@
     <CodeStandaardStopplaats>007</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>VD900</Code>
+    <StationCode>VD</StationCode>
+    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>VDG001</Code>
     <StationCode>VDG</StationCode>
     <OmschrijvingGUI>Parallelweg</OmschrijvingGUI>
@@ -1678,6 +1918,11 @@
   <StopPlaatsAVVInput>
     <Code>VDL900</Code>
     <StationCode>VDL</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>VDM900</Code>
+    <StationCode>VDM</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
@@ -1701,6 +1946,11 @@
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>VEM900</Code>
+    <StationCode>VEM</StationCode>
+    <CodeStandaardStopplaats>006</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>VG900</Code>
     <StationCode>VG</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
@@ -1718,6 +1968,11 @@
   <StopPlaatsAVVInput>
     <Code>VH900</Code>
     <StationCode>VH</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>VHP900</Code>
+    <StationCode>VHP</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
@@ -1786,9 +2041,19 @@
     <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>VSV900</Code>
+    <StationCode>VSV</StationCode>
+    <CodeStandaardStopplaats>016</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>VTN900</Code>
     <StationCode>VTN</StationCode>
     <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>VZ900</Code>
+    <StationCode>VZ</StationCode>
+    <CodeStandaardStopplaats>016</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>WAD900</Code>
@@ -1821,8 +2086,23 @@
     <CodeStandaardStopplaats>019</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>WFM900</Code>
+    <StationCode>WFM</StationCode>
+    <CodeStandaardStopplaats>008</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>Wh900</Code>
     <StationCode>WH</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>WK900</Code>
+    <StationCode>WK</StationCode>
+    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>WL900</Code>
+    <StationCode>WL</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
@@ -1834,6 +2114,11 @@
     <Code>WP900</Code>
     <StationCode>WP</StationCode>
     <CodeStandaardStopplaats>004</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>WS900</Code>
+    <StationCode>WS</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>WT900</Code>
@@ -1856,9 +2141,24 @@
     <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>WTV900</Code>
+    <StationCode>WTV</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>WV900</Code>
     <StationCode>WV</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>WW900</Code>
+    <StationCode>WW</StationCode>
+    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>WWW900</Code>
+    <StationCode>WWW</StationCode>
+    <CodeStandaardStopplaats>006</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>WZ900</Code>
@@ -1868,6 +2168,16 @@
   <StopPlaatsAVVInput>
     <Code>YPB900</Code>
     <StationCode>YPB</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>ZA900</Code>
+    <StationCode>ZA</StationCode>
+    <CodeStandaardStopplaats>006</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>ZB900</Code>
+    <StationCode>ZB</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
@@ -1886,9 +2196,19 @@
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>ZH900</Code>
+    <StationCode>ZH</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>ZL900</Code>
     <StationCode>ZL</StationCode>
     <CodeStandaardStopplaats>017</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>ZL901</Code>
+    <StationCode>ZL</StationCode>
+    <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>ZLW001</Code>
@@ -1909,6 +2229,11 @@
     <Code>ZP901</Code>
     <StationCode>ZP</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>ZP902</Code>
+    <StationCode>ZP</StationCode>
+    <CodeStandaardStopplaats>004</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>ZTM001</Code>
@@ -1939,6 +2264,11 @@
     <Code>ZTMO900</Code>
     <StationCode>ZTMO</StationCode>
     <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>ZV900</Code>
+    <StationCode>ZV</StationCode>
+    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>ZVB001</Code>
