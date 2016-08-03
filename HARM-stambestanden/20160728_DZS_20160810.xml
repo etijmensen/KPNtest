@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2016-08-10T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DVMZusterSporen>
+    <DienstRegelPunt>SHL</DienstRegelPunt>
+    <VPTZusterSpoor1>1</VPTZusterSpoor1>
+    <VPTZusterSpoor2>2</VPTZusterSpoor2>
+  </DVMZusterSporen>
+  <DVMZusterSporen>
+    <DienstRegelPunt>SHL</DienstRegelPunt>
+    <VPTZusterSpoor1>5</VPTZusterSpoor1>
+    <VPTZusterSpoor2>6</VPTZusterSpoor2>
+  </DVMZusterSporen>
+</HARMInput>
