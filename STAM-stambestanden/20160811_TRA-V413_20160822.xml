@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:tra:v1 Stam_TRA_v4.13.xsd" IngangsMoment="2016-07-18T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:tra:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:tra:v1 Stam_TRA_v4.13.xsd" IngangsMoment="2016-08-22T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:tra:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <TrajectInput>
     <TrajectCode>74</TrajectCode>
     <TrajectType>NL</TrajectType>
@@ -18,34 +18,38 @@
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>2</TrajectStationVolgnr>
-      <TrajectStationCode>BNK</TrajectStationCode>
+      <TrajectStationCode>UTVR</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>3</TrajectStationVolgnr>
-      <TrajectStationCode>DB</TrajectStationCode>
+      <TrajectStationCode>BNK</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>4</TrajectStationVolgnr>
-      <TrajectStationCode>MRN</TrajectStationCode>
+      <TrajectStationCode>DB</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>5</TrajectStationVolgnr>
-      <TrajectStationCode>KLP</TrajectStationCode>
+      <TrajectStationCode>MRN</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>6</TrajectStationVolgnr>
-      <TrajectStationCode>ED</TrajectStationCode>
+      <TrajectStationCode>KLP</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>7</TrajectStationVolgnr>
-      <TrajectStationCode>WF</TrajectStationCode>
+      <TrajectStationCode>ED</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>8</TrajectStationVolgnr>
-      <TrajectStationCode>OTB</TrajectStationCode>
+      <TrajectStationCode>WF</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>9</TrajectStationVolgnr>
+      <TrajectStationCode>OTB</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>10</TrajectStationVolgnr>
       <TrajectStationCode>AH</TrajectStationCode>
     </TrajectStations>
     <VervoerderCode>100</VervoerderCode>
@@ -87,10 +91,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>ZL</VanStationCode>
+      <ViaStationCode>DV</ViaStationCode>
       <NaarStationCode>AH</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Zwolle</Van>
+      <Via>Deventer</Via>
       <Naar>Arnhem</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -248,10 +254,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>UT</VanStationCode>
+      <ViaStationCode>HVS</ViaStationCode>
       <NaarStationCode>ALMO</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Utrecht</Van>
+      <Via>Hilversum</Via>
       <Naar>Almere</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -413,10 +421,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>SHL</VanStationCode>
+      <ViaStationCode>HVS</ViaStationCode>
       <NaarStationCode>AMF</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Schiphol</Van>
+      <Via>Hilversum</Via>
       <Naar>Amersfoort</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -511,10 +521,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>ASD</VanStationCode>
+      <ViaStationCode>HVS</ViaStationCode>
       <NaarStationCode>AMF</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Amsterdam</Van>
+      <Via>Hilversum</Via>
       <Naar>Amersfoort</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -644,10 +656,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>ZL</VanStationCode>
+      <ViaStationCode>RAT</ViaStationCode>
       <NaarStationCode>AML</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Zwolle</Van>
+      <Via>Raalte</Via>
       <Naar>Almelo</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -683,10 +697,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>ASD</VanStationCode>
+      <ViaStationCode>ZD</ViaStationCode>
       <NaarStationCode>AMR</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Amsterdam</Van>
+      <Via>Zaandam</Via>
       <Naar>Alkmaar</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -769,10 +785,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>UT</VanStationCode>
+      <ViaStationCode>WD</ViaStationCode>
       <NaarStationCode>APN</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Utrecht</Van>
+      <Via>Woerden</Via>
       <Naar>Alphen a/d Rijn</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -812,10 +830,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>RTD</VanStationCode>
+      <ViaStationCode>DDR</ViaStationCode>
       <NaarStationCode>BD</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Rotterdam</Van>
+      <Via>Dordrecht</Via>
       <Naar>Breda</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -954,11 +974,13 @@
     <TrajectType>HSL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>ASD</VanStationCode>
+      <ViaStationCode>RTD</ViaStationCode>
       <NaarStationCode>BD</NaarStationCode>
       <Achtervoegsel>HSL</Achtervoegsel>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Amsterdam</Van>
+      <Via>Rotterdam</Via>
       <Naar>Breda (HSL)</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -1201,10 +1223,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>UT</VanStationCode>
+      <ViaStationCode>ST</ViaStationCode>
       <NaarStationCode>BRN</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Utrecht</Van>
+      <Via>Soest</Via>
       <Naar>Baarn</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -1480,10 +1504,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>GVC</VanStationCode>
+      <ViaStationCode>RTD</ViaStationCode>
       <NaarStationCode>DDR</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Den Haag</Van>
+      <Via>Rotterdam</Via>
       <Naar>Dordrecht</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -1672,10 +1698,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>EHV</VanStationCode>
+      <ViaStationCode>HM</ViaStationCode>
       <NaarStationCode>DN</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Eindhoven</Van>
+      <Via>Helmond</Via>
       <Naar>Deurne</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -1815,10 +1843,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>AMF</VanStationCode>
+      <ViaStationCode>APD</ViaStationCode>
       <NaarStationCode>DV</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Amersfoort</Van>
+      <Via>Apeldoorn</Via>
       <Naar>Deventer</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -1916,10 +1946,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>GN</VanStationCode>
+      <ViaStationCode>BDM</ViaStationCode>
       <NaarStationCode>DZ</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Groningen</Van>
+      <Via>Bedum</Via>
       <Naar>Delfzijl</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -2247,50 +2279,54 @@
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>2</TrajectStationVolgnr>
-      <TrajectStationCode>UTLN</TrajectStationCode>
+      <TrajectStationCode>UTVR</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>3</TrajectStationVolgnr>
-      <TrajectStationCode>HTN</TrajectStationCode>
+      <TrajectStationCode>UTLN</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>4</TrajectStationVolgnr>
-      <TrajectStationCode>HTNC</TrajectStationCode>
+      <TrajectStationCode>HTN</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>5</TrajectStationVolgnr>
-      <TrajectStationCode>CL</TrajectStationCode>
+      <TrajectStationCode>HTNC</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>6</TrajectStationVolgnr>
-      <TrajectStationCode>GDM</TrajectStationCode>
+      <TrajectStationCode>CL</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>7</TrajectStationVolgnr>
-      <TrajectStationCode>ZBM</TrajectStationCode>
+      <TrajectStationCode>GDM</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>8</TrajectStationVolgnr>
-      <TrajectStationCode>HT</TrajectStationCode>
+      <TrajectStationCode>ZBM</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>9</TrajectStationVolgnr>
-      <TrajectStationCode>VG</TrajectStationCode>
+      <TrajectStationCode>HT</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>10</TrajectStationVolgnr>
-      <TrajectStationCode>BTL</TrajectStationCode>
+      <TrajectStationCode>VG</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>11</TrajectStationVolgnr>
-      <TrajectStationCode>BET</TrajectStationCode>
+      <TrajectStationCode>BTL</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>12</TrajectStationVolgnr>
-      <TrajectStationCode>EHS</TrajectStationCode>
+      <TrajectStationCode>BET</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>13</TrajectStationVolgnr>
+      <TrajectStationCode>EHS</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>14</TrajectStationVolgnr>
       <TrajectStationCode>EHV</TrajectStationCode>
     </TrajectStations>
     <VervoerderCode>100</VervoerderCode>
@@ -2352,50 +2388,54 @@
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>11</TrajectStationVolgnr>
-      <TrajectStationCode>UTLN</TrajectStationCode>
+      <TrajectStationCode>UTVR</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>12</TrajectStationVolgnr>
-      <TrajectStationCode>HTN</TrajectStationCode>
+      <TrajectStationCode>UTLN</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>13</TrajectStationVolgnr>
-      <TrajectStationCode>HTNC</TrajectStationCode>
+      <TrajectStationCode>HTN</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>14</TrajectStationVolgnr>
-      <TrajectStationCode>CL</TrajectStationCode>
+      <TrajectStationCode>HTNC</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>15</TrajectStationVolgnr>
-      <TrajectStationCode>GDM</TrajectStationCode>
+      <TrajectStationCode>CL</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>16</TrajectStationVolgnr>
-      <TrajectStationCode>ZBM</TrajectStationCode>
+      <TrajectStationCode>GDM</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>17</TrajectStationVolgnr>
-      <TrajectStationCode>HT</TrajectStationCode>
+      <TrajectStationCode>ZBM</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>18</TrajectStationVolgnr>
-      <TrajectStationCode>VG</TrajectStationCode>
+      <TrajectStationCode>HT</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>19</TrajectStationVolgnr>
-      <TrajectStationCode>BTL</TrajectStationCode>
+      <TrajectStationCode>VG</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>20</TrajectStationVolgnr>
-      <TrajectStationCode>BET</TrajectStationCode>
+      <TrajectStationCode>BTL</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>21</TrajectStationVolgnr>
-      <TrajectStationCode>EHS</TrajectStationCode>
+      <TrajectStationCode>BET</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>22</TrajectStationVolgnr>
+      <TrajectStationCode>EHS</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>23</TrajectStationVolgnr>
       <TrajectStationCode>EHV</TrajectStationCode>
     </TrajectStations>
     <VervoerderCode>100</VervoerderCode>
@@ -2406,10 +2446,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>ASD</VanStationCode>
+      <ViaStationCode>HN</ViaStationCode>
       <NaarStationCode>EKZ</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Amsterdam</Van>
+      <Via>Hoorn</Via>
       <Naar>Enkhuizen</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -2532,10 +2574,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>ZL</VanStationCode>
+      <ViaStationCode>MRB</ViaStationCode>
       <NaarStationCode>EMN</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Zwolle</Van>
+      <Via>Mariënberg</Via>
       <Naar>Emmen</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -2618,10 +2662,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>ZL</VanStationCode>
+      <ViaStationCode>AML</ViaStationCode>
       <NaarStationCode>ES</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Zwolle</Van>
+      <Via>Almelo</Via>
       <Naar>Enschede</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -2677,10 +2723,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>APD</VanStationCode>
+      <ViaStationCode>AML</ViaStationCode>
       <NaarStationCode>ES</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Apeldoorn</Van>
+      <Via>Almelo</Via>
       <Naar>Enschede</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -2803,94 +2851,98 @@
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>12</TrajectStationVolgnr>
-      <TrajectStationCode>BNK</TrajectStationCode>
+      <TrajectStationCode>UTVR</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>13</TrajectStationVolgnr>
-      <TrajectStationCode>DB</TrajectStationCode>
+      <TrajectStationCode>BNK</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>14</TrajectStationVolgnr>
-      <TrajectStationCode>MRN</TrajectStationCode>
+      <TrajectStationCode>DB</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>15</TrajectStationVolgnr>
-      <TrajectStationCode>KLP</TrajectStationCode>
+      <TrajectStationCode>MRN</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>16</TrajectStationVolgnr>
-      <TrajectStationCode>ED</TrajectStationCode>
+      <TrajectStationCode>KLP</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>17</TrajectStationVolgnr>
-      <TrajectStationCode>WF</TrajectStationCode>
+      <TrajectStationCode>ED</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>18</TrajectStationVolgnr>
-      <TrajectStationCode>OTB</TrajectStationCode>
+      <TrajectStationCode>WF</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>19</TrajectStationVolgnr>
-      <TrajectStationCode>AH</TrajectStationCode>
+      <TrajectStationCode>OTB</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>20</TrajectStationVolgnr>
-      <TrajectStationCode>AHP</TrajectStationCode>
+      <TrajectStationCode>AH</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>21</TrajectStationVolgnr>
-      <TrajectStationCode>WTV</TrajectStationCode>
+      <TrajectStationCode>AHP</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>22</TrajectStationVolgnr>
-      <TrajectStationCode>DVN</TrajectStationCode>
+      <TrajectStationCode>WTV</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>23</TrajectStationVolgnr>
-      <TrajectStationCode>ZV</TrajectStationCode>
+      <TrajectStationCode>DVN</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>24</TrajectStationVolgnr>
-      <TrajectStationCode>EM</TrajectStationCode>
+      <TrajectStationCode>ZV</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>25</TrajectStationVolgnr>
-      <TrajectStationCode>OBERH</TrajectStationCode>
+      <TrajectStationCode>EM</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>26</TrajectStationVolgnr>
-      <TrajectStationCode>DUISB</TrajectStationCode>
+      <TrajectStationCode>OBERH</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>27</TrajectStationVolgnr>
-      <TrajectStationCode>DUSSEL</TrajectStationCode>
+      <TrajectStationCode>DUISB</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>28</TrajectStationVolgnr>
-      <TrajectStationCode>KKD</TrajectStationCode>
+      <TrajectStationCode>DUSSEL</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>29</TrajectStationVolgnr>
-      <TrajectStationCode>KOLN</TrajectStationCode>
+      <TrajectStationCode>KKD</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>30</TrajectStationVolgnr>
-      <TrajectStationCode>KSB</TrajectStationCode>
+      <TrajectStationCode>KOLN</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>31</TrajectStationVolgnr>
-      <TrajectStationCode>KMB</TrajectStationCode>
+      <TrajectStationCode>KSB</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>32</TrajectStationVolgnr>
-      <TrajectStationCode>FLB</TrajectStationCode>
+      <TrajectStationCode>KMB</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>33</TrajectStationVolgnr>
-      <TrajectStationCode>FNAF</TrajectStationCode>
+      <TrajectStationCode>FLB</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>34</TrajectStationVolgnr>
+      <TrajectStationCode>FNAF</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>35</TrajectStationVolgnr>
       <TrajectStationCode>FFFM</TrajectStationCode>
     </TrajectStations>
     <VervoerderCode>201</VervoerderCode>
@@ -3257,50 +3309,54 @@
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>12</TrajectStationVolgnr>
-      <TrajectStationCode>BNK</TrajectStationCode>
+      <TrajectStationCode>UTVR</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>13</TrajectStationVolgnr>
-      <TrajectStationCode>DB</TrajectStationCode>
+      <TrajectStationCode>BNK</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>14</TrajectStationVolgnr>
-      <TrajectStationCode>MRN</TrajectStationCode>
+      <TrajectStationCode>DB</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>15</TrajectStationVolgnr>
-      <TrajectStationCode>KLP</TrajectStationCode>
+      <TrajectStationCode>MRN</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>16</TrajectStationVolgnr>
-      <TrajectStationCode>ED</TrajectStationCode>
+      <TrajectStationCode>KLP</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>17</TrajectStationVolgnr>
-      <TrajectStationCode>WF</TrajectStationCode>
+      <TrajectStationCode>ED</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>18</TrajectStationVolgnr>
-      <TrajectStationCode>OTB</TrajectStationCode>
+      <TrajectStationCode>WF</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>19</TrajectStationVolgnr>
-      <TrajectStationCode>AH</TrajectStationCode>
+      <TrajectStationCode>OTB</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>20</TrajectStationVolgnr>
-      <TrajectStationCode>AHZ</TrajectStationCode>
+      <TrajectStationCode>AH</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>21</TrajectStationVolgnr>
-      <TrajectStationCode>EST</TrajectStationCode>
+      <TrajectStationCode>AHZ</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>22</TrajectStationVolgnr>
-      <TrajectStationCode>NML</TrajectStationCode>
+      <TrajectStationCode>EST</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>23</TrajectStationVolgnr>
+      <TrajectStationCode>NML</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>24</TrajectStationVolgnr>
       <TrajectStationCode>NM</TrajectStationCode>
     </TrajectStations>
     <VervoerderCode>100</VervoerderCode>
@@ -3460,10 +3516,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>ZL</VanStationCode>
+      <ViaStationCode>ASN</ViaStationCode>
       <NaarStationCode>GN</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Zwolle</Van>
+      <Via>Assen</Via>
       <Naar>Groningen</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -3701,10 +3759,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>UT</VanStationCode>
+      <ViaStationCode>GD</ViaStationCode>
       <NaarStationCode>GVC</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Utrecht</Van>
+      <Via>Gouda</Via>
       <Naar>Den Haag</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -3815,6 +3875,65 @@
     <AantalReizen>3000</AantalReizen>
   </TrajectInput>
   <TrajectInput>
+    <TrajectCode>167</TrajectCode>
+    <TrajectType>NL</TrajectType>
+    <TrajectNaamCodes>
+      <VanStationCode>ASDZ</VanStationCode>
+      <NaarStationCode>GVC</NaarStationCode>
+    </TrajectNaamCodes>
+    <TrajectNaamExtern>
+      <Van>Amsterdam Zuid</Van>
+      <Naar>Den Haag</Naar>
+    </TrajectNaamExtern>
+    <Ligging>VolledigNL</Ligging>
+    <TrajectStations>
+      <TrajectStationVolgnr>1</TrajectStationVolgnr>
+      <TrajectStationCode>ASDZ</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>2</TrajectStationVolgnr>
+      <TrajectStationCode>SHL</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>3</TrajectStationVolgnr>
+      <TrajectStationCode>HFD</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>4</TrajectStationVolgnr>
+      <TrajectStationCode>NVP</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>5</TrajectStationVolgnr>
+      <TrajectStationCode>SSH</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>6</TrajectStationVolgnr>
+      <TrajectStationCode>LEDN</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>7</TrajectStationVolgnr>
+      <TrajectStationCode>DVNK</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>8</TrajectStationVolgnr>
+      <TrajectStationCode>VST</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>9</TrajectStationVolgnr>
+      <TrajectStationCode>GVM</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>10</TrajectStationVolgnr>
+      <TrajectStationCode>LAA</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>11</TrajectStationVolgnr>
+      <TrajectStationCode>GVC</TrajectStationCode>
+    </TrajectStations>
+    <VervoerderCode>100</VervoerderCode>
+    <AantalReizen>5000</AantalReizen>
+  </TrajectInput>
+  <TrajectInput>
     <TrajectCode>13</TrajectCode>
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
@@ -3856,6 +3975,41 @@
     </TrajectStations>
     <VervoerderCode>100</VervoerderCode>
     <AantalReizen>5000</AantalReizen>
+  </TrajectInput>
+  <TrajectInput>
+    <TrajectCode>166</TrajectCode>
+    <TrajectType>NL</TrajectType>
+    <TrajectNaamCodes>
+      <VanStationCode>ASD</VanStationCode>
+      <NaarStationCode>HFD</NaarStationCode>
+    </TrajectNaamCodes>
+    <TrajectNaamExtern>
+      <Van>Amsterdam</Van>
+      <Naar>Hoofddorp</Naar>
+    </TrajectNaamExtern>
+    <Ligging>VolledigNL</Ligging>
+    <TrajectStations>
+      <TrajectStationVolgnr>1</TrajectStationVolgnr>
+      <TrajectStationCode>ASD</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>2</TrajectStationVolgnr>
+      <TrajectStationCode>ASS</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>3</TrajectStationVolgnr>
+      <TrajectStationCode>ASDL</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>4</TrajectStationVolgnr>
+      <TrajectStationCode>SHL</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>5</TrajectStationVolgnr>
+      <TrajectStationCode>HFD</TrajectStationCode>
+    </TrajectStations>
+    <VervoerderCode>100</VervoerderCode>
+    <AantalReizen>2500</AantalReizen>
   </TrajectInput>
   <TrajectInput>
     <TrajectCode>34</TrajectCode>
@@ -4287,30 +4441,34 @@
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>2</TrajectStationVolgnr>
-      <TrajectStationCode>UTLN</TrajectStationCode>
+      <TrajectStationCode>UTVR</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>3</TrajectStationVolgnr>
-      <TrajectStationCode>HTN</TrajectStationCode>
+      <TrajectStationCode>UTLN</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>4</TrajectStationVolgnr>
-      <TrajectStationCode>HTNC</TrajectStationCode>
+      <TrajectStationCode>HTN</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>5</TrajectStationVolgnr>
-      <TrajectStationCode>CL</TrajectStationCode>
+      <TrajectStationCode>HTNC</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>6</TrajectStationVolgnr>
-      <TrajectStationCode>GDM</TrajectStationCode>
+      <TrajectStationCode>CL</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>7</TrajectStationVolgnr>
-      <TrajectStationCode>ZBM</TrajectStationCode>
+      <TrajectStationCode>GDM</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>8</TrajectStationVolgnr>
+      <TrajectStationCode>ZBM</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>9</TrajectStationVolgnr>
       <TrajectStationCode>HT</TrajectStationCode>
     </TrajectStations>
     <VervoerderCode>100</VervoerderCode>
@@ -4407,10 +4565,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>LEDN</VanStationCode>
+      <ViaStationCode>SHL</ViaStationCode>
       <NaarStationCode>HVS</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Leiden</Van>
+      <Via>Schiphol</Via>
       <Naar>Hilversum</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -4681,10 +4841,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>UT</VanStationCode>
+      <ViaStationCode>WD</ViaStationCode>
       <NaarStationCode>LEDN</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Utrecht</Van>
+      <Via>Woerden</Via>
       <Naar>Leiden</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -4902,10 +5064,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>DVD</VanStationCode>
+      <ViaStationCode>ALM</ViaStationCode>
       <NaarStationCode>LLS</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Duivendrecht</Van>
+      <Via>Almere</Via>
       <Naar>Lelystad</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -5026,10 +5190,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>ZL</VanStationCode>
+      <ViaStationCode>HR</ViaStationCode>
       <NaarStationCode>LW</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Zwolle</Van>
+      <Via>Heerenveen</Via>
       <Naar>Leeuwarden</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -5613,50 +5779,54 @@
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>11</TrajectStationVolgnr>
-      <TrajectStationCode>BNK</TrajectStationCode>
+      <TrajectStationCode>UTVR</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>12</TrajectStationVolgnr>
-      <TrajectStationCode>DB</TrajectStationCode>
+      <TrajectStationCode>BNK</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>13</TrajectStationVolgnr>
-      <TrajectStationCode>MRN</TrajectStationCode>
+      <TrajectStationCode>DB</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>14</TrajectStationVolgnr>
-      <TrajectStationCode>KLP</TrajectStationCode>
+      <TrajectStationCode>MRN</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>15</TrajectStationVolgnr>
-      <TrajectStationCode>ED</TrajectStationCode>
+      <TrajectStationCode>KLP</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>16</TrajectStationVolgnr>
-      <TrajectStationCode>WF</TrajectStationCode>
+      <TrajectStationCode>ED</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>17</TrajectStationVolgnr>
-      <TrajectStationCode>OTB</TrajectStationCode>
+      <TrajectStationCode>WF</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>18</TrajectStationVolgnr>
-      <TrajectStationCode>AH</TrajectStationCode>
+      <TrajectStationCode>OTB</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>19</TrajectStationVolgnr>
-      <TrajectStationCode>AHZ</TrajectStationCode>
+      <TrajectStationCode>AH</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>20</TrajectStationVolgnr>
-      <TrajectStationCode>EST</TrajectStationCode>
+      <TrajectStationCode>AHZ</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>21</TrajectStationVolgnr>
-      <TrajectStationCode>NML</TrajectStationCode>
+      <TrajectStationCode>EST</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>22</TrajectStationVolgnr>
+      <TrajectStationCode>NML</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>23</TrajectStationVolgnr>
       <TrajectStationCode>NM</TrajectStationCode>
     </TrajectStations>
     <VervoerderCode>100</VervoerderCode>
@@ -5682,50 +5852,54 @@
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>2</TrajectStationVolgnr>
-      <TrajectStationCode>BNK</TrajectStationCode>
+      <TrajectStationCode>UTVR</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>3</TrajectStationVolgnr>
-      <TrajectStationCode>DB</TrajectStationCode>
+      <TrajectStationCode>BNK</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>4</TrajectStationVolgnr>
-      <TrajectStationCode>MRN</TrajectStationCode>
+      <TrajectStationCode>DB</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>5</TrajectStationVolgnr>
-      <TrajectStationCode>KLP</TrajectStationCode>
+      <TrajectStationCode>MRN</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>6</TrajectStationVolgnr>
-      <TrajectStationCode>ED</TrajectStationCode>
+      <TrajectStationCode>KLP</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>7</TrajectStationVolgnr>
-      <TrajectStationCode>WF</TrajectStationCode>
+      <TrajectStationCode>ED</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>8</TrajectStationVolgnr>
-      <TrajectStationCode>OTB</TrajectStationCode>
+      <TrajectStationCode>WF</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>9</TrajectStationVolgnr>
-      <TrajectStationCode>AH</TrajectStationCode>
+      <TrajectStationCode>OTB</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>10</TrajectStationVolgnr>
-      <TrajectStationCode>AHZ</TrajectStationCode>
+      <TrajectStationCode>AH</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>11</TrajectStationVolgnr>
-      <TrajectStationCode>EST</TrajectStationCode>
+      <TrajectStationCode>AHZ</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>12</TrajectStationVolgnr>
-      <TrajectStationCode>NML</TrajectStationCode>
+      <TrajectStationCode>EST</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>13</TrajectStationVolgnr>
+      <TrajectStationCode>NML</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>14</TrajectStationVolgnr>
       <TrajectStationCode>NM</TrajectStationCode>
     </TrajectStations>
     <VervoerderCode>100</VervoerderCode>
@@ -5818,10 +5992,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>ZP</VanStationCode>
+      <ViaStationCode>HGL</ViaStationCode>
       <NaarStationCode>ODZ</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Zutphen</Van>
+      <Via>Hengelo</Via>
       <Naar>Oldenzaal</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -5938,10 +6114,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>GN</VanStationCode>
+      <ViaStationCode>BF</ViaStationCode>
       <NaarStationCode>RD</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Groningen</Van>
+      <Via>Baflo</Via>
       <Naar>Roodeschool</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -5993,10 +6171,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>UT</VanStationCode>
+      <ViaStationCode>MRN</ViaStationCode>
       <NaarStationCode>RHN</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Utrecht</Van>
+      <Via>Maarn</Via>
       <Naar>Rhenen</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -6006,26 +6186,30 @@
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>2</TrajectStationVolgnr>
-      <TrajectStationCode>BNK</TrajectStationCode>
+      <TrajectStationCode>UTVR</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>3</TrajectStationVolgnr>
-      <TrajectStationCode>DB</TrajectStationCode>
+      <TrajectStationCode>BNK</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>4</TrajectStationVolgnr>
-      <TrajectStationCode>MRN</TrajectStationCode>
+      <TrajectStationCode>DB</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>5</TrajectStationVolgnr>
-      <TrajectStationCode>VNDW</TrajectStationCode>
+      <TrajectStationCode>MRN</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>6</TrajectStationVolgnr>
-      <TrajectStationCode>VNDC</TrajectStationCode>
+      <TrajectStationCode>VNDW</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>7</TrajectStationVolgnr>
+      <TrajectStationCode>VNDC</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>8</TrajectStationVolgnr>
       <TrajectStationCode>RHN</TrajectStationCode>
     </TrajectStations>
     <VervoerderCode>100</VervoerderCode>
@@ -6179,10 +6363,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>RTD</VanStationCode>
+      <ViaStationCode>DDR</ViaStationCode>
       <NaarStationCode>RSD</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Rotterdam</Van>
+      <Via>Dordrecht</Via>
       <Naar>Roosendaal</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -6269,10 +6455,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>GVC</VanStationCode>
+      <ViaStationCode>DT</ViaStationCode>
       <NaarStationCode>RTD</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Den Haag</Van>
+      <Via>Delft</Via>
       <Naar>Rotterdam</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -6354,10 +6542,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>UT</VanStationCode>
+      <ViaStationCode>GD</ViaStationCode>
       <NaarStationCode>RTD</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Utrecht</Van>
+      <Via>Gouda</Via>
       <Naar>Rotterdam</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -6535,10 +6725,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>LW</VanStationCode>
+      <ViaStationCode>IJT</ViaStationCode>
       <NaarStationCode>STV</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Leeuwarden</Van>
+      <Via>IJlst</Via>
       <Naar>Stavoren</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -6644,10 +6836,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>AH</VanStationCode>
+      <ViaStationCode>EST</ViaStationCode>
       <NaarStationCode>TL</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Arnhem</Van>
+      <Via>Elst</Via>
       <Naar>Tiel</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -6691,10 +6885,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>UT</VanStationCode>
+      <ViaStationCode>CL</ViaStationCode>
       <NaarStationCode>TL</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Utrecht</Van>
+      <Via>Culemborg</Via>
       <Naar>Tiel</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -6704,30 +6900,34 @@
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>2</TrajectStationVolgnr>
-      <TrajectStationCode>UTLN</TrajectStationCode>
+      <TrajectStationCode>UTVR</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>3</TrajectStationVolgnr>
-      <TrajectStationCode>HTN</TrajectStationCode>
+      <TrajectStationCode>UTLN</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>4</TrajectStationVolgnr>
-      <TrajectStationCode>HTNC</TrajectStationCode>
+      <TrajectStationCode>HTN</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>5</TrajectStationVolgnr>
-      <TrajectStationCode>CL</TrajectStationCode>
+      <TrajectStationCode>HTNC</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>6</TrajectStationVolgnr>
-      <TrajectStationCode>GDM</TrajectStationCode>
+      <TrajectStationCode>CL</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>7</TrajectStationVolgnr>
-      <TrajectStationCode>TPSW</TrajectStationCode>
+      <TrajectStationCode>GDM</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>8</TrajectStationVolgnr>
+      <TrajectStationCode>TPSW</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>9</TrajectStationVolgnr>
       <TrajectStationCode>TL</TrajectStationCode>
     </TrajectStations>
     <VervoerderCode>100</VervoerderCode>
@@ -7030,10 +7230,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>NM</VanStationCode>
+      <ViaStationCode>CK</ViaStationCode>
       <NaarStationCode>VL</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Nijmegen</Van>
+      <Via>Cijk</Via>
       <Naar>Venlo</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -7238,10 +7440,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>UT</VanStationCode>
+      <ViaStationCode>MRN</ViaStationCode>
       <NaarStationCode>VNDC</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Utrecht</Van>
+      <Via>Maarn</Via>
       <Naar>Veenendaal</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -7251,22 +7455,26 @@
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>2</TrajectStationVolgnr>
-      <TrajectStationCode>BNK</TrajectStationCode>
+      <TrajectStationCode>UTVR</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>3</TrajectStationVolgnr>
-      <TrajectStationCode>DB</TrajectStationCode>
+      <TrajectStationCode>BNK</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>4</TrajectStationVolgnr>
-      <TrajectStationCode>MRN</TrajectStationCode>
+      <TrajectStationCode>DB</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>5</TrajectStationVolgnr>
-      <TrajectStationCode>VNDW</TrajectStationCode>
+      <TrajectStationCode>MRN</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>6</TrajectStationVolgnr>
+      <TrajectStationCode>VNDW</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>7</TrajectStationVolgnr>
       <TrajectStationCode>VNDC</TrajectStationCode>
     </TrajectStations>
     <VervoerderCode>100</VervoerderCode>
@@ -7277,10 +7485,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>BKL</VanStationCode>
+      <ViaStationCode>UT</ViaStationCode>
       <NaarStationCode>VNDC</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Breukelen</Van>
+      <Via>Utrecht</Via>
       <Naar>Veenendaal</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -7302,22 +7512,26 @@
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>5</TrajectStationVolgnr>
-      <TrajectStationCode>BNK</TrajectStationCode>
+      <TrajectStationCode>UTVR</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>6</TrajectStationVolgnr>
-      <TrajectStationCode>DB</TrajectStationCode>
+      <TrajectStationCode>BNK</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>7</TrajectStationVolgnr>
-      <TrajectStationCode>MRN</TrajectStationCode>
+      <TrajectStationCode>DB</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>8</TrajectStationVolgnr>
-      <TrajectStationCode>VNDW</TrajectStationCode>
+      <TrajectStationCode>MRN</TrajectStationCode>
     </TrajectStations>
     <TrajectStations>
       <TrajectStationVolgnr>9</TrajectStationVolgnr>
+      <TrajectStationCode>VNDW</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>10</TrajectStationVolgnr>
       <TrajectStationCode>VNDC</TrajectStationCode>
     </TrajectStations>
     <VervoerderCode>100</VervoerderCode>
@@ -7328,10 +7542,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>NM</VanStationCode>
+      <ViaStationCode>CK</ViaStationCode>
       <NaarStationCode>VRY</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Nijmegen</Van>
+      <Via>Cuijk</Via>
       <Naar>Venray</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -7371,10 +7587,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>RSD</VanStationCode>
+      <ViaStationCode>GS</ViaStationCode>
       <NaarStationCode>VS</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Roosendaal</Van>
+      <Via>Goes</Via>
       <Naar>Vlissingen</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -7531,10 +7749,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>AH</VanStationCode>
+      <ViaStationCode>DTC</ViaStationCode>
       <NaarStationCode>WW</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Arnhem</Van>
+      <Via>Doetinchem</Via>
       <Naar>Winterswijk</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>
@@ -7602,10 +7822,12 @@
     <TrajectType>NL</TrajectType>
     <TrajectNaamCodes>
       <VanStationCode>ZP</VanStationCode>
+      <ViaStationCode>RL</ViaStationCode>
       <NaarStationCode>WW</NaarStationCode>
     </TrajectNaamCodes>
     <TrajectNaamExtern>
       <Van>Zutphen</Van>
+      <Via>Ruurlo</Via>
       <Naar>Winterswijk</Naar>
     </TrajectNaamExtern>
     <Ligging>VolledigNL</Ligging>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2016-07-14T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2016-08-22T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StationInput>
     <StationCode>AC</StationCode>
     <Type>0</Type>
@@ -398,7 +398,7 @@
   </StationInput>
   <StationInput>
     <StationCode>AVAT</StationCode>
-    <Type>2</Type>
+    <Type>0</Type>
     <KorteNaam>Vathorst</KorteNaam>
     <MiddelNaam>Vathorst</MiddelNaam>
     <LangeNaam>Amersfoort Vathorst</LangeNaam>
@@ -875,7 +875,7 @@
   </StationInput>
   <StationInput>
     <StationCode>COMO</StationCode>
-    <Type>5</Type>
+    <Type>4</Type>
     <KorteNaam>Como</KorteNaam>
     <MiddelNaam>Como</MiddelNaam>
     <LangeNaam>Como</LangeNaam>
@@ -5639,8 +5639,17 @@
     <UICCode>8767133</UICCode>
   </StationInput>
   <StationInput>
+    <StationCode>UTVR</StationCode>
+    <Type>1</Type>
+    <KorteNaam>VaartscheR</KorteNaam>
+    <MiddelNaam>Vaartsche Rijn</MiddelNaam>
+    <LangeNaam>Utrecht Vaartsche Rijn</LangeNaam>
+    <TaalCode>nl</TaalCode>
+    <UICCode>8400606</UICCode>
+  </StationInput>
+  <StationInput>
     <StationCode>HBDP</StationCode>
-    <Type>6</Type>
+    <Type>4</Type>
     <KorteNaam>Budapest</KorteNaam>
     <MiddelNaam>Budapest</MiddelNaam>
     <LangeNaam>Budapest</LangeNaam>
