@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2016-09-03T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2016-09-29T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <TreinSerieInput>
     <VanTreinNummer>1</VanTreinNummer>
     <TotEnMetTreinNummer>99</TotEnMetTreinNummer>
@@ -1068,7 +1068,7 @@
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>31800</VanTreinNummer>
-    <TotEnMetTreinNummer>31999</TotEnMetTreinNummer>
+    <TotEnMetTreinNummer>31819</TotEnMetTreinNummer>
     <VervoerderCode>700</VervoerderCode>
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
@@ -2314,7 +2314,7 @@
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>131800</VanTreinNummer>
-    <TotEnMetTreinNummer>131999</TotEnMetTreinNummer>
+    <TotEnMetTreinNummer>131819</TotEnMetTreinNummer>
     <VervoerderCode>700</VervoerderCode>
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
@@ -3560,7 +3560,7 @@
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>231800</VanTreinNummer>
-    <TotEnMetTreinNummer>231999</TotEnMetTreinNummer>
+    <TotEnMetTreinNummer>231819</TotEnMetTreinNummer>
     <VervoerderCode>700</VervoerderCode>
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
@@ -6712,7 +6712,7 @@
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>731800</VanTreinNummer>
-    <TotEnMetTreinNummer>731999</TotEnMetTreinNummer>
+    <TotEnMetTreinNummer>731819</TotEnMetTreinNummer>
     <VervoerderCode>700</VervoerderCode>
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
@@ -7541,47 +7541,52 @@
   <TreinSerieInput>
     <VanTreinNummer>13480</VanTreinNummer>
     <TotEnMetTreinNummer>13480</TotEnMetTreinNummer>
-    <VervoerderCode>1</VervoerderCode>
+    <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinSoortCode>MT</TreinSoortCode>
+    <TreinNaam>Tolle Müller Tour</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>113480</VanTreinNummer>
     <TotEnMetTreinNummer>113480</TotEnMetTreinNummer>
-    <VervoerderCode>1</VervoerderCode>
+    <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinSoortCode>MT</TreinSoortCode>
+    <TreinNaam>Tolle Müller Tour</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>213480</VanTreinNummer>
     <TotEnMetTreinNummer>213480</TotEnMetTreinNummer>
-    <VervoerderCode>1</VervoerderCode>
+    <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinSoortCode>MT</TreinSoortCode>
+    <TreinNaam>Tolle Müller Tour</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>313480</VanTreinNummer>
     <TotEnMetTreinNummer>313480</TotEnMetTreinNummer>
-    <VervoerderCode>1</VervoerderCode>
+    <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinSoortCode>MT</TreinSoortCode>
+    <TreinNaam>Tolle Müller Tour</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>713480</VanTreinNummer>
     <TotEnMetTreinNummer>713480</TotEnMetTreinNummer>
-    <VervoerderCode>1</VervoerderCode>
+    <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinSoortCode>MT</TreinSoortCode>
+    <TreinNaam>Tolle Müller Tour</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>250</VanTreinNummer>
@@ -8539,7 +8544,7 @@
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>331800</VanTreinNummer>
-    <TotEnMetTreinNummer>331999</TotEnMetTreinNummer>
+    <TotEnMetTreinNummer>331819</TotEnMetTreinNummer>
     <VervoerderCode>700</VervoerderCode>
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
@@ -10124,47 +10129,52 @@
   <TreinSerieInput>
     <VanTreinNummer>13481</VanTreinNummer>
     <TotEnMetTreinNummer>13481</TotEnMetTreinNummer>
-    <VervoerderCode>1</VervoerderCode>
+    <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinSoortCode>MT</TreinSoortCode>
+    <TreinNaam>Tolle Müller Tour</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>113481</VanTreinNummer>
     <TotEnMetTreinNummer>113481</TotEnMetTreinNummer>
-    <VervoerderCode>1</VervoerderCode>
+    <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinSoortCode>MT</TreinSoortCode>
+    <TreinNaam>Tolle Müller Tour</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>213481</VanTreinNummer>
     <TotEnMetTreinNummer>213481</TotEnMetTreinNummer>
-    <VervoerderCode>1</VervoerderCode>
+    <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinSoortCode>MT</TreinSoortCode>
+    <TreinNaam>Tolle Müller Tour</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>313481</VanTreinNummer>
     <TotEnMetTreinNummer>313481</TotEnMetTreinNummer>
-    <VervoerderCode>1</VervoerderCode>
+    <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinSoortCode>MT</TreinSoortCode>
+    <TreinNaam>Tolle Müller Tour</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>713481</VanTreinNummer>
     <TotEnMetTreinNummer>713481</TotEnMetTreinNummer>
-    <VervoerderCode>1</VervoerderCode>
+    <VervoerderCode>962</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
-    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinSoortCode>MT</TreinSoortCode>
+    <TreinNaam>Tolle Müller Tour</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>13484</VanTreinNummer>
@@ -10561,8 +10571,8 @@
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>IC</TreinSoortCode>
-    <TreinNaam>Niet instappen</TreinNaam>
+    <TreinSoortCode>NI</TreinSoortCode>
+    <TreinNaam>Niet Instappen</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>133210</VanTreinNummer>
@@ -10571,8 +10581,8 @@
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>IC</TreinSoortCode>
-    <TreinNaam>Niet instappen</TreinNaam>
+    <TreinSoortCode>NI</TreinSoortCode>
+    <TreinNaam>Niet Instappen</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>233210</VanTreinNummer>
@@ -10581,8 +10591,8 @@
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>IC</TreinSoortCode>
-    <TreinNaam>Niet instappen</TreinNaam>
+    <TreinSoortCode>NI</TreinSoortCode>
+    <TreinNaam>Niet Instappen</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>333210</VanTreinNummer>
@@ -10591,8 +10601,8 @@
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>IC</TreinSoortCode>
-    <TreinNaam>Niet instappen</TreinNaam>
+    <TreinSoortCode>NI</TreinSoortCode>
+    <TreinNaam>Niet Instappen</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>733210</VanTreinNummer>
@@ -10601,8 +10611,8 @@
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
-    <TreinSoortCode>IC</TreinSoortCode>
-    <TreinNaam>Niet instappen</TreinNaam>
+    <TreinSoortCode>NI</TreinSoortCode>
+    <TreinNaam>Niet Instappen</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>7200</VanTreinNummer>
@@ -12144,7 +12154,7 @@
     <TreinSoortCode>ST</TreinSoortCode>
   </TreinSerieInput>
   <TreinSerieInput>
-    <VanTreinNummer>28207</VanTreinNummer>
+    <VanTreinNummer>28217</VanTreinNummer>
     <TotEnMetTreinNummer>28249</TotEnMetTreinNummer>
     <VervoerderCode>100</VervoerderCode>
     <Reserveren>N</Reserveren>
@@ -12153,7 +12163,7 @@
     <TreinSoortCode>SPC</TreinSoortCode>
   </TreinSerieInput>
   <TreinSerieInput>
-    <VanTreinNummer>128207</VanTreinNummer>
+    <VanTreinNummer>128217</VanTreinNummer>
     <TotEnMetTreinNummer>128249</TotEnMetTreinNummer>
     <VervoerderCode>100</VervoerderCode>
     <Reserveren>N</Reserveren>
@@ -12162,7 +12172,7 @@
     <TreinSoortCode>SPC</TreinSoortCode>
   </TreinSerieInput>
   <TreinSerieInput>
-    <VanTreinNummer>228207</VanTreinNummer>
+    <VanTreinNummer>228217</VanTreinNummer>
     <TotEnMetTreinNummer>228249</TotEnMetTreinNummer>
     <VervoerderCode>100</VervoerderCode>
     <Reserveren>N</Reserveren>
@@ -12171,7 +12181,7 @@
     <TreinSoortCode>SPC</TreinSoortCode>
   </TreinSerieInput>
   <TreinSerieInput>
-    <VanTreinNummer>328207</VanTreinNummer>
+    <VanTreinNummer>328217</VanTreinNummer>
     <TotEnMetTreinNummer>328249</TotEnMetTreinNummer>
     <VervoerderCode>100</VervoerderCode>
     <Reserveren>N</Reserveren>
@@ -12180,7 +12190,7 @@
     <TreinSoortCode>SPC</TreinSoortCode>
   </TreinSerieInput>
   <TreinSerieInput>
-    <VanTreinNummer>728207</VanTreinNummer>
+    <VanTreinNummer>728217</VanTreinNummer>
     <TotEnMetTreinNummer>728249</TotEnMetTreinNummer>
     <VervoerderCode>100</VervoerderCode>
     <Reserveren>N</Reserveren>
@@ -12475,7 +12485,7 @@
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>PR</TreinSoortCode>
-    <TreinNaam>Panorama Rail Restaurant</TreinNaam>
+    <TreinNaam>NS International Diner Express</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>133201</VanTreinNummer>
@@ -12485,7 +12495,7 @@
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>PR</TreinSoortCode>
-    <TreinNaam>Panorama Rail Restaurant</TreinNaam>
+    <TreinNaam>NS International Diner Express</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>233201</VanTreinNummer>
@@ -12495,7 +12505,7 @@
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>PR</TreinSoortCode>
-    <TreinNaam>Panorama Rail Restaurant</TreinNaam>
+    <TreinNaam>NS International Diner Express</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>333201</VanTreinNummer>
@@ -12505,7 +12515,7 @@
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>PR</TreinSoortCode>
-    <TreinNaam>Panorama Rail Restaurant</TreinNaam>
+    <TreinNaam>NS International Diner Express</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>733201</VanTreinNummer>
@@ -12515,7 +12525,7 @@
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>PR</TreinSoortCode>
-    <TreinNaam>Panorama Rail Restaurant</TreinNaam>
+    <TreinNaam>NS International Diner Express</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>28205</VanTreinNummer>
@@ -12799,45 +12809,45 @@
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>38106</VanTreinNummer>
-    <TotEnMetTreinNummer>38174</TotEnMetTreinNummer>
+    <TotEnMetTreinNummer>38106</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
-    <Reserveren>J</Reserveren>
+    <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>138106</VanTreinNummer>
-    <TotEnMetTreinNummer>138174</TotEnMetTreinNummer>
+    <TotEnMetTreinNummer>138106</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
-    <Reserveren>J</Reserveren>
+    <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>238106</VanTreinNummer>
-    <TotEnMetTreinNummer>238174</TotEnMetTreinNummer>
+    <TotEnMetTreinNummer>238106</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
-    <Reserveren>J</Reserveren>
+    <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>338106</VanTreinNummer>
-    <TotEnMetTreinNummer>338174</TotEnMetTreinNummer>
+    <TotEnMetTreinNummer>338106</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
-    <Reserveren>J</Reserveren>
+    <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>738106</VanTreinNummer>
-    <TotEnMetTreinNummer>738174</TotEnMetTreinNummer>
+    <TotEnMetTreinNummer>738106</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
-    <Reserveren>J</Reserveren>
+    <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
@@ -12893,9 +12903,9 @@
     <VervoerderCode>964</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
-    <TreinNaam>DB Cargo Transharbour Express</TreinNaam>
+    <TreinNaam>Zuiderzee Express</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>138100</VanTreinNummer>
@@ -12903,9 +12913,9 @@
     <VervoerderCode>964</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
-    <TreinNaam>DB Cargo Transharbour Express</TreinNaam>
+    <TreinNaam>Zuiderzee Express</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>238100</VanTreinNummer>
@@ -12913,9 +12923,9 @@
     <VervoerderCode>964</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
-    <TreinNaam>DB Cargo Transharbour Express</TreinNaam>
+    <TreinNaam>Zuiderzee Express</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>338100</VanTreinNummer>
@@ -12923,9 +12933,9 @@
     <VervoerderCode>964</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
-    <TreinNaam>DB Cargo Transharbour Express</TreinNaam>
+    <TreinNaam>Zuiderzee Express</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>738100</VanTreinNummer>
@@ -12933,9 +12943,9 @@
     <VervoerderCode>964</VervoerderCode>
     <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
-    <TreinNaam>DB Cargo Transharbour Express</TreinNaam>
+    <TreinNaam>Zuiderzee Express</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>13494</VanTreinNummer>
@@ -13851,200 +13861,880 @@
     <VanTreinNummer>38103</VanTreinNummer>
     <TotEnMetTreinNummer>38103</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
-    <Reserveren>N</Reserveren>
+    <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
-    <TreinNaam>Niet Instappen</TreinNaam>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>138103</VanTreinNummer>
     <TotEnMetTreinNummer>138103</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
-    <Reserveren>N</Reserveren>
+    <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
-    <TreinNaam>Niet Instappen</TreinNaam>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>238103</VanTreinNummer>
     <TotEnMetTreinNummer>238103</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
-    <Reserveren>N</Reserveren>
+    <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
-    <TreinNaam>Niet Instappen</TreinNaam>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>338103</VanTreinNummer>
     <TotEnMetTreinNummer>338103</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
-    <Reserveren>N</Reserveren>
+    <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
-    <TreinNaam>Niet Instappen</TreinNaam>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>738103</VanTreinNummer>
     <TotEnMetTreinNummer>738103</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
-    <Reserveren>N</Reserveren>
+    <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
-    <TreinNaam>Niet Instappen</TreinNaam>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>38102</VanTreinNummer>
     <TotEnMetTreinNummer>38102</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
-    <Reserveren>J</Reserveren>
+    <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
-    <TreinNaam>DB Cargo Transharbour Express</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>138102</VanTreinNummer>
     <TotEnMetTreinNummer>138102</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
-    <Reserveren>J</Reserveren>
+    <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
-    <TreinNaam>DB Cargo Transharbour Express</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>238102</VanTreinNummer>
     <TotEnMetTreinNummer>238102</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
-    <Reserveren>J</Reserveren>
+    <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
-    <TreinNaam>DB Cargo Transharbour Express</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>338102</VanTreinNummer>
     <TotEnMetTreinNummer>338102</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
-    <Reserveren>J</Reserveren>
+    <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
-    <TreinNaam>DB Cargo Transharbour Express</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>738102</VanTreinNummer>
     <TotEnMetTreinNummer>738102</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
-    <Reserveren>J</Reserveren>
+    <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
-    <TreinNaam>DB Cargo Transharbour Express</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>38104</VanTreinNummer>
     <TotEnMetTreinNummer>38104</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
-    <Reserveren>J</Reserveren>
+    <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
-    <TreinNaam>DB Cargo Midnight Express</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>138104</VanTreinNummer>
     <TotEnMetTreinNummer>138104</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
-    <Reserveren>J</Reserveren>
+    <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
-    <TreinNaam>DB Cargo Midnight Express</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>238104</VanTreinNummer>
     <TotEnMetTreinNummer>238104</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
-    <Reserveren>J</Reserveren>
+    <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
-    <TreinNaam>DB Cargo Midnight Express</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>338104</VanTreinNummer>
     <TotEnMetTreinNummer>338104</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
-    <Reserveren>J</Reserveren>
+    <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
-    <TreinNaam>DB Cargo Midnight Express</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>738104</VanTreinNummer>
     <TotEnMetTreinNummer>738104</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
-    <Reserveren>J</Reserveren>
+    <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
-    <TreinNaam>DB Cargo Midnight Express</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>38105</VanTreinNummer>
     <TotEnMetTreinNummer>38105</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
-    <Reserveren>N</Reserveren>
+    <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
-    <TreinNaam>Niet Instappen</TreinNaam>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>138105</VanTreinNummer>
     <TotEnMetTreinNummer>138105</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
-    <Reserveren>N</Reserveren>
+    <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
-    <TreinNaam>Niet Instappen</TreinNaam>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>238105</VanTreinNummer>
     <TotEnMetTreinNummer>238105</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
-    <Reserveren>N</Reserveren>
+    <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
-    <TreinNaam>Niet Instappen</TreinNaam>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>338105</VanTreinNummer>
     <TotEnMetTreinNummer>338105</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
-    <Reserveren>N</Reserveren>
+    <Reserveren>J</Reserveren>
     <Toeslag>N</Toeslag>
-    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
-    <TreinNaam>Niet Instappen</TreinNaam>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
   </TreinSerieInput>
   <TreinSerieInput>
     <VanTreinNummer>738105</VanTreinNummer>
     <TotEnMetTreinNummer>738105</TotEnMetTreinNummer>
     <VervoerderCode>964</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>STM</TreinSoortCode>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>19001</VanTreinNummer>
+    <TotEnMetTreinNummer>19002</TotEnMetTreinNummer>
+    <VervoerderCode>963</VervoerderCode>
     <Reserveren>N</Reserveren>
     <Toeslag>N</Toeslag>
     <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>NI</TreinSoortCode>
+    <TreinNaam>Niet Instappen</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>119001</VanTreinNummer>
+    <TotEnMetTreinNummer>119002</TotEnMetTreinNummer>
+    <VervoerderCode>963</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>NI</TreinSoortCode>
+    <TreinNaam>Niet Instappen</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>219001</VanTreinNummer>
+    <TotEnMetTreinNummer>219002</TotEnMetTreinNummer>
+    <VervoerderCode>963</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>NI</TreinSoortCode>
+    <TreinNaam>Niet Instappen</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>319001</VanTreinNummer>
+    <TotEnMetTreinNummer>319002</TotEnMetTreinNummer>
+    <VervoerderCode>963</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>NI</TreinSoortCode>
+    <TreinNaam>Niet Instappen</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>719001</VanTreinNummer>
+    <TotEnMetTreinNummer>719002</TotEnMetTreinNummer>
+    <VervoerderCode>963</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>NI</TreinSoortCode>
+    <TreinNaam>Niet Instappen</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>13241</VanTreinNummer>
+    <TotEnMetTreinNummer>13242</TotEnMetTreinNummer>
+    <VervoerderCode>963</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinNaam>Bedevaarttrein naar Lourdes</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>113241</VanTreinNummer>
+    <TotEnMetTreinNummer>113242</TotEnMetTreinNummer>
+    <VervoerderCode>963</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinNaam>Bedevaarttrein naar Lourdes</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>213241</VanTreinNummer>
+    <TotEnMetTreinNummer>213242</TotEnMetTreinNummer>
+    <VervoerderCode>963</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinNaam>Bedevaarttrein naar Lourdes</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>313241</VanTreinNummer>
+    <TotEnMetTreinNummer>313242</TotEnMetTreinNummer>
+    <VervoerderCode>963</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinNaam>Bedevaarttrein naar Lourdes</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>713241</VanTreinNummer>
+    <TotEnMetTreinNummer>713242</TotEnMetTreinNummer>
+    <VervoerderCode>963</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>INT</TreinSoortCode>
+    <TreinNaam>Bedevaarttrein naar Lourdes</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>38107</VanTreinNummer>
+    <TotEnMetTreinNummer>38107</TotEnMetTreinNummer>
+    <VervoerderCode>964</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
     <TreinSoortCode>STM</TreinSoortCode>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>138107</VanTreinNummer>
+    <TotEnMetTreinNummer>138107</TotEnMetTreinNummer>
+    <VervoerderCode>964</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>STM</TreinSoortCode>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>238107</VanTreinNummer>
+    <TotEnMetTreinNummer>238107</TotEnMetTreinNummer>
+    <VervoerderCode>964</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>STM</TreinSoortCode>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>338107</VanTreinNummer>
+    <TotEnMetTreinNummer>338107</TotEnMetTreinNummer>
+    <VervoerderCode>964</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>STM</TreinSoortCode>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>738107</VanTreinNummer>
+    <TotEnMetTreinNummer>738107</TotEnMetTreinNummer>
+    <VervoerderCode>964</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>STM</TreinSoortCode>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>38109</VanTreinNummer>
+    <TotEnMetTreinNummer>38109</TotEnMetTreinNummer>
+    <VervoerderCode>964</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>ST</TreinSoortCode>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>138109</VanTreinNummer>
+    <TotEnMetTreinNummer>138109</TotEnMetTreinNummer>
+    <VervoerderCode>964</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>ST</TreinSoortCode>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>238109</VanTreinNummer>
+    <TotEnMetTreinNummer>238109</TotEnMetTreinNummer>
+    <VervoerderCode>964</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>ST</TreinSoortCode>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>338109</VanTreinNummer>
+    <TotEnMetTreinNummer>338109</TotEnMetTreinNummer>
+    <VervoerderCode>964</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>ST</TreinSoortCode>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>738109</VanTreinNummer>
+    <TotEnMetTreinNummer>738109</TotEnMetTreinNummer>
+    <VervoerderCode>964</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>ST</TreinSoortCode>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>38111</VanTreinNummer>
+    <TotEnMetTreinNummer>38111</TotEnMetTreinNummer>
+    <VervoerderCode>964</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>STM</TreinSoortCode>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>138111</VanTreinNummer>
+    <TotEnMetTreinNummer>138111</TotEnMetTreinNummer>
+    <VervoerderCode>964</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>STM</TreinSoortCode>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>238111</VanTreinNummer>
+    <TotEnMetTreinNummer>238111</TotEnMetTreinNummer>
+    <VervoerderCode>964</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>STM</TreinSoortCode>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>338111</VanTreinNummer>
+    <TotEnMetTreinNummer>338111</TotEnMetTreinNummer>
+    <VervoerderCode>964</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>STM</TreinSoortCode>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>738111</VanTreinNummer>
+    <TotEnMetTreinNummer>738111</TotEnMetTreinNummer>
+    <VervoerderCode>964</VervoerderCode>
+    <Reserveren>J</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>STM</TreinSoortCode>
+    <TreinNaam>BNdeStem Expres</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>28207</VanTreinNummer>
+    <TotEnMetTreinNummer>28210</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>128207</VanTreinNummer>
+    <TotEnMetTreinNummer>128210</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>228207</VanTreinNummer>
+    <TotEnMetTreinNummer>228210</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>328207</VanTreinNummer>
+    <TotEnMetTreinNummer>328210</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>728207</VanTreinNummer>
+    <TotEnMetTreinNummer>728210</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>28211</VanTreinNummer>
+    <TotEnMetTreinNummer>28211</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>128211</VanTreinNummer>
+    <TotEnMetTreinNummer>128211</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>228211</VanTreinNummer>
+    <TotEnMetTreinNummer>228211</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>328211</VanTreinNummer>
+    <TotEnMetTreinNummer>328211</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>728211</VanTreinNummer>
+    <TotEnMetTreinNummer>728211</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>28212</VanTreinNummer>
+    <TotEnMetTreinNummer>28212</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>128212</VanTreinNummer>
+    <TotEnMetTreinNummer>128212</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>228212</VanTreinNummer>
+    <TotEnMetTreinNummer>228212</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>328212</VanTreinNummer>
+    <TotEnMetTreinNummer>328212</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>728212</VanTreinNummer>
+    <TotEnMetTreinNummer>728212</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>28213</VanTreinNummer>
+    <TotEnMetTreinNummer>28213</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>S</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>128213</VanTreinNummer>
+    <TotEnMetTreinNummer>128213</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>S</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>228213</VanTreinNummer>
+    <TotEnMetTreinNummer>228213</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>S</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>328213</VanTreinNummer>
+    <TotEnMetTreinNummer>328213</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>S</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>728213</VanTreinNummer>
+    <TotEnMetTreinNummer>728213</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>S</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>28214</VanTreinNummer>
+    <TotEnMetTreinNummer>28214</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>128214</VanTreinNummer>
+    <TotEnMetTreinNummer>128214</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>228214</VanTreinNummer>
+    <TotEnMetTreinNummer>228214</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>328214</VanTreinNummer>
+    <TotEnMetTreinNummer>328214</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>728214</VanTreinNummer>
+    <TotEnMetTreinNummer>728214</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>28215</VanTreinNummer>
+    <TotEnMetTreinNummer>28215</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>ST</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>128215</VanTreinNummer>
+    <TotEnMetTreinNummer>128215</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>ST</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>228215</VanTreinNummer>
+    <TotEnMetTreinNummer>228215</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>ST</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>328215</VanTreinNummer>
+    <TotEnMetTreinNummer>328215</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>ST</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>728215</VanTreinNummer>
+    <TotEnMetTreinNummer>728215</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>ST</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>28216</VanTreinNummer>
+    <TotEnMetTreinNummer>28216</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>128216</VanTreinNummer>
+    <TotEnMetTreinNummer>128216</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>228216</VanTreinNummer>
+    <TotEnMetTreinNummer>228216</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>328216</VanTreinNummer>
+    <TotEnMetTreinNummer>328216</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>728216</VanTreinNummer>
+    <TotEnMetTreinNummer>728216</TotEnMetTreinNummer>
+    <VervoerderCode>100</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>J</SpeciaalKaartje>
+    <TreinSoortCode>SPC</TreinSoortCode>
+    <TreinNaam>Pensioen MAT '64</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>31822</VanTreinNummer>
+    <TotEnMetTreinNummer>31999</TotEnMetTreinNummer>
+    <VervoerderCode>700</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>ST</TreinSoortCode>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>131822</VanTreinNummer>
+    <TotEnMetTreinNummer>131999</TotEnMetTreinNummer>
+    <VervoerderCode>700</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>ST</TreinSoortCode>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>231822</VanTreinNummer>
+    <TotEnMetTreinNummer>231999</TotEnMetTreinNummer>
+    <VervoerderCode>700</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>ST</TreinSoortCode>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>331822</VanTreinNummer>
+    <TotEnMetTreinNummer>331999</TotEnMetTreinNummer>
+    <VervoerderCode>700</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>ST</TreinSoortCode>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>731822</VanTreinNummer>
+    <TotEnMetTreinNummer>731999</TotEnMetTreinNummer>
+    <VervoerderCode>700</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>ST</TreinSoortCode>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>31820</VanTreinNummer>
+    <TotEnMetTreinNummer>31821</TotEnMetTreinNummer>
+    <VervoerderCode>700</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>ST</TreinSoortCode>
+    <TreinNaam>Niet Instappen</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>131820</VanTreinNummer>
+    <TotEnMetTreinNummer>131821</TotEnMetTreinNummer>
+    <VervoerderCode>700</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>ST</TreinSoortCode>
+    <TreinNaam>Niet Instappen</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>231820</VanTreinNummer>
+    <TotEnMetTreinNummer>231821</TotEnMetTreinNummer>
+    <VervoerderCode>700</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>ST</TreinSoortCode>
+    <TreinNaam>Niet Instappen</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>331820</VanTreinNummer>
+    <TotEnMetTreinNummer>331821</TotEnMetTreinNummer>
+    <VervoerderCode>700</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>ST</TreinSoortCode>
+    <TreinNaam>Niet Instappen</TreinNaam>
+  </TreinSerieInput>
+  <TreinSerieInput>
+    <VanTreinNummer>731820</VanTreinNummer>
+    <TotEnMetTreinNummer>731821</TotEnMetTreinNummer>
+    <VervoerderCode>700</VervoerderCode>
+    <Reserveren>N</Reserveren>
+    <Toeslag>N</Toeslag>
+    <SpeciaalKaartje>N</SpeciaalKaartje>
+    <TreinSoortCode>ST</TreinSoortCode>
     <TreinNaam>Niet Instappen</TreinNaam>
   </TreinSerieInput>
 </HARMInput>
