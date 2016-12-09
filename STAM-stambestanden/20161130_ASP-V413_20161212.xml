@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:asp:v1 Stam_ASP_v4.13.xsd" IngangsMoment="2016-09-16T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:asp:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:asp:v1 Stam_ASP_v4.13.xsd" IngangsMoment="2016-12-12T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:asp:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StopPlaatsAVVInput>
     <Code>AC900</Code>
     <StationCode>AC</StationCode>
@@ -191,9 +191,29 @@
     <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>ASDM001</Code>
+    <StationCode>ASDM</StationCode>
+    <OmschrijvingGUI>Insulindeweg</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Insulindeweg</common:Kort>
+      <common:Middel>Insulindeweg</common:Middel>
+      <common:Lang>vanaf de Insulindeweg</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>ASDZ900</Code>
     <StationCode>ASDZ</StationCode>
     <CodeStandaardStopplaats>014</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>ASDZ001</Code>
+    <StationCode>ASDZ</StationCode>
+    <OmschrijvingGUI>Strawinskylaan</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Strawinskylaan</common:Kort>
+      <common:Middel>Strawinskylaan</common:Middel>
+      <common:Lang>vanaf de Strawinskylaan uitgang Zuidplein</common:Lang>
+    </Omschrijving>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>ASHD900</Code>
@@ -276,6 +296,11 @@
     <CodeStandaardStopplaats>008</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>BH900</Code>
+    <StationCode>BH</StationCode>
+    <CodeStandaardStopplaats>020</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>BHDV900</Code>
     <StationCode>BHDV</StationCode>
     <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
@@ -346,6 +371,16 @@
     <CodeStandaardStopplaats>019</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>BNK001</Code>
+    <StationCode>BNK</StationCode>
+    <OmschrijvingGUI>Baan van Fectio</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Baan van Fectio</common:Kort>
+      <common:Middel>Baan van Fectio</common:Middel>
+      <common:Lang>vanaf de Baan van Fectio aan de uitgang Groeneweg</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>BNN900</Code>
     <StationCode>BNN</StationCode>
     <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
@@ -373,7 +408,7 @@
   <StopPlaatsAVVInput>
     <Code>BRD900</Code>
     <StationCode>BRD</StationCode>
-    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+    <CodeStandaardStopplaats>004</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>BRN900</Code>
@@ -451,9 +486,39 @@
     <CodeStandaardStopplaats>008</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>CVM001</Code>
+    <StationCode>CVM</StationCode>
+    <OmschrijvingGUI>Toupsbergstraat</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Toupsbergstraat</common:Kort>
+      <common:Middel>Toupsbergstraat</common:Middel>
+      <common:Lang>vanaf de Toupsbergstraat</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>DA900</Code>
+    <StationCode>DA</StationCode>
+    <CodeStandaardStopplaats>020</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>DB900</Code>
     <StationCode>DB</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>DB901</Code>
+    <StationCode>DB</StationCode>
+    <CodeStandaardStopplaats>004</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>DB001</Code>
+    <StationCode>DB</StationCode>
+    <OmschrijvingGUI>Hoofdstraat</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Hoofdstraat</common:Kort>
+      <common:Middel>Hoofdstraat</common:Middel>
+      <common:Lang>vanaf de Hoofdstraat aan de Zeist-zijde</common:Lang>
+    </Omschrijving>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>DDN900</Code>
@@ -494,6 +559,11 @@
     <Code>DDZD900</Code>
     <StationCode>DDZD</StationCode>
     <CodeStandaardStopplaats>016</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>DN900</Code>
+    <StationCode>DEI</StationCode>
+    <CodeStandaardStopplaats>020</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>DID900</Code>
@@ -549,6 +619,11 @@
     <Code>DRON900</Code>
     <StationCode>DRON</StationCode>
     <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>DRP900</Code>
+    <StationCode>DRP</StationCode>
+    <CodeStandaardStopplaats>020</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>DT900</Code>
@@ -616,6 +691,11 @@
     <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>DWE900</Code>
+    <StationCode>DWE</StationCode>
+    <CodeStandaardStopplaats>020</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>DZ900</Code>
     <StationCode>DZ</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
@@ -649,6 +729,16 @@
     <Code>EDN900</Code>
     <StationCode>EDN</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>EGH001</Code>
+    <StationCode>EGH</StationCode>
+    <OmschrijvingGUI>Dentgenbachweg</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Dentgenbachweg</common:Kort>
+      <common:Middel>Dentgenbachweg</common:Middel>
+      <common:Lang>vanaf de Dentgenbachweg</common:Lang>
+    </Omschrijving>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>EGHM900</Code>
@@ -728,7 +818,22 @@
   <StopPlaatsAVVInput>
     <Code>GD900</Code>
     <StationCode>GD</StationCode>
-    <CodeStandaardStopplaats>013</CodeStandaardStopplaats>
+    <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>GD901</Code>
+    <StationCode>GD</StationCode>
+    <CodeStandaardStopplaats>004</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>GD001</Code>
+    <StationCode>GD</StationCode>
+    <OmschrijvingGUI>Bloemendaalzijde</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Bloemendaalzijde</common:Kort>
+      <common:Middel>Bloemendaalzijde</common:Middel>
+      <common:Lang>vanaf de Bloemendaalzijde</common:Lang>
+    </Omschrijving>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>GDG900</Code>
@@ -744,6 +849,11 @@
     <Code>GDM901</Code>
     <StationCode>GDM</StationCode>
     <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>GDR900</Code>
+    <StationCode>GDR</StationCode>
+    <CodeStandaardStopplaats>020</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>GERP900</Code>
@@ -1011,6 +1121,11 @@
     <CodeStandaardStopplaats>004</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>HMN900</Code>
+    <StationCode>HMN</StationCode>
+    <CodeStandaardStopplaats>020</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>HN900</Code>
     <StationCode>HN</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
@@ -1029,6 +1144,11 @@
     <Code>HNO900</Code>
     <StationCode>HNO</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>HNP900</Code>
+    <StationCode>HNP</StationCode>
+    <CodeStandaardStopplaats>020</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>HLT900</Code>
@@ -1064,6 +1184,16 @@
     <Code>HRLK901</Code>
     <StationCode>HRLK</StationCode>
     <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>HRLW001</Code>
+    <StationCode>HRLW</StationCode>
+    <OmschrijvingGUI>In de Cramer</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>In de Cramer</common:Kort>
+      <common:Middel>In de Cramer</common:Middel>
+      <common:Lang>vanaf In de Cramer</common:Lang>
+    </Omschrijving>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>HRN900</Code>
@@ -1146,11 +1276,6 @@
     <CodeStandaardStopplaats>006</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
-    <Code>KBW900</Code>
-    <StationCode>KBW</StationCode>
-    <CodeStandaardStopplaats>006</CodeStandaardStopplaats>
-  </StopPlaatsAVVInput>
-  <StopPlaatsAVVInput>
     <Code>KLP900</Code>
     <StationCode>KLP</StationCode>
     <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
@@ -1166,6 +1291,11 @@
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>KMW900</Code>
+    <StationCode>KMW</StationCode>
+    <CodeStandaardStopplaats>020</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>KPN900</Code>
     <StationCode>KPN</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
@@ -1174,6 +1304,16 @@
     <Code>KPNZ900</Code>
     <StationCode>KPNZ</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>KRD001</Code>
+    <StationCode>KRD</StationCode>
+    <OmschrijvingGUI>Stationsstraat</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Stationsstraat</common:Kort>
+      <common:Middel>Stationsstraat</common:Middel>
+      <common:Lang>vanaf de Stationsstraat</common:Lang>
+    </Omschrijving>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>KRG900</Code>
@@ -1188,11 +1328,6 @@
   <StopPlaatsAVVInput>
     <Code>KW900</Code>
     <StationCode>KW</StationCode>
-    <CodeStandaardStopplaats>006</CodeStandaardStopplaats>
-  </StopPlaatsAVVInput>
-  <StopPlaatsAVVInput>
-    <Code>KZD900</Code>
-    <StationCode>KZD</StationCode>
     <CodeStandaardStopplaats>006</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
@@ -1306,6 +1441,11 @@
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>MG900</Code>
+    <StationCode>MG</StationCode>
+    <CodeStandaardStopplaats>020</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>MMLH900</Code>
     <StationCode>MMLH</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
@@ -1356,14 +1496,39 @@
     <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>MTN001</Code>
+    <StationCode>MTN</StationCode>
+    <OmschrijvingGUI>Meerssenerweg</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Meerssenerweg</common:Kort>
+      <common:Middel>Meerssenerweg</common:Middel>
+      <common:Lang>vanaf de Meerssenerweg</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>MTR900</Code>
     <StationCode>MTR</StationCode>
     <CodeStandaardStopplaats>009</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>MTR001</Code>
+    <StationCode>MTR</StationCode>
+    <OmschrijvingGUI>Universiteitssingel</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Universiteitssingel</common:Kort>
+      <common:Middel>Universiteitssingel</common:Middel>
+      <common:Lang>vanaf de Universiteitssingel</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>MZ900</Code>
     <StationCode>MZ</StationCode>
     <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>NA900</Code>
+    <StationCode>NA</StationCode>
+    <CodeStandaardStopplaats>020</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>NDB900</Code>
@@ -1486,6 +1651,11 @@
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>OP900</Code>
+    <StationCode>OP</StationCode>
+    <CodeStandaardStopplaats>020</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>OST900</Code>
     <StationCode>OST</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
@@ -1554,6 +1724,11 @@
     <Code>RB900</Code>
     <StationCode>RB</StationCode>
     <CodeStandaardStopplaats>006</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>RD900</Code>
+    <StationCode>RD</StationCode>
+    <CodeStandaardStopplaats>020</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>RH900</Code>
@@ -1716,6 +1891,16 @@
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>SDM002</Code>
+    <StationCode>SDM</StationCode>
+    <OmschrijvingGUI>Parallelweg</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Parallelweg</common:Kort>
+      <common:Middel>Parallelweg</common:Middel>
+      <common:Lang>vanaf de Parallelweg</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>SDT900</Code>
     <StationCode>SDT</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
@@ -1724,6 +1909,16 @@
     <Code>SDTB900</Code>
     <StationCode>SDTB</StationCode>
     <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>SGL001</Code>
+    <StationCode>SGL</StationCode>
+    <OmschrijvingGUI>Sint Gerlach</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Sint Gerlach</common:Kort>
+      <common:Middel>Sint Gerlach</common:Middel>
+      <common:Lang>vanaf de Sint Gerlach</common:Lang>
+    </Omschrijving>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>SGN001</Code>
@@ -1746,6 +1941,11 @@
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>SKND900</Code>
+    <StationCode>SKND</StationCode>
+    <CodeStandaardStopplaats>020</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>SM900</Code>
     <StationCode>SM</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
@@ -1754,6 +1954,21 @@
     <Code>SN900</Code>
     <StationCode>SN</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>SOG001</Code>
+    <StationCode>SOG</StationCode>
+    <OmschrijvingGUI>Vinkenbergstraat</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Vinkenbergstraat</common:Kort>
+      <common:Middel>Vinkenbergstraat</common:Middel>
+      <common:Lang>vanaf de Vinkenbergstraat</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>SPM900</Code>
+    <StationCode>SPM</StationCode>
+    <CodeStandaardStopplaats>020</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>SPTN900</Code>
@@ -1784,6 +1999,11 @@
     <Code>STD900</Code>
     <StationCode>STD</StationCode>
     <CodeStandaardStopplaats>004</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>STM900</Code>
+    <StationCode>STM</StationCode>
+    <CodeStandaardStopplaats>020</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>STV900</Code>
@@ -1870,9 +2090,9 @@
     <StationCode>UT</StationCode>
     <OmschrijvingGUI>Jaarbeursplein</OmschrijvingGUI>
     <Omschrijving>
-      <common:Kort>Jaarbeursplein</common:Kort>
-      <common:Middel>Jaarbeursplein</common:Middel>
-      <common:Lang>vanaf het Jaarbeursplein</common:Lang>
+      <common:Kort>Croeselaan</common:Kort>
+      <common:Middel>Croeselaan</common:Middel>
+      <common:Lang>vanaf de NS Bushalte aan de Croeselaan</common:Lang>
     </Omschrijving>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
@@ -1884,6 +2104,16 @@
     <Code>UT901</Code>
     <StationCode>UT</StationCode>
     <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>UT002</Code>
+    <StationCode>UT</StationCode>
+    <OmschrijvingGUI>Jaarbeurszijde</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Jaarbeurszijde</common:Kort>
+      <common:Middel>Jaarbeurszijde</common:Middel>
+      <common:Lang>vanaf de Jaarbeurszijde</common:Lang>
+    </Omschrijving>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>UTG900</Code>
@@ -2063,11 +2293,11 @@
   <StopPlaatsAVVInput>
     <Code>VST001</Code>
     <StationCode>VST</StationCode>
-    <OmschrijvingGUI>Rouboslaan</OmschrijvingGUI>
+    <OmschrijvingGUI>Wijngaardenlaan</OmschrijvingGUI>
     <Omschrijving>
-      <common:Kort>Rouboslaan</common:Kort>
-      <common:Middel>Rouboslaan</common:Middel>
-      <common:Lang>vanaf de Rouboslaan</common:Lang>
+      <common:Kort>Wijngaardenlaan</common:Kort>
+      <common:Middel>Wijngaardenlaan</common:Middel>
+      <common:Lang>vanaf de Wijngaardenlaan</common:Lang>
     </Omschrijving>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
@@ -2278,11 +2508,11 @@
   <StopPlaatsAVVInput>
     <Code>ZTM001</Code>
     <StationCode>ZTM</StationCode>
-    <OmschrijvingGUI>Nelson Mandelabrug</OmschrijvingGUI>
+    <OmschrijvingGUI>Mahatma Gandhisingel</OmschrijvingGUI>
     <Omschrijving>
-      <common:Kort>N.Mandelabrug</common:Kort>
-      <common:Middel>Nelson Mandelabrug</common:Middel>
-      <common:Lang>vanaf de Nelson Mandelabrug</common:Lang>
+      <common:Kort>Mahatma Gandhisingel</common:Kort>
+      <common:Middel>Mahatma Gandhisingel</common:Middel>
+      <common:Lang>vanaf de Mahatma Gandhisingel</common:Lang>
     </Omschrijving>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
@@ -2344,5 +2574,15 @@
     <Code>ZWD900</Code>
     <StationCode>ZWD</StationCode>
     <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>ZWD002</Code>
+    <StationCode>ZWD</StationCode>
+    <OmschrijvingGUI>Stationsweg</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Stationsweg</common:Kort>
+      <common:Middel>Stationsweg</common:Middel>
+      <common:Lang>vanaf de Stationsweg</common:Lang>
+    </Omschrijving>
   </StopPlaatsAVVInput>
 </StamInput>

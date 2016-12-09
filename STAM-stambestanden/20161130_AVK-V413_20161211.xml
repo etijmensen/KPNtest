@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:avk:v1 Stam_AVK_v4.13.xsd" IngangsMoment="2016-03-16T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:avk:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:avk:v1 Stam_AVK_v4.13.xsd" IngangsMoment="2016-12-11T01:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:avk:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <AlternatiefVervoerMaatregelKeuzeInput>
     <AVVCode>001</AVVCode>
     <OmschrijvingGUI>Businzet algemeen</OmschrijvingGUI>
@@ -77,8 +77,8 @@
     <OmschrijvingGUI>Taxibus</OmschrijvingGUI>
     <Omschrijving>
       <common:Kort>taxibus-inzet</common:Kort>
-      <common:Middel>gebruik de taxibusjes</common:Middel>
-      <common:Lang>gebruik de taxibusjes</common:Lang>
+      <common:Middel>er rijden taxibusjes</common:Middel>
+      <common:Lang>er rijden taxibusjes</common:Lang>
     </Omschrijving>
   </AlternatiefVervoerMaatregelKeuzeInput>
   <AlternatiefVervoerMaatregelKeuzeInput>
@@ -208,6 +208,17 @@
       <common:Kort>ook businzet</common:Kort>
       <common:Middel>er rijden ook stop- en snelbussen</common:Middel>
       <common:Lang>er rijden ook stop- en snelbussen</common:Lang>
+    </Omschrijving>
+  </AlternatiefVervoerMaatregelKeuzeInput>
+  <AlternatiefVervoerMaatregelKeuzeInput>
+    <AVVCode>022</AVVCode>
+    <Toelichting>Combi taxi en taxibus</Toelichting>
+    <SamenvattingVoorCode>008</SamenvattingVoorCode>
+    <SamenvattingVoorCode>009</SamenvattingVoorCode>
+    <Omschrijving>
+      <common:Kort>taxi's en taxibusjes</common:Kort>
+      <common:Middel>taxi's en taxibusjes</common:Middel>
+      <common:Lang>er rijden taxi's en taxibusjes</common:Lang>
     </Omschrijving>
   </AlternatiefVervoerMaatregelKeuzeInput>
 </StamInput>

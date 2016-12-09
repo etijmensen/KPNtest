@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2016-09-05T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:stn:v1 Stam_STN_v4.13.xsd" IngangsMoment="2016-12-11T01:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:stn:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StationInput>
     <StationCode>AC</StationCode>
     <Type>0</Type>
@@ -2458,15 +2458,6 @@
     <UICCode>8015129</UICCode>
   </StationInput>
   <StationInput>
-    <StationCode>KBW</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Koog Bloem</KorteNaam>
-    <MiddelNaam>Koog Bloemwijk</MiddelNaam>
-    <LangeNaam>Koog Bloemwijk</LangeNaam>
-    <TaalCode>nl</TaalCode>
-    <UICCode>8400363</UICCode>
-  </StationInput>
-  <StationInput>
     <StationCode>KDUL</StationCode>
     <Type>4</Type>
     <KorteNaam>Dülken</KorteNaam>
@@ -2645,15 +2636,6 @@
     <LangeNaam>Wuppertal Oberbarmen</LangeNaam>
     <TaalCode>nl</TaalCode>
     <UICCode>8008138</UICCode>
-  </StationInput>
-  <StationInput>
-    <StationCode>KZD</StationCode>
-    <Type>0</Type>
-    <KorteNaam>Koog Zaand</KorteNaam>
-    <MiddelNaam>Koog-Zaandijk</MiddelNaam>
-    <LangeNaam>Koog-Zaandijk</LangeNaam>
-    <TaalCode>nl</TaalCode>
-    <UICCode>8400364</UICCode>
   </StationInput>
   <StationInput>
     <StationCode>LAA</StationCode>
@@ -3997,6 +3979,9 @@
     <InstapTip>
       <UitstapStation>GD</UitstapStation>
     </InstapTip>
+    <InstapTip>
+      <UitstapStation>GVC</UitstapStation>
+    </InstapTip>
     <TaalCode>nl</TaalCode>
     <UICCode>8400621</UICCode>
   </StationInput>
@@ -4973,15 +4958,6 @@
     <UICCode>7054660</UICCode>
   </StationInput>
   <StationInput>
-    <StationCode>LONDS</StationCode>
-    <Type>4</Type>
-    <KorteNaam>London StP</KorteNaam>
-    <MiddelNaam>London St. Pancr</MiddelNaam>
-    <LangeNaam>London St. Pancras</LangeNaam>
-    <TaalCode>nl</TaalCode>
-    <UICCode>7015400</UICCode>
-  </StationInput>
-  <StationInput>
     <StationCode>EBBS</StationCode>
     <Type>4</Type>
     <KorteNaam>Ebbsfleet</KorteNaam>
@@ -5640,7 +5616,7 @@
   </StationInput>
   <StationInput>
     <StationCode>UTVR</StationCode>
-    <Type>1</Type>
+    <Type>0</Type>
     <KorteNaam>VaartscheR</KorteNaam>
     <MiddelNaam>Vaartsche Rijn</MiddelNaam>
     <LangeNaam>Utrecht Vaartsche Rijn</LangeNaam>
@@ -5666,39 +5642,48 @@
     <UICCode>8400623</UICCode>
   </StationInput>
   <StationInput>
-    <StationCode>UTU</StationCode>
-    <Type>7</Type>
-    <KorteNaam>Uithof</KorteNaam>
-    <MiddelNaam>Uithof (NS-bus)</MiddelNaam>
-    <LangeNaam>Utrecht Uithof (NS-bus)</LangeNaam>
+    <StationCode>KZ</StationCode>
+    <Type>0</Type>
+    <KorteNaam>Koog Zaan</KorteNaam>
+    <MiddelNaam>Koog a.d. Zaan</MiddelNaam>
+    <LangeNaam>Koog aan de Zaan</LangeNaam>
     <TaalCode>nl</TaalCode>
-    <UICCode>8400625</UICCode>
+    <UICCode>8400363</UICCode>
   </StationInput>
   <StationInput>
-    <StationCode>VEG</StationCode>
-    <Type>7</Type>
-    <KorteNaam>Veghel</KorteNaam>
-    <MiddelNaam>Veghel (NS-bus)</MiddelNaam>
-    <LangeNaam>Veghel (NS-bus)</LangeNaam>
+    <StationCode>ZZS</StationCode>
+    <Type>0</Type>
+    <KorteNaam>Zaanse S.</KorteNaam>
+    <MiddelNaam>Zaanse Schans</MiddelNaam>
+    <LangeNaam>Zaandijk Zaanse Schans</LangeNaam>
     <TaalCode>nl</TaalCode>
-    <UICCode>8400639</UICCode>
+    <UICCode>8400364</UICCode>
   </StationInput>
   <StationInput>
-    <StationCode>WKB</StationCode>
-    <Type>7</Type>
-    <KorteNaam>Waalwijk</KorteNaam>
-    <MiddelNaam>Waalwijk (bus)</MiddelNaam>
-    <LangeNaam>Waalwijk (NS-bus)</LangeNaam>
+    <StationCode>OBERHS</StationCode>
+    <Type>0</Type>
+    <KorteNaam>Ob-Sterkr</KorteNaam>
+    <MiddelNaam>Oberh-Sterkrade</MiddelNaam>
+    <LangeNaam>Oberhausen-Sterkrade</LangeNaam>
     <TaalCode>nl</TaalCode>
-    <UICCode>8400671</UICCode>
+    <UICCode>8010266</UICCode>
   </StationInput>
   <StationInput>
-    <StationCode>DNW</StationCode>
-    <Type>7</Type>
-    <KorteNaam>Drunen</KorteNaam>
-    <MiddelNaam>Drunen (NS-bus)</MiddelNaam>
-    <LangeNaam>Drunen (NS-bus)</LangeNaam>
+    <StationCode>STP</StationCode>
+    <Type>4</Type>
+    <KorteNaam>London StP</KorteNaam>
+    <MiddelNaam>London St. Pancr</MiddelNaam>
+    <LangeNaam>London St. Pancras</LangeNaam>
     <TaalCode>nl</TaalCode>
-    <UICCode>8400190</UICCode>
+    <UICCode>7015400</UICCode>
   </StationInput>
-</HARMInput>
+  <StationInput>
+    <StationCode>BEURS</StationCode>
+    <Type>7</Type>
+    <KorteNaam>Beurs</KorteNaam>
+    <MiddelNaam>Rotterdam Beurs</MiddelNaam>
+    <LangeNaam>Rotterdam Beurs</LangeNaam>
+    <TaalCode>nl</TaalCode>
+    <UICCode>8400077</UICCode>
+  </StationInput>
+</StamInput>

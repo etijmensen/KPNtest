@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2016-06-30T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2016-12-11T01:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <AanleidingOorzaakInput>
     <OorzaakLang>door acties van het personeel</OorzaakLang>
     <OorzaakKort>acties van het personeel</OorzaakKort>
@@ -8,7 +8,7 @@
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
     <OorzaakLang>door een beschadigd spoorviaduct</OorzaakLang>
-    <OorzaakKort>beschadigd viaduct</OorzaakKort>
+    <OorzaakKort>beschadigd spoorviaduct</OorzaakKort>
     <Aanleiding>spoorviaduct - beschadigd</Aanleiding>
     <AanleidingCode>ARY001</AanleidingCode>
   </AanleidingOorzaakInput>
@@ -44,9 +44,9 @@
     <AanleidingCode>BOM003</AanleidingCode>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
-    <OorzaakLang>op last van de brandweer</OorzaakLang>
-    <OorzaakKort>op last van de brandweer</OorzaakKort>
-    <Aanleiding>brandweer</Aanleiding>
+    <OorzaakLang>door inzet van de brandweer</OorzaakLang>
+    <OorzaakKort>inzet brandweer</OorzaakKort>
+    <Aanleiding>inzet brandweer</Aanleiding>
     <AanleidingCode>BRA009</AanleidingCode>
     <IndexWoorden>
       <IndexWoord>gaslek</IndexWoord>
@@ -69,7 +69,7 @@
     </IndexWoorden>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
-    <OorzaakLang>door problemen op het spoor in het buitenland</OorzaakLang>
+    <OorzaakLang>door problemen in het buitenland</OorzaakLang>
     <OorzaakKort>problemen in buitenland</OorzaakKort>
     <Aanleiding>problemen in het buitenland</Aanleiding>
     <AanleidingCode>BUI001</AanleidingCode>
@@ -83,7 +83,7 @@
   <AanleidingOorzaakInput>
     <OorzaakLang>door te veel vertraging in het buitenland</OorzaakLang>
     <OorzaakKort>vertraging in buitenland</OorzaakKort>
-    <Aanleiding>buitenland - vertraagd uit</Aanleiding>
+    <Aanleiding>vertraagd-uit-buitenland-it</Aanleiding>
     <AanleidingCode>BUI003</AanleidingCode>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
@@ -222,7 +222,7 @@
   <AanleidingOorzaakInput>
     <OorzaakLang>door te grote vertraging</OorzaakLang>
     <OorzaakKort>te grote vertraging</OorzaakKort>
-    <Aanleiding>te grote vertraging</Aanleiding>
+    <Aanleiding>grote-vertraging-it</Aanleiding>
     <AanleidingCode>LOG006</AanleidingCode>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
@@ -274,15 +274,15 @@
     <AanleidingCode>OOS003</AanleidingCode>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
-    <OorzaakLang>door rommel op het spoor</OorzaakLang>
-    <OorzaakKort>rommel op het spoor</OorzaakKort>
-    <Aanleiding>spoor - rommel in/bij/op</Aanleiding>
+    <OorzaakLang>door een object op het spoor</OorzaakLang>
+    <OorzaakKort>object op het spoor</OorzaakKort>
+    <Aanleiding>object-op-het-spoor</Aanleiding>
     <AanleidingCode>OOS009</AanleidingCode>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
-    <OorzaakLang>door een versperring</OorzaakLang>
-    <OorzaakKort>versperring</OorzaakKort>
-    <Aanleiding>versperring</Aanleiding>
+    <OorzaakLang>door een versperring van het spoor</OorzaakLang>
+    <OorzaakKort>versperring van het spoor</OorzaakKort>
+    <Aanleiding>versperring-van-het-spoor</Aanleiding>
     <AanleidingCode>OOS012</AanleidingCode>
     <IndexWoorden>
       <IndexWoord>hinder op/bij het spoor</IndexWoord>
@@ -290,9 +290,9 @@
     </IndexWoorden>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
-    <OorzaakLang>op last van de politie</OorzaakLang>
-    <OorzaakKort>op last van de politie</OorzaakKort>
-    <Aanleiding>politie</Aanleiding>
+    <OorzaakLang>door inzet van de politie</OorzaakLang>
+    <OorzaakKort>inzet politie</OorzaakKort>
+    <Aanleiding>inzet politie</Aanleiding>
     <AanleidingCode>POL006</AanleidingCode>
     <IndexWoorden>
       <IndexWoord>demonstratie</IndexWoord>
@@ -337,7 +337,7 @@
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
     <OorzaakLang>door de weersomstandigheden</OorzaakLang>
-    <OorzaakKort>het weer</OorzaakKort>
+    <OorzaakKort>weersomstandigheden</OorzaakKort>
     <Aanleiding>weersomstandigheden</Aanleiding>
     <AanleidingCode>WOH003</AanleidingCode>
   </AanleidingOorzaakInput>
@@ -350,7 +350,7 @@
   <AanleidingOorzaakInput>
     <OorzaakLang>door een aangepaste dienstregeling</OorzaakLang>
     <OorzaakKort>aangepaste dienstregeling</OorzaakKort>
-    <Aanleiding>aangepaste dienstregeling</Aanleiding>
+    <Aanleiding>aangepaste-dienstregeling-it</Aanleiding>
     <AanleidingCode>WOH006</AanleidingCode>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
@@ -457,7 +457,7 @@
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
     <OorzaakLang>door het vervangen van een spoorbrug</OorzaakLang>
-    <OorzaakKort>een vervangen spoorbrug</OorzaakKort>
+    <OorzaakKort>vervangen van spoorbrug</OorzaakKort>
     <Aanleiding>vervangen spoorbrug</Aanleiding>
     <AanleidingCode>WKZ076</AanleidingCode>
   </AanleidingOorzaakInput>
@@ -499,15 +499,6 @@
     <OorzaakKort>overwegstoring</OorzaakKort>
     <Aanleiding>overwegstoring</Aanleiding>
     <AanleidingCode>DEF043</AanleidingCode>
-  </AanleidingOorzaakInput>
-  <AanleidingOorzaakInput>
-    <OorzaakLang>door een storing in het reisinformatiesysteem</OorzaakLang>
-    <OorzaakKort>storing reisinfosysteem</OorzaakKort>
-    <Aanleiding>storing reisinformatiesysteem</Aanleiding>
-    <AanleidingCode>DEF045</AanleidingCode>
-    <IndexWoorden>
-      <IndexWoord>planregels niet ingelezen</IndexWoord>
-    </IndexWoorden>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
     <OorzaakLang>door defecte treinen</OorzaakLang>
@@ -564,31 +555,31 @@
   <AanleidingOorzaakInput>
     <OorzaakLang>door een evenement</OorzaakLang>
     <OorzaakKort>evenement</OorzaakKort>
-    <Aanleiding>evenement</Aanleiding>
+    <Aanleiding>evenement-it-et</Aanleiding>
     <AanleidingCode>REI003</AanleidingCode>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
     <OorzaakLang>door de Libelle Zomerweek</OorzaakLang>
     <OorzaakKort>Libelle Zomerweek</OorzaakKort>
-    <Aanleiding>Libelle Zomerweek</Aanleiding>
+    <Aanleiding>Libelle-Zomerweek-it-et</Aanleiding>
     <AanleidingCode>REI004</AanleidingCode>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
     <OorzaakLang>door de Vierdaagse</OorzaakLang>
     <OorzaakKort>Vierdaagse</OorzaakKort>
-    <Aanleiding>Vierdaagse</Aanleiding>
+    <Aanleiding>Vierdaagse-it-et</Aanleiding>
     <AanleidingCode>REI005</AanleidingCode>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
     <OorzaakLang>door een bedevaart</OorzaakLang>
     <OorzaakKort>bedevaart</OorzaakKort>
-    <Aanleiding>bedevaart</Aanleiding>
+    <Aanleiding>bedevaart-it-et</Aanleiding>
     <AanleidingCode>REI006</AanleidingCode>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
     <OorzaakLang>door Thialf-schaatsen</OorzaakLang>
     <OorzaakKort>Thialf-schaatsen</OorzaakKort>
-    <Aanleiding>Thialf-schaatsen</Aanleiding>
+    <Aanleiding>Thialf-schaatsen-it-et</Aanleiding>
     <AanleidingCode>REI007</AanleidingCode>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
@@ -598,15 +589,9 @@
     <AanleidingCode>ONB001</AanleidingCode>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
-    <OorzaakLang>door een vervangende trein</OorzaakLang>
-    <OorzaakKort>vervangende trein</OorzaakKort>
-    <Aanleiding>vervangende trein</Aanleiding>
-    <AanleidingCode>EXT001</AanleidingCode>
-  </AanleidingOorzaakInput>
-  <AanleidingOorzaakInput>
     <OorzaakLang>door Koningsdag</OorzaakLang>
     <OorzaakKort>Koningsdag</OorzaakKort>
-    <Aanleiding>Koningsdag</Aanleiding>
+    <Aanleiding>Koningsdag-it-et</Aanleiding>
     <AanleidingCode>REI008</AanleidingCode>
   </AanleidingOorzaakInput>
   <AanleidingOorzaakInput>
@@ -638,5 +623,71 @@
     <OorzaakKort>harde wind HSL</OorzaakKort>
     <Aanleiding>harde wind op HSL</Aanleiding>
     <AanleidingCode>WOH011</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door problemen met de personeelsinzet</OorzaakLang>
+    <OorzaakKort>problemen personeelsinzet</OorzaakKort>
+    <Aanleiding>LET-OP-problemen-met-personeelsinzet</Aanleiding>
+    <AanleidingCode>LOG011</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door wateroverlast</OorzaakLang>
+    <OorzaakKort>wateroverlast</OorzaakKort>
+    <Aanleiding>wateroverlast</Aanleiding>
+    <AanleidingCode>WOH012</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door een persoon langs het spoor</OorzaakLang>
+    <OorzaakKort>persoon langs het spoor</OorzaakKort>
+    <Aanleiding>persoon-langs-het-spoor</Aanleiding>
+    <AanleidingCode>OOS015</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door mensen langs het spoor</OorzaakLang>
+    <OorzaakKort>mensen langs het spoor</OorzaakKort>
+    <Aanleiding>mensen-langs-het-spoor</Aanleiding>
+    <AanleidingCode>OOS016</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door hinder op het spoor</OorzaakLang>
+    <OorzaakKort>hinder op het spoor</OorzaakKort>
+    <Aanleiding>hinder-op-het-spoor</Aanleiding>
+    <AanleidingCode>OOS017</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door werkzaamheden aan de Hogesnelheidslijn</OorzaakLang>
+    <OorzaakKort>werkzaamheden HSL</OorzaakKort>
+    <Aanleiding>werkzaamheden-HSL</Aanleiding>
+    <AanleidingCode>WKZ077</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door werkzaamheden op een station</OorzaakLang>
+    <OorzaakKort>werkzaamheden op station</OorzaakKort>
+    <Aanleiding>werkzaamheden-op-station</Aanleiding>
+    <AanleidingCode>WKZ078</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door de uitbreiding van sporen</OorzaakLang>
+    <OorzaakKort>uitbreiding van sporen</OorzaakKort>
+    <Aanleiding>uitbreiding-van-sporen</Aanleiding>
+    <AanleidingCode>WKZ079</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door het verlengen van de perrons</OorzaakLang>
+    <OorzaakKort>verlengen van de perrons</OorzaakKort>
+    <Aanleiding>verlengen-perrons</Aanleiding>
+    <AanleidingCode>WKZ080</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door werkzaamheden elders</OorzaakLang>
+    <OorzaakKort>werkzaamheden elders</OorzaakKort>
+    <Aanleiding>werkzaamheden-elders</Aanleiding>
+    <AanleidingCode>WKZ082</AanleidingCode>
+  </AanleidingOorzaakInput>
+  <AanleidingOorzaakInput>
+    <OorzaakLang>door herstelwerkzaamheden</OorzaakLang>
+    <OorzaakKort>herstelwerkzaamheden</OorzaakKort>
+    <Aanleiding>herstelwerkzaamheden</Aanleiding>
+    <AanleidingCode>WKZ081</AanleidingCode>
   </AanleidingOorzaakInput>
 </HARMInput>
