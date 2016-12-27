@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2016-12-11T01:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2016-12-29T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StationInput>
     <StationCode>AC</StationCode>
     <Type>0</Type>
@@ -2326,7 +2326,7 @@
     <StationCode>HTO</StationCode>
     <Type>0</Type>
     <KorteNaam>Dn Bosch O</KorteNaam>
-    <MiddelNaam>Hertogenbosch O.</MiddelNaam>
+    <MiddelNaam>Hertogenb. Oost</MiddelNaam>
     <LangeNaam>'s-Hertogenbosch Oost</LangeNaam>
     <TaalCode>nl</TaalCode>
     <UICCode>8400320</UICCode>
@@ -3977,9 +3977,6 @@
       <UitstapStation>HT</UitstapStation>
     </InstapTip>
     <InstapTip>
-      <UitstapStation>GD</UitstapStation>
-    </InstapTip>
-    <InstapTip>
       <UitstapStation>GVC</UitstapStation>
     </InstapTip>
     <TaalCode>nl</TaalCode>
@@ -4540,6 +4537,9 @@
     <KorteNaam>Zwolle</KorteNaam>
     <MiddelNaam>Zwolle</MiddelNaam>
     <LangeNaam>Zwolle</LangeNaam>
+    <InstapTip>
+      <UitstapStation>SHL</UitstapStation>
+    </InstapTip>
     <TaalCode>nl</TaalCode>
     <UICCode>8400747</UICCode>
   </StationInput>
@@ -5685,5 +5685,23 @@
     <LangeNaam>Rotterdam Beurs</LangeNaam>
     <TaalCode>nl</TaalCode>
     <UICCode>8400077</UICCode>
+  </StationInput>
+  <StationInput>
+    <StationCode>ERAS</StationCode>
+    <Type>7</Type>
+    <KorteNaam>Erasmus</KorteNaam>
+    <MiddelNaam>Erasmus (NS-bus)</MiddelNaam>
+    <LangeNaam>Erasmus uni. (NS-bus)</LangeNaam>
+    <TaalCode>nl</TaalCode>
+    <UICCode>8400672</UICCode>
+  </StationInput>
+  <StationInput>
+    <StationCode>TUD</StationCode>
+    <Type>7</Type>
+    <KorteNaam>TU-Delft</KorteNaam>
+    <MiddelNaam>TU-Delft (bus)</MiddelNaam>
+    <LangeNaam>TU-Delft (NS-bus)</LangeNaam>
+    <TaalCode>nl</TaalCode>
+    <UICCode>8400673</UICCode>
   </StationInput>
 </HARMInput>

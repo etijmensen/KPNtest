@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:tra:v1 Stam_TRA_v4.13.xsd" IngangsMoment="2016-12-11T01:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:tra:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:tra:v1 Stam_TRA_v4.13.xsd" IngangsMoment="2016-12-29T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:tra:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <TrajectInput>
     <TrajectCode>74</TrajectCode>
     <TrajectType>NL</TrajectType>
@@ -4581,8 +4581,73 @@
       <TrajectStationVolgnr>6</TrajectStationVolgnr>
       <TrajectStationCode>KRD</TrajectStationCode>
     </TrajectStations>
-    <VervoerderCode>700</VervoerderCode>
+    <VervoerderCode>500</VervoerderCode>
     <AantalReizen>1000</AantalReizen>
+  </TrajectInput>
+  <TrajectInput>
+    <TrajectCode>178</TrajectCode>
+    <TrajectType>NL</TrajectType>
+    <TrajectNaamCodes>
+      <VanStationCode>STD</VanStationCode>
+      <ViaStationCode>HRL</ViaStationCode>
+      <NaarStationCode>KRD</NaarStationCode>
+    </TrajectNaamCodes>
+    <TrajectNaamExtern>
+      <Van>Sittard</Van>
+      <Via>Heerlen</Via>
+      <Naar>Kerkrade</Naar>
+    </TrajectNaamExtern>
+    <Ligging>VolledigNL</Ligging>
+    <TrajectStations>
+      <TrajectStationVolgnr>1</TrajectStationVolgnr>
+      <TrajectStationCode>STD</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>2</TrajectStationVolgnr>
+      <TrajectStationCode>GLN</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>3</TrajectStationVolgnr>
+      <TrajectStationCode>SBK</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>4</TrajectStationVolgnr>
+      <TrajectStationCode>SN</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>5</TrajectStationVolgnr>
+      <TrajectStationCode>NH</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>6</TrajectStationVolgnr>
+      <TrajectStationCode>HB</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>7</TrajectStationVolgnr>
+      <TrajectStationCode>HRL</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>8</TrajectStationVolgnr>
+      <TrajectStationCode>HRLK</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>9</TrajectStationVolgnr>
+      <TrajectStationCode>LG</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>10</TrajectStationVolgnr>
+      <TrajectStationCode>EGH</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>11</TrajectStationVolgnr>
+      <TrajectStationCode>CVM</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>12</TrajectStationVolgnr>
+      <TrajectStationCode>KRD</TrajectStationCode>
+    </TrajectStations>
+    <VervoerderCode>500</VervoerderCode>
+    <AantalReizen>4000</AantalReizen>
   </TrajectInput>
   <TrajectInput>
     <TrajectCode>14</TrajectCode>
@@ -5274,7 +5339,7 @@
       <TrajectStationVolgnr>10</TrajectStationVolgnr>
       <TrajectStationCode>MT</TrajectStationCode>
     </TrajectStations>
-    <VervoerderCode>700</VervoerderCode>
+    <VervoerderCode>500</VervoerderCode>
     <AantalReizen>3000</AantalReizen>
   </TrajectInput>
   <TrajectInput>
@@ -5422,8 +5487,61 @@
       <TrajectStationVolgnr>11</TrajectStationVolgnr>
       <TrajectStationCode>MTR</TrajectStationCode>
     </TrajectStations>
-    <VervoerderCode>700</VervoerderCode>
+    <VervoerderCode>500</VervoerderCode>
     <AantalReizen>3500</AantalReizen>
+  </TrajectInput>
+  <TrajectInput>
+    <TrajectCode>177</TrajectCode>
+    <TrajectType>NL</TrajectType>
+    <TrajectNaamCodes>
+      <VanStationCode>RM</VanStationCode>
+      <ViaStationCode>MT</ViaStationCode>
+      <NaarStationCode>MTR</NaarStationCode>
+    </TrajectNaamCodes>
+    <TrajectNaamExtern>
+      <Van>Roermond</Van>
+      <Via>Maastricht</Via>
+      <Naar>Maastricht Randwyck</Naar>
+    </TrajectNaamExtern>
+    <Ligging>VolledigNL</Ligging>
+    <TrajectStations>
+      <TrajectStationVolgnr>1</TrajectStationVolgnr>
+      <TrajectStationCode>RM</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>2</TrajectStationVolgnr>
+      <TrajectStationCode>EC</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>3</TrajectStationVolgnr>
+      <TrajectStationCode>SRN</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>4</TrajectStationVolgnr>
+      <TrajectStationCode>STD</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>5</TrajectStationVolgnr>
+      <TrajectStationCode>LUT</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>6</TrajectStationVolgnr>
+      <TrajectStationCode>BK</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>7</TrajectStationVolgnr>
+      <TrajectStationCode>BDE</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>8</TrajectStationVolgnr>
+      <TrajectStationCode>MT</TrajectStationCode>
+    </TrajectStations>
+    <TrajectStations>
+      <TrajectStationVolgnr>9</TrajectStationVolgnr>
+      <TrajectStationCode>MTR</TrajectStationCode>
+    </TrajectStations>
+    <VervoerderCode>500</VervoerderCode>
+    <AantalReizen>7000</AantalReizen>
   </TrajectInput>
   <TrajectInput>
     <TrajectCode>28</TrajectCode>
@@ -5905,7 +6023,7 @@
       <TrajectStationVolgnr>3</TrajectStationVolgnr>
       <TrajectStationCode>ODZ</TrajectStationCode>
     </TrajectStations>
-    <VervoerderCode>700</VervoerderCode>
+    <VervoerderCode>400</VervoerderCode>
     <AantalReizen>2500</AantalReizen>
   </TrajectInput>
   <TrajectInput>
@@ -5952,7 +6070,7 @@
       <TrajectStationVolgnr>8</TrajectStationVolgnr>
       <TrajectStationCode>ODZ</TrajectStationCode>
     </TrajectStations>
-    <VervoerderCode>700</VervoerderCode>
+    <VervoerderCode>400</VervoerderCode>
     <AantalReizen>1500</AantalReizen>
   </TrajectInput>
   <TrajectInput>
@@ -6198,7 +6316,7 @@
       <TrajectStationVolgnr>5</TrajectStationVolgnr>
       <TrajectStationCode>RM</TrajectStationCode>
     </TrajectStations>
-    <VervoerderCode>400</VervoerderCode>
+    <VervoerderCode>500</VervoerderCode>
     <AantalReizen>2200</AantalReizen>
   </TrajectInput>
   <TrajectInput>
@@ -6265,7 +6383,7 @@
       <TrajectStationVolgnr>13</TrajectStationVolgnr>
       <TrajectStationCode>RM</TrajectStationCode>
     </TrajectStations>
-    <VervoerderCode>700</VervoerderCode>
+    <VervoerderCode>500</VervoerderCode>
     <AantalReizen>3200</AantalReizen>
   </TrajectInput>
   <TrajectInput>
@@ -7015,7 +7133,7 @@
       <TrajectStationVolgnr>8</TrajectStationVolgnr>
       <TrajectStationCode>TL</TrajectStationCode>
     </TrajectStations>
-    <VervoerderCode>700</VervoerderCode>
+    <VervoerderCode>500</VervoerderCode>
     <AantalReizen>700</AantalReizen>
   </TrajectInput>
   <TrajectInput>
@@ -7454,7 +7572,7 @@
       <TrajectStationVolgnr>9</TrajectStationVolgnr>
       <TrajectStationCode>VL</TrajectStationCode>
     </TrajectStations>
-    <VervoerderCode>400</VervoerderCode>
+    <VervoerderCode>500</VervoerderCode>
     <AantalReizen>3000</AantalReizen>
   </TrajectInput>
   <TrajectInput>
@@ -7597,7 +7715,7 @@
       <TrajectStationVolgnr>7</TrajectStationVolgnr>
       <TrajectStationCode>VRY</TrajectStationCode>
     </TrajectStations>
-    <VervoerderCode>700</VervoerderCode>
+    <VervoerderCode>500</VervoerderCode>
     <AantalReizen>2000</AantalReizen>
   </TrajectInput>
   <TrajectInput>
@@ -7881,7 +7999,7 @@
       <TrajectStationVolgnr>14</TrajectStationVolgnr>
       <TrajectStationCode>WW</TrajectStationCode>
     </TrajectStations>
-    <VervoerderCode>700</VervoerderCode>
+    <VervoerderCode>500</VervoerderCode>
     <AantalReizen>1500</AantalReizen>
   </TrajectInput>
   <TrajectInput>
@@ -7920,7 +8038,7 @@
       <TrajectStationVolgnr>6</TrajectStationVolgnr>
       <TrajectStationCode>WW</TrajectStationCode>
     </TrajectStations>
-    <VervoerderCode>700</VervoerderCode>
+    <VervoerderCode>500</VervoerderCode>
     <AantalReizen>1000</AantalReizen>
   </TrajectInput>
   <TrajectInput>
