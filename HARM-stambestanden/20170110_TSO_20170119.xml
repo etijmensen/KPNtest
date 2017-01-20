@@ -1,34 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:tso:v1 Stam_TSO_v4.13.xsd" IngangsMoment="2016-12-29T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:tso:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2017-01-19T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <TreinSoortInput>
     <TreinFormule>1</TreinFormule>
-    <TreinSoortCode>NSS</TreinSoortCode>
-    <TreinSoortOmschrijving>Snelbus ipv Trein</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
-    <TreinFormule>1</TreinFormule>
-    <TreinSoortCode>B</TreinSoortCode>
+    <TreinSoortCode>BUS</TreinSoortCode>
     <TreinSoortOmschrijving>Bus</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
-    <TreinFormule>1</TreinFormule>
-    <TreinSoortCode>BO</TreinSoortCode>
-    <TreinSoortOmschrijving>Boot</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
-    <TreinFormule>1</TreinFormule>
-    <TreinSoortCode>C</TreinSoortCode>
-    <TreinSoortOmschrijving>Lijntaxi</TreinSoortOmschrijving>
   </TreinSoortInput>
   <TreinSoortInput>
     <TreinFormule>4</TreinFormule>
     <TreinSoortCode>CNL</TreinSoortCode>
     <TreinSoortOmschrijving>CityNightLine/IC</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
-    <TreinFormule>4</TreinFormule>
-    <TreinSoortCode>D</TreinSoortCode>
-    <TreinSoortOmschrijving>D-trein</TreinSoortOmschrijving>
   </TreinSoortInput>
   <TreinSoortInput>
     <TreinFormule>4</TreinFormule>
@@ -46,11 +26,6 @@
     <TreinSoortOmschrijving>Eurostar</TreinSoortOmschrijving>
   </TreinSoortInput>
   <TreinSoortInput>
-    <TreinFormule>2</TreinFormule>
-    <TreinSoortCode>I</TreinSoortCode>
-    <TreinSoortOmschrijving>Interliner</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
     <TreinFormule>3</TreinFormule>
     <TreinSoortCode>IC</TreinSoortCode>
     <TreinSoortOmschrijving>Intercity</TreinSoortOmschrijving>
@@ -66,59 +41,9 @@
     <TreinSoortOmschrijving>Int. Trein</TreinSoortOmschrijving>
   </TreinSoortInput>
   <TreinSoortInput>
-    <TreinFormule>4</TreinFormule>
-    <TreinSoortCode>IR</TreinSoortCode>
-    <TreinSoortOmschrijving>Interregio</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
-    <TreinFormule>4</TreinFormule>
-    <TreinSoortCode>L</TreinSoortCode>
-    <TreinSoortOmschrijving>Aggloliner</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
-    <TreinFormule>1</TreinFormule>
-    <TreinSoortCode>M</TreinSoortCode>
-    <TreinSoortOmschrijving>Metro</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
-    <TreinFormule>1</TreinFormule>
-    <TreinSoortCode>NSB</TreinSoortCode>
-    <TreinSoortOmschrijving>Stopbus ipv Trein</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
-    <TreinFormule>1</TreinFormule>
-    <TreinSoortCode>NSM</TreinSoortCode>
-    <TreinSoortOmschrijving>Metro ipv Trein</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
-    <TreinFormule>1</TreinFormule>
-    <TreinSoortCode>NST</TreinSoortCode>
-    <TreinSoortOmschrijving>Tram ipv Trein</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
-    <TreinFormule>4</TreinFormule>
-    <TreinSoortCode>NZ</TreinSoortCode>
-    <TreinSoortOmschrijving>NachtZug</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
-    <TreinFormule>1</TreinFormule>
-    <TreinSoortCode>R</TreinSoortCode>
-    <TreinSoortOmschrijving>LightRail</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
     <TreinFormule>2</TreinFormule>
     <TreinSoortCode>S</TreinSoortCode>
     <TreinSoortOmschrijving>Sneltrein</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
-    <TreinFormule>4</TreinFormule>
-    <TreinSoortCode>SBA</TreinSoortCode>
-    <TreinSoortOmschrijving>S-bahn</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
-    <TreinFormule>1</TreinFormule>
-    <TreinSoortCode>SGM</TreinSoortCode>
-    <TreinSoortOmschrijving>Sprinter</TreinSoortOmschrijving>
   </TreinSoortInput>
   <TreinSoortInput>
     <TreinFormule>5</TreinFormule>
@@ -136,16 +61,6 @@
     <TreinSoortOmschrijving>Stoptrein</TreinSoortOmschrijving>
   </TreinSoortInput>
   <TreinSoortInput>
-    <TreinFormule>1</TreinFormule>
-    <TreinSoortCode>T</TreinSoortCode>
-    <TreinSoortOmschrijving>Tram</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
-    <TreinFormule>1</TreinFormule>
-    <TreinSoortCode>TAX</TreinSoortCode>
-    <TreinSoortOmschrijving>Taxi</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
     <TreinFormule>4</TreinFormule>
     <TreinSoortCode>TGV</TreinSoortCode>
     <TreinSoortOmschrijving>TGV</TreinSoortOmschrijving>
@@ -156,44 +71,9 @@
     <TreinSoortOmschrijving>Thalys</TreinSoortOmschrijving>
   </TreinSoortInput>
   <TreinSoortInput>
-    <TreinFormule>1</TreinFormule>
-    <TreinSoortCode>TR</TreinSoortCode>
-    <TreinSoortOmschrijving>Lightrail</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
-    <TreinFormule>1</TreinFormule>
-    <TreinSoortCode>TT</TreinSoortCode>
-    <TreinSoortOmschrijving>Treintaxi</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
-    <TreinFormule>1</TreinFormule>
-    <TreinSoortCode>U</TreinSoortCode>
-    <TreinSoortOmschrijving>Buurtbus</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
-    <TreinFormule>1</TreinFormule>
-    <TreinSoortCode>V</TreinSoortCode>
-    <TreinSoortOmschrijving>Boot (OVR)</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
-    <TreinFormule>2</TreinFormule>
-    <TreinSoortCode>X</TreinSoortCode>
-    <TreinSoortOmschrijving>Snelbus</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
-    <TreinFormule>1</TreinFormule>
-    <TreinSoortCode>Y</TreinSoortCode>
-    <TreinSoortOmschrijving>Belbus</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
     <TreinFormule>99</TreinFormule>
-    <TreinSoortCode>LM</TreinSoortCode>
+    <TreinSoortCode>NI</TreinSoortCode>
     <TreinSoortOmschrijving>Niet instappen</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
-    <TreinFormule>4</TreinFormule>
-    <TreinSoortCode>HSI</TreinSoortCode>
-    <TreinSoortOmschrijving>Int. Trein</TreinSoortOmschrijving>
   </TreinSoortInput>
   <TreinSoortInput>
     <TreinFormule>5</TreinFormule>
@@ -217,7 +97,7 @@
   </TreinSoortInput>
   <TreinSoortInput>
     <TreinFormule>5</TreinFormule>
-    <TreinSoortCode>HSN</TreinSoortCode>
+    <TreinSoortCode>ICD</TreinSoortCode>
     <TreinSoortOmschrijving>Intercity direct</TreinSoortOmschrijving>
   </TreinSoortInput>
   <TreinSoortInput>
@@ -251,16 +131,6 @@
     <TreinSoortOmschrijving>Balaton Sound</TreinSoortOmschrijving>
   </TreinSoortInput>
   <TreinSoortInput>
-    <TreinFormule>99</TreinFormule>
-    <TreinSoortCode>GZ</TreinSoortCode>
-    <TreinSoortOmschrijving>Gezelschapstrein</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
-    <TreinFormule>99</TreinFormule>
-    <TreinSoortCode>NI</TreinSoortCode>
-    <TreinSoortOmschrijving>Niet Instappen</TreinSoortOmschrijving>
-  </TreinSoortInput>
-  <TreinSoortInput>
     <TreinFormule>4</TreinFormule>
     <TreinSoortCode>MT</TreinSoortCode>
     <TreinSoortOmschrijving>Müller Tour</TreinSoortOmschrijving>
@@ -280,4 +150,9 @@
     <TreinSoortCode>ALE</TreinSoortCode>
     <TreinSoortOmschrijving>Alpen Express</TreinSoortOmschrijving>
   </TreinSoortInput>
-</StamInput>
+  <TreinSoortInput>
+    <TreinFormule>5</TreinFormule>
+    <TreinSoortCode>NIN</TreinSoortCode>
+    <TreinSoortOmschrijving>Niet Instappen</TreinSoortOmschrijving>
+  </TreinSoortInput>
+</HARMInput>
