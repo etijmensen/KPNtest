@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2016-12-11T01:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2017-02-13T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SpoorCorrectieInput>
     <DienstRegelPunt>HGL</DienstRegelPunt>
     <VanTreinNummer>1700</VanTreinNummer>
@@ -439,85 +439,5 @@
     <IndicatorEvenOneven>N</IndicatorEvenOneven>
     <VPTVertrekSpoorOud>3B</VPTVertrekSpoorOud>
     <VPTVertrekSpoorNieuw>3</VPTVertrekSpoorNieuw>
-  </SpoorCorrectieInput>
-  <SpoorCorrectieInput>
-    <DienstRegelPunt>MP</DienstRegelPunt>
-    <VanTreinNummer>8100</VanTreinNummer>
-    <TotEnMetTreinNummer>8199</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    <VPTVertrekSpoorOud>2A</VPTVertrekSpoorOud>
-    <VPTVertrekSpoorNieuw>2</VPTVertrekSpoorNieuw>
-  </SpoorCorrectieInput>
-  <SpoorCorrectieInput>
-    <DienstRegelPunt>MP</DienstRegelPunt>
-    <VanTreinNummer>108100</VanTreinNummer>
-    <TotEnMetTreinNummer>108199</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    <VPTVertrekSpoorOud>2A</VPTVertrekSpoorOud>
-    <VPTVertrekSpoorNieuw>2</VPTVertrekSpoorNieuw>
-  </SpoorCorrectieInput>
-  <SpoorCorrectieInput>
-    <DienstRegelPunt>MP</DienstRegelPunt>
-    <VanTreinNummer>208100</VanTreinNummer>
-    <TotEnMetTreinNummer>208199</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    <VPTVertrekSpoorOud>2A</VPTVertrekSpoorOud>
-    <VPTVertrekSpoorNieuw>2</VPTVertrekSpoorNieuw>
-  </SpoorCorrectieInput>
-  <SpoorCorrectieInput>
-    <DienstRegelPunt>MP</DienstRegelPunt>
-    <VanTreinNummer>308100</VanTreinNummer>
-    <TotEnMetTreinNummer>308199</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    <VPTVertrekSpoorOud>2A</VPTVertrekSpoorOud>
-    <VPTVertrekSpoorNieuw>2</VPTVertrekSpoorNieuw>
-  </SpoorCorrectieInput>
-  <SpoorCorrectieInput>
-    <DienstRegelPunt>MP</DienstRegelPunt>
-    <VanTreinNummer>708100</VanTreinNummer>
-    <TotEnMetTreinNummer>708199</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    <VPTVertrekSpoorOud>2A</VPTVertrekSpoorOud>
-    <VPTVertrekSpoorNieuw>2</VPTVertrekSpoorNieuw>
-  </SpoorCorrectieInput>
-  <SpoorCorrectieInput>
-    <DienstRegelPunt>STD</DienstRegelPunt>
-    <VanTreinNummer>32400</VanTreinNummer>
-    <TotEnMetTreinNummer>32499</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    <VPTVertrekSpoorOud>3A</VPTVertrekSpoorOud>
-    <VPTVertrekSpoorNieuw>3AK</VPTVertrekSpoorNieuw>
-  </SpoorCorrectieInput>
-  <SpoorCorrectieInput>
-    <DienstRegelPunt>STD</DienstRegelPunt>
-    <VanTreinNummer>132400</VanTreinNummer>
-    <TotEnMetTreinNummer>132499</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    <VPTVertrekSpoorOud>3A</VPTVertrekSpoorOud>
-    <VPTVertrekSpoorNieuw>3AK</VPTVertrekSpoorNieuw>
-  </SpoorCorrectieInput>
-  <SpoorCorrectieInput>
-    <DienstRegelPunt>STD</DienstRegelPunt>
-    <VanTreinNummer>232400</VanTreinNummer>
-    <TotEnMetTreinNummer>232499</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    <VPTVertrekSpoorOud>3A</VPTVertrekSpoorOud>
-    <VPTVertrekSpoorNieuw>3AK</VPTVertrekSpoorNieuw>
-  </SpoorCorrectieInput>
-  <SpoorCorrectieInput>
-    <DienstRegelPunt>STD</DienstRegelPunt>
-    <VanTreinNummer>332400</VanTreinNummer>
-    <TotEnMetTreinNummer>332499</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    <VPTVertrekSpoorOud>3A</VPTVertrekSpoorOud>
-    <VPTVertrekSpoorNieuw>3AK</VPTVertrekSpoorNieuw>
-  </SpoorCorrectieInput>
-  <SpoorCorrectieInput>
-    <DienstRegelPunt>STD</DienstRegelPunt>
-    <VanTreinNummer>732400</VanTreinNummer>
-    <TotEnMetTreinNummer>732499</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    <VPTVertrekSpoorOud>3A</VPTVertrekSpoorOud>
-    <VPTVertrekSpoorNieuw>3AK</VPTVertrekSpoorNieuw>
   </SpoorCorrectieInput>
 </HARMInput>

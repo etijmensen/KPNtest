@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2016-12-11T01:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2017-02-13T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <VerkorteRouteInput>
     <StationCode>HFD</StationCode>
     <VanTreinNummer>5719</VanTreinNummer>
@@ -459,20 +459,6 @@
     <EindBestemming>SHL</EindBestemming>
   </VerkorteRouteInput>
   <VerkorteRouteInput>
-    <StationCode>WP</StationCode>
-    <VanTreinNummer>5800</VanTreinNummer>
-    <TotEnMetTreinNummer>5898</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    <GeldigheidPerSoortDag>dinsdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>donderdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>maandag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>vrijdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>woensdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zondag</GeldigheidPerSoortDag>
-    <EindBestemming>ASD</EindBestemming>
-  </VerkorteRouteInput>
-  <VerkorteRouteInput>
     <StationCode>RTD</StationCode>
     <VanTreinNummer>1406</VanTreinNummer>
     <TotEnMetTreinNummer>1406</TotEnMetTreinNummer>
@@ -481,62 +467,6 @@
     <GeldigheidPerSoortDag>zondag</GeldigheidPerSoortDag>
     <VerkorteRouteStation>GV</VerkorteRouteStation>
     <EindBestemming>SHL</EindBestemming>
-  </VerkorteRouteInput>
-  <VerkorteRouteInput>
-    <StationCode>HFD</StationCode>
-    <VanTreinNummer>5800</VanTreinNummer>
-    <TotEnMetTreinNummer>5899</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    <GeldigheidPerSoortDag>dinsdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>donderdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>maandag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>vrijdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>woensdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zondag</GeldigheidPerSoortDag>
-    <EindBestemming>ASD</EindBestemming>
-  </VerkorteRouteInput>
-  <VerkorteRouteInput>
-    <StationCode>SHL</StationCode>
-    <VanTreinNummer>5800</VanTreinNummer>
-    <TotEnMetTreinNummer>5899</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    <GeldigheidPerSoortDag>dinsdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>donderdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>maandag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>vrijdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>woensdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zondag</GeldigheidPerSoortDag>
-    <EindBestemming>ASD</EindBestemming>
-  </VerkorteRouteInput>
-  <VerkorteRouteInput>
-    <StationCode>SHL</StationCode>
-    <VanTreinNummer>4600</VanTreinNummer>
-    <TotEnMetTreinNummer>4699</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    <GeldigheidPerSoortDag>dinsdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>donderdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>maandag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>vrijdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>woensdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zondag</GeldigheidPerSoortDag>
-    <EindBestemming>ASD</EindBestemming>
-  </VerkorteRouteInput>
-  <VerkorteRouteInput>
-    <StationCode>HFD</StationCode>
-    <VanTreinNummer>4600</VanTreinNummer>
-    <TotEnMetTreinNummer>4699</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>N</IndicatorEvenOneven>
-    <GeldigheidPerSoortDag>dinsdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>donderdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>maandag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>vrijdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>woensdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zaterdag</GeldigheidPerSoortDag>
-    <GeldigheidPerSoortDag>zondag</GeldigheidPerSoortDag>
-    <EindBestemming>ASD</EindBestemming>
   </VerkorteRouteInput>
   <VerkorteRouteInput>
     <StationCode>HWZB</StationCode>

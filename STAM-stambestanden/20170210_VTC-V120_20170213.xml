@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:vtc:v1 Stam_VTC_v1.2.xsd" IngangsMoment="2017-02-13T00:00:00Z" Versie="1.2" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:vtc:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>000</VrijeTekstCategorieCode>
+    <Omschrijving>algemene reisinformatie (default)</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>041</VrijeTekstCategorieCode>
+    <Omschrijving>nieuwe dienstregeling</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>035</VrijeTekstCategorieCode>
+    <Omschrijving>muziek HNM / Ziggo dome / Gelredome / Ahoy</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>036</VrijeTekstCategorieCode>
+    <Omschrijving>voetbal</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>037</VrijeTekstCategorieCode>
+    <Omschrijving>schaatsen</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>212</VrijeTekstCategorieCode>
+    <Omschrijving>ICE omgekeerde volgorde</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>213</VrijeTekstCategorieCode>
+    <Omschrijving>ICE omgekeerde voorste treindeel</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>214</VrijeTekstCategorieCode>
+    <Omschrijving>ICE omgekeerd achterste treindeel</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>215</VrijeTekstCategorieCode>
+    <Omschrijving>ICE omgekeerd beide treindelen</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>221</VrijeTekstCategorieCode>
+    <Omschrijving>Thalys ander materieel inzet</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>222</VrijeTekstCategorieCode>
+    <Omschrijving>Thalys omgekeerde volgorde</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>223</VrijeTekstCategorieCode>
+    <Omschrijving>Thalys omgekeerd voorste treindeel</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>224</VrijeTekstCategorieCode>
+    <Omschrijving>Thalys omgekeerd achterste treindeel</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>225</VrijeTekstCategorieCode>
+    <Omschrijving>Thalys omgekeerd beide treindelen</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>226</VrijeTekstCategorieCode>
+    <Omschrijving>Thalys omgekeerde bestemming</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>241</VrijeTekstCategorieCode>
+    <Omschrijving>IC-Berlin ander materieel inzet</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>220</VrijeTekstCategorieCode>
+    <Omschrijving>Thalys rit-bericht</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>240</VrijeTekstCategorieCode>
+    <Omschrijving>IC-Berlin rit-bericht</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>216</VrijeTekstCategorieCode>
+    <Omschrijving>ICE één treindeel ontbreekt</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>227</VrijeTekstCategorieCode>
+    <Omschrijving>Thalys één treindeel ontbreekt</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>210</VrijeTekstCategorieCode>
+    <Omschrijving>ICE rit-bericht</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>211</VrijeTekstCategorieCode>
+    <Omschrijving>ICE ander materieel inzet</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>242</VrijeTekstCategorieCode>
+    <Omschrijving>IC-Berlin omgekeerde volgorde</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>243</VrijeTekstCategorieCode>
+    <Omschrijving>IC-Berlin barrijtuig ontbreekt</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>244</VrijeTekstCategorieCode>
+    <Omschrijving>IC-Berlin fietsrijtuig ontbreekt</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>245</VrijeTekstCategorieCode>
+    <Omschrijving>IC-Berlin bar- en fietsrijtuig ontbreekt</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>230</VrijeTekstCategorieCode>
+    <Omschrijving>Eurostar rit-bericht</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>231</VrijeTekstCategorieCode>
+    <Omschrijving>Eurostar ander materieel inzet</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>232</VrijeTekstCategorieCode>
+    <Omschrijving>Eurostar omgekeerde volgorde</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>250</VrijeTekstCategorieCode>
+    <Omschrijving>IC-Brussel rit-bericht</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>251</VrijeTekstCategorieCode>
+    <Omschrijving>IC-Brussel ander materieel inzet</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>252</VrijeTekstCategorieCode>
+    <Omschrijving>IC-Brussel omgekeerde volgorde</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>260</VrijeTekstCategorieCode>
+    <Omschrijving>Buurland (kort-grensoverschrijdend)</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>001</VrijeTekstCategorieCode>
+    <Omschrijving>EV toevoeging Stations- en Treinberichten</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>002</VrijeTekstCategorieCode>
+    <Omschrijving>EV aanvulling op bestaande berichten</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>003</VrijeTekstCategorieCode>
+    <Omschrijving>Aankondiging afwijkende dienstregeling (LUD/ROD)</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>004</VrijeTekstCategorieCode>
+    <Omschrijving>Gladde sporen (melding op TBx)</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>005</VrijeTekstCategorieCode>
+    <Omschrijving>Weersomstandigheden overig</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>006</VrijeTekstCategorieCode>
+    <Omschrijving>Staking buitenland</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>010</VrijeTekstCategorieCode>
+    <Omschrijving>werkzaamheden</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>011</VrijeTekstCategorieCode>
+    <Omschrijving>BUTA (aankondiging)</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>030</VrijeTekstCategorieCode>
+    <Omschrijving>overige evenementen (niet hieronder gemeld)</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>031</VrijeTekstCategorieCode>
+    <Omschrijving>Koningsdag</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>032</VrijeTekstCategorieCode>
+    <Omschrijving>4 en 5 mei</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>033</VrijeTekstCategorieCode>
+    <Omschrijving>Libelle zomerweek</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>034</VrijeTekstCategorieCode>
+    <Omschrijving>4-daagse Nijmegen</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>042</VrijeTekstCategorieCode>
+    <Omschrijving>afwijkend spoorgebruik</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>043</VrijeTekstCategorieCode>
+    <Omschrijving>aankondiging/herhaling (nieuw) NS-beleid, bijv. niet-roken</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>110</VrijeTekstCategorieCode>
+    <Omschrijving>poortjes</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>111</VrijeTekstCategorieCode>
+    <Omschrijving>kaartautomaten (storing)</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>112</VrijeTekstCategorieCode>
+    <Omschrijving>overige stations (infrastructuur)</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>113</VrijeTekstCategorieCode>
+    <Omschrijving>gratis koffie/thee (evt. WC)</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>114</VrijeTekstCategorieCode>
+    <Omschrijving>zakkenrollers</Omschrijving>
+  </VrijeTekstCategorieInput>
+  <VrijeTekstCategorieInput>
+    <VrijeTekstCategorieCode>115</VrijeTekstCategorieCode>
+    <Omschrijving>in- en uitgangscontrole op station</Omschrijving>
+  </VrijeTekstCategorieInput>
+</StamInput>

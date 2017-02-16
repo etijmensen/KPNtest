@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:stn:v1 Stam_STN_v4.13.xsd" IngangsMoment="2016-12-29T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:stn:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:stn:v1 Stam_STN_v4.13.xsd" IngangsMoment="2017-02-14T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:stn:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StationInput>
     <StationCode>AC</StationCode>
     <Type>0</Type>
@@ -1823,6 +1823,15 @@
     <LangeNaam>Goes</LangeNaam>
     <TaalCode>nl</TaalCode>
     <UICCode>8400253</UICCode>
+  </StationInput>
+  <StationInput>
+    <StationCode>GSB</StationCode>
+    <Type>4</Type>
+    <KorteNaam>Berlin Gsb</KorteNaam>
+    <MiddelNaam>Berlin Gesundbr.</MiddelNaam>
+    <LangeNaam>Berlin Gesundbrunnen</LangeNaam>
+    <TaalCode>nl</TaalCode>
+    <UICCode>8007799</UICCode>
   </StationInput>
   <StationInput>
     <StationCode>GV</StationCode>
@@ -4868,15 +4877,6 @@
     <UICCode>8300157</UICCode>
   </StationInput>
   <StationInput>
-    <StationCode>KRW</StationCode>
-    <Type>7</Type>
-    <KorteNaam>Kerkrade W</KorteNaam>
-    <MiddelNaam>Kerkrade West</MiddelNaam>
-    <LangeNaam>Kerkrade West</LangeNaam>
-    <TaalCode>nl</TaalCode>
-    <UICCode>8400573</UICCode>
-  </StationInput>
-  <StationInput>
     <StationCode>ZUE</StationCode>
     <Type>4</Type>
     <KorteNaam>Zürich HB</KorteNaam>
@@ -5678,30 +5678,12 @@
     <UICCode>7015400</UICCode>
   </StationInput>
   <StationInput>
-    <StationCode>BEURS</StationCode>
+    <StationCode>MHV</StationCode>
     <Type>7</Type>
-    <KorteNaam>Beurs</KorteNaam>
-    <MiddelNaam>Rotterdam Beurs</MiddelNaam>
-    <LangeNaam>Rotterdam Beurs</LangeNaam>
+    <KorteNaam>Maashaven</KorteNaam>
+    <MiddelNaam>Maashaven</MiddelNaam>
+    <LangeNaam>Maashaven</LangeNaam>
     <TaalCode>nl</TaalCode>
-    <UICCode>8400077</UICCode>
-  </StationInput>
-  <StationInput>
-    <StationCode>ERAS</StationCode>
-    <Type>7</Type>
-    <KorteNaam>Erasmus</KorteNaam>
-    <MiddelNaam>Erasmus (NS-bus)</MiddelNaam>
-    <LangeNaam>Erasmus uni. (NS-bus)</LangeNaam>
-    <TaalCode>nl</TaalCode>
-    <UICCode>8400672</UICCode>
-  </StationInput>
-  <StationInput>
-    <StationCode>TUD</StationCode>
-    <Type>7</Type>
-    <KorteNaam>TU-Delft</KorteNaam>
-    <MiddelNaam>TU-Delft (bus)</MiddelNaam>
-    <LangeNaam>TU-Delft (NS-bus)</LangeNaam>
-    <TaalCode>nl</TaalCode>
-    <UICCode>8400673</UICCode>
+    <UICCode>8400670</UICCode>
   </StationInput>
 </StamInput>
