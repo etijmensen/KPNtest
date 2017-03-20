@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:asp:v1 Stam_ASP_v4.13.xsd" IngangsMoment="2016-12-12T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:asp:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:asp:v1 Stam_ASP_v4.13.xsd" IngangsMoment="2017-03-02T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:asp:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StopPlaatsAVVInput>
     <Code>AC900</Code>
     <StationCode>AC</StationCode>
@@ -1421,6 +1421,16 @@
     <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>LW001</Code>
+    <StationCode>LW</StationCode>
+    <OmschrijvingGUI>Halte N</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Halte N</common:Kort>
+      <common:Middel>Halte N</common:Middel>
+      <common:Lang>vanaf het busstation Halte N</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>LWC900</Code>
     <StationCode>LWC</StationCode>
     <CodeStandaardStopplaats>004</CodeStandaardStopplaats>
@@ -1846,6 +1856,11 @@
     </Omschrijving>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
+    <Code>RTZ900</Code>
+    <StationCode>RTZ</StationCode>
+    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
     <Code>RV900</Code>
     <StationCode>RV</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
@@ -2086,16 +2101,6 @@
     <CodeStandaardStopplaats>008</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
-    <Code>UT001</Code>
-    <StationCode>UT</StationCode>
-    <OmschrijvingGUI>Jaarbeursplein</OmschrijvingGUI>
-    <Omschrijving>
-      <common:Kort>Croeselaan</common:Kort>
-      <common:Middel>Croeselaan</common:Middel>
-      <common:Lang>vanaf de NS Bushalte aan de Croeselaan</common:Lang>
-    </Omschrijving>
-  </StopPlaatsAVVInput>
-  <StopPlaatsAVVInput>
     <Code>UT900</Code>
     <StationCode>UT</StationCode>
     <CodeStandaardStopplaats>019</CodeStandaardStopplaats>
@@ -2106,13 +2111,23 @@
     <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
-    <Code>UT002</Code>
+    <Code>UT001</Code>
     <StationCode>UT</StationCode>
     <OmschrijvingGUI>Jaarbeurszijde</OmschrijvingGUI>
     <Omschrijving>
       <common:Kort>Jaarbeurszijde</common:Kort>
       <common:Middel>Jaarbeurszijde</common:Middel>
       <common:Lang>vanaf de Jaarbeurszijde</common:Lang>
+    </Omschrijving>
+  </StopPlaatsAVVInput>
+  <StopPlaatsAVVInput>
+    <Code>UT002</Code>
+    <StationCode>UT</StationCode>
+    <OmschrijvingGUI>Croeselaan</OmschrijvingGUI>
+    <Omschrijving>
+      <common:Kort>Croeselaan</common:Kort>
+      <common:Middel>Croeselaan</common:Middel>
+      <common:Lang>vanaf de Bushalte aan de Croeselaan</common:Lang>
     </Omschrijving>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>

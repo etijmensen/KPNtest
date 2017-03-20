@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2017-02-13T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2017-03-22T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SpoorCodeInput>
     <StationCode>EHV</StationCode>
     <DienstRegelPunt>EHV</DienstRegelPunt>
@@ -664,7 +664,7 @@
   </SpoorCodeInput>
   <SpoorCodeInput>
     <StationCode>DRESDN</StationCode>
-    <DienstRegelPunt>DRESDN</DienstRegelPunt>
+    <DienstRegelPunt>DREDN</DienstRegelPunt>
     <VPTSpoor>1</VPTSpoor>
     <PerronSpoorNummer>1</PerronSpoorNummer>
     <LengteMedium>0</LengteMedium>
@@ -807,7 +807,7 @@
     <LengteLang>0</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
-    <StationCode>------</StationCode>
+    <StationCode>WESEL</StationCode>
     <DienstRegelPunt>WESEL</DienstRegelPunt>
     <VPTSpoor>1</VPTSpoor>
     <PerronSpoorNummer>1</PerronSpoorNummer>
@@ -1569,7 +1569,7 @@
     <VPTSpoor>2B</VPTSpoor>
     <PerronSpoorNummer>2</PerronSpoorNummer>
     <PerronSpoorFaseKort>b</PerronSpoorFaseKort>
-    <LengteMedium>157</LengteMedium>
+    <LengteMedium>158</LengteMedium>
     <LengteLang>372</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
@@ -3106,7 +3106,6 @@
     <DienstRegelPunt>MP</DienstRegelPunt>
     <VPTSpoor>2B</VPTSpoor>
     <PerronSpoorNummer>2</PerronSpoorNummer>
-    <PerronSpoorFaseKort>b</PerronSpoorFaseKort>
     <LengteMedium>158</LengteMedium>
     <LengteLang>400</LengteLang>
   </SpoorCodeInput>
@@ -7661,6 +7660,7 @@
     <DienstRegelPunt>DDR</DienstRegelPunt>
     <VPTSpoor>3A</VPTSpoor>
     <PerronSpoorNummer>3</PerronSpoorNummer>
+    <PerronSpoorFaseKort>a</PerronSpoorFaseKort>
     <LengteMedium>235</LengteMedium>
     <LengteLang>471</LengteLang>
   </SpoorCodeInput>
@@ -14272,17 +14272,6 @@
     <LengteLang>0</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
-    <StationCode>DDR</StationCode>
-    <DienstRegelPunt>DDR</DienstRegelPunt>
-    <VPTSpoor>3AK</VPTSpoor>
-    <PerronSpoorNummer>3</PerronSpoorNummer>
-    <PerronSpoorFaseKort>a</PerronSpoorFaseKort>
-    <PerronSpoorFaseMedium>a</PerronSpoorFaseMedium>
-    <PerronSpoorFaseLang>a</PerronSpoorFaseLang>
-    <LengteMedium>471</LengteMedium>
-    <LengteLang>0</LengteLang>
-  </SpoorCodeInput>
-  <SpoorCodeInput>
     <StationCode>ZL</StationCode>
     <DienstRegelPunt>ZL</DienstRegelPunt>
     <VPTSpoor>3AK</VPTSpoor>
@@ -14939,14 +14928,47 @@
     <LengteLang>0</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
-    <StationCode>MP</StationCode>
-    <DienstRegelPunt>MP</DienstRegelPunt>
-    <VPTSpoor>2AK</VPTSpoor>
-    <PerronSpoorNummer>2</PerronSpoorNummer>
+    <StationCode>UT</StationCode>
+    <DienstRegelPunt>UT</DienstRegelPunt>
+    <VPTSpoor>20A</VPTSpoor>
+    <PerronSpoorNummer>20</PerronSpoorNummer>
     <PerronSpoorFaseKort>a</PerronSpoorFaseKort>
     <PerronSpoorFaseMedium>a</PerronSpoorFaseMedium>
     <PerronSpoorFaseLang>a</PerronSpoorFaseLang>
-    <LengteMedium>400</LengteMedium>
+    <LengteMedium>340</LengteMedium>
+    <LengteLang>0</LengteLang>
+  </SpoorCodeInput>
+  <SpoorCodeInput>
+    <StationCode>UT</StationCode>
+    <DienstRegelPunt>UT</DienstRegelPunt>
+    <VPTSpoor>20B</VPTSpoor>
+    <PerronSpoorNummer>20</PerronSpoorNummer>
+    <PerronSpoorFaseKort>b</PerronSpoorFaseKort>
+    <PerronSpoorFaseMedium>b</PerronSpoorFaseMedium>
+    <PerronSpoorFaseLang>b</PerronSpoorFaseLang>
+    <LengteMedium>340</LengteMedium>
+    <LengteLang>0</LengteLang>
+  </SpoorCodeInput>
+  <SpoorCodeInput>
+    <StationCode>UT</StationCode>
+    <DienstRegelPunt>UT</DienstRegelPunt>
+    <VPTSpoor>21A</VPTSpoor>
+    <PerronSpoorNummer>21</PerronSpoorNummer>
+    <PerronSpoorFaseKort>a</PerronSpoorFaseKort>
+    <PerronSpoorFaseMedium>a</PerronSpoorFaseMedium>
+    <PerronSpoorFaseLang>a</PerronSpoorFaseLang>
+    <LengteMedium>340</LengteMedium>
+    <LengteLang>0</LengteLang>
+  </SpoorCodeInput>
+  <SpoorCodeInput>
+    <StationCode>UT</StationCode>
+    <DienstRegelPunt>UT</DienstRegelPunt>
+    <VPTSpoor>21B</VPTSpoor>
+    <PerronSpoorNummer>21</PerronSpoorNummer>
+    <PerronSpoorFaseKort>b</PerronSpoorFaseKort>
+    <PerronSpoorFaseMedium>b</PerronSpoorFaseMedium>
+    <PerronSpoorFaseLang>b</PerronSpoorFaseLang>
+    <LengteMedium>340</LengteMedium>
     <LengteLang>0</LengteLang>
   </SpoorCodeInput>
 </HARMInput>
