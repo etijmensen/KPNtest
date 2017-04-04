@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:tso:v1 Stam_TSO_v4.13.xsd" IngangsMoment="2017-03-10T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:tso:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:tso:v1 Stam_TSO_v4.13.xsd" IngangsMoment="2017-04-01T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:tso:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <TreinSoortInput>
     <TreinFormule>1</TreinFormule>
     <TreinSoortCode>BUS</TreinSoortCode>
@@ -159,5 +159,10 @@
     <TreinFormule>5</TreinFormule>
     <TreinSoortCode>DT</TreinSoortCode>
     <TreinSoortOmschrijving>Dinner Train</TreinSoortOmschrijving>
+  </TreinSoortInput>
+  <TreinSoortInput>
+    <TreinFormule>1</TreinFormule>
+    <TreinSoortCode>RE</TreinSoortCode>
+    <TreinSoortOmschrijving>Regional Express</TreinSoortOmschrijving>
   </TreinSoortInput>
 </StamInput>

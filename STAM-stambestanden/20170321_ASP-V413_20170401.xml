@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:asp:v1 Stam_ASP_v4.13.xsd" IngangsMoment="2017-03-02T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:asp:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StamInput xsi:schemaLocation="urn:ns:cdm:reisinformatie:i+:stamgegevens:asp:v1 Stam_ASP_v4.13.xsd" IngangsMoment="2017-04-01T00:00:00Z" Versie="4.13" xmlns="urn:ns:cdm:reisinformatie:i+:stamgegevens:asp:v1" xmlns:common="urn:ns:cdm:reisinformatie:i+:stamgegevens:common:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StopPlaatsAVVInput>
     <Code>AC900</Code>
     <StationCode>AC</StationCode>
@@ -1051,26 +1051,6 @@
     <CodeStandaardStopplaats>008</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
-    <Code>HLD900</Code>
-    <StationCode>HLD</StationCode>
-    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
-  </StopPlaatsAVVInput>
-  <StopPlaatsAVVInput>
-    <Code>HLD901</Code>
-    <StationCode>HLD</StationCode>
-    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
-  </StopPlaatsAVVInput>
-  <StopPlaatsAVVInput>
-    <Code>HLDS001</Code>
-    <StationCode>HLDS</StationCode>
-    <OmschrijvingGUI>Strandweg</OmschrijvingGUI>
-    <Omschrijving>
-      <common:Kort>Strandweg</common:Kort>
-      <common:Middel>Strandweg</common:Middel>
-      <common:Lang>vanaf de Strandweg</common:Lang>
-    </Omschrijving>
-  </StopPlaatsAVVInput>
-  <StopPlaatsAVVInput>
     <Code>HLG900</Code>
     <StationCode>HLG</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
@@ -1476,26 +1456,6 @@
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
-    <Code>MSS900</Code>
-    <StationCode>MSS</StationCode>
-    <CodeStandaardStopplaats>008</CodeStandaardStopplaats>
-  </StopPlaatsAVVInput>
-  <StopPlaatsAVVInput>
-    <Code>MSW001</Code>
-    <StationCode>MSW</StationCode>
-    <OmschrijvingGUI>Koningshoek</OmschrijvingGUI>
-    <Omschrijving>
-      <common:Kort>Koningshoek</common:Kort>
-      <common:Middel>Koningshoek</common:Middel>
-      <common:Lang>vanaf de Koningshoek</common:Lang>
-    </Omschrijving>
-  </StopPlaatsAVVInput>
-  <StopPlaatsAVVInput>
-    <Code>MSW900</Code>
-    <StationCode>MSW</StationCode>
-    <CodeStandaardStopplaats>005</CodeStandaardStopplaats>
-  </StopPlaatsAVVInput>
-  <StopPlaatsAVVInput>
     <Code>MT900</Code>
     <StationCode>MT</StationCode>
     <CodeStandaardStopplaats>004</CodeStandaardStopplaats>
@@ -1619,16 +1579,6 @@
     <Code>NWK900</Code>
     <StationCode>NWK</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
-  </StopPlaatsAVVInput>
-  <StopPlaatsAVVInput>
-    <Code>NWL001</Code>
-    <StationCode>NWL</StationCode>
-    <OmschrijvingGUI>Bijdorpweg</OmschrijvingGUI>
-    <Omschrijving>
-      <common:Kort>Bijdorpplein</common:Kort>
-      <common:Middel>Bijdorpplein</common:Middel>
-      <common:Lang>vanaf het Bijdorpplein</common:Lang>
-    </Omschrijving>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
     <Code>O900</Code>
@@ -2181,21 +2131,6 @@
     <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>
-    <Code>VDG001</Code>
-    <StationCode>VDG</StationCode>
-    <OmschrijvingGUI>Parallelweg</OmschrijvingGUI>
-    <Omschrijving>
-      <common:Kort>Parallelweg</common:Kort>
-      <common:Middel>Parallelweg</common:Middel>
-      <common:Lang>vanaf de Parallelweg</common:Lang>
-    </Omschrijving>
-  </StopPlaatsAVVInput>
-  <StopPlaatsAVVInput>
-    <Code>VDG900</Code>
-    <StationCode>VDG</StationCode>
-    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
-  </StopPlaatsAVVInput>
-  <StopPlaatsAVVInput>
     <Code>VDL900</Code>
     <StationCode>VDL</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
@@ -2203,26 +2138,6 @@
   <StopPlaatsAVVInput>
     <Code>VDM900</Code>
     <StationCode>VDM</StationCode>
-    <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
-  </StopPlaatsAVVInput>
-  <StopPlaatsAVVInput>
-    <Code>VDO900</Code>
-    <StationCode>VDO</StationCode>
-    <CodeStandaardStopplaats>010</CodeStandaardStopplaats>
-  </StopPlaatsAVVInput>
-  <StopPlaatsAVVInput>
-    <Code>VDW001</Code>
-    <StationCode>VDW</StationCode>
-    <OmschrijvingGUI>Geuzeplein</OmschrijvingGUI>
-    <Omschrijving>
-      <common:Kort>Geuzenplein</common:Kort>
-      <common:Middel>Geuzenplein</common:Middel>
-      <common:Lang>vanaf het Geuzenplein</common:Lang>
-    </Omschrijving>
-  </StopPlaatsAVVInput>
-  <StopPlaatsAVVInput>
-    <Code>VDW900</Code>
-    <StationCode>VDW</StationCode>
     <CodeStandaardStopplaats>003</CodeStandaardStopplaats>
   </StopPlaatsAVVInput>
   <StopPlaatsAVVInput>

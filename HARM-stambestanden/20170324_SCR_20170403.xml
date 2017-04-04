@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2017-02-13T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2017-04-03T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SpoorCorrectieInput>
     <DienstRegelPunt>HGL</DienstRegelPunt>
     <VanTreinNummer>1700</VanTreinNummer>
@@ -319,46 +319,6 @@
     <IndicatorEvenOneven>N</IndicatorEvenOneven>
     <VPTVertrekSpoorOud>2</VPTVertrekSpoorOud>
     <VPTVertrekSpoorNieuw>2B</VPTVertrekSpoorNieuw>
-  </SpoorCorrectieInput>
-  <SpoorCorrectieInput>
-    <DienstRegelPunt>LEDN</DienstRegelPunt>
-    <VanTreinNummer>2200</VanTreinNummer>
-    <TotEnMetTreinNummer>2299</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    <VPTVertrekSpoorOud>8B</VPTVertrekSpoorOud>
-    <VPTVertrekSpoorNieuw>8</VPTVertrekSpoorNieuw>
-  </SpoorCorrectieInput>
-  <SpoorCorrectieInput>
-    <DienstRegelPunt>LEDN</DienstRegelPunt>
-    <VanTreinNummer>102200</VanTreinNummer>
-    <TotEnMetTreinNummer>102299</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    <VPTVertrekSpoorOud>8B</VPTVertrekSpoorOud>
-    <VPTVertrekSpoorNieuw>8</VPTVertrekSpoorNieuw>
-  </SpoorCorrectieInput>
-  <SpoorCorrectieInput>
-    <DienstRegelPunt>LEDN</DienstRegelPunt>
-    <VanTreinNummer>202200</VanTreinNummer>
-    <TotEnMetTreinNummer>202299</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    <VPTVertrekSpoorOud>8B</VPTVertrekSpoorOud>
-    <VPTVertrekSpoorNieuw>8</VPTVertrekSpoorNieuw>
-  </SpoorCorrectieInput>
-  <SpoorCorrectieInput>
-    <DienstRegelPunt>LEDN</DienstRegelPunt>
-    <VanTreinNummer>302200</VanTreinNummer>
-    <TotEnMetTreinNummer>302299</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    <VPTVertrekSpoorOud>8B</VPTVertrekSpoorOud>
-    <VPTVertrekSpoorNieuw>8</VPTVertrekSpoorNieuw>
-  </SpoorCorrectieInput>
-  <SpoorCorrectieInput>
-    <DienstRegelPunt>LEDN</DienstRegelPunt>
-    <VanTreinNummer>702200</VanTreinNummer>
-    <TotEnMetTreinNummer>702299</TotEnMetTreinNummer>
-    <IndicatorEvenOneven>J</IndicatorEvenOneven>
-    <VPTVertrekSpoorOud>8B</VPTVertrekSpoorOud>
-    <VPTVertrekSpoorNieuw>8</VPTVertrekSpoorNieuw>
   </SpoorCorrectieInput>
   <SpoorCorrectieInput>
     <DienstRegelPunt>HGL</DienstRegelPunt>
