@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2017-04-03T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<HARMInput xsi:noNamespaceSchemaLocation="HARM_INPUT_Stamgegevens_XML_Schema_3.9.xsd" IngangsMoment="2017-04-27T00:00:00Z" Versie="3.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SpoorCodeInput>
     <StationCode>EHV</StationCode>
     <DienstRegelPunt>EHV</DienstRegelPunt>
@@ -1415,7 +1415,7 @@
     <DienstRegelPunt>ASN</DienstRegelPunt>
     <VPTSpoor>2</VPTSpoor>
     <PerronSpoorNummer>2</PerronSpoorNummer>
-    <LengteMedium>345</LengteMedium>
+    <LengteMedium>373</LengteMedium>
     <LengteLang>0</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
@@ -1423,7 +1423,7 @@
     <DienstRegelPunt>ASN</DienstRegelPunt>
     <VPTSpoor>3</VPTSpoor>
     <PerronSpoorNummer>3</PerronSpoorNummer>
-    <LengteMedium>367</LengteMedium>
+    <LengteMedium>340</LengteMedium>
     <LengteLang>0</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
@@ -5852,7 +5852,7 @@
     <PerronSpoorNummer>14</PerronSpoorNummer>
     <PerronSpoorFaseKort>b</PerronSpoorFaseKort>
     <LengteMedium>368</LengteMedium>
-    <LengteLang>999</LengteLang>
+    <LengteLang>649</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
     <StationCode>DDR</StationCode>
@@ -14851,7 +14851,7 @@
     <VPTSpoor>2A</VPTSpoor>
     <PerronSpoorNummer>2</PerronSpoorNummer>
     <PerronSpoorFaseKort>a</PerronSpoorFaseKort>
-    <LengteMedium>128</LengteMedium>
+    <LengteMedium>120</LengteMedium>
     <LengteLang>373</LengteLang>
   </SpoorCodeInput>
   <SpoorCodeInput>
@@ -14905,6 +14905,14 @@
     <PerronSpoorFaseMedium>b</PerronSpoorFaseMedium>
     <PerronSpoorFaseLang>b</PerronSpoorFaseLang>
     <LengteMedium>355</LengteMedium>
+    <LengteLang>0</LengteLang>
+  </SpoorCodeInput>
+  <SpoorCodeInput>
+    <StationCode>SWK</StationCode>
+    <DienstRegelPunt>SWK</DienstRegelPunt>
+    <VPTSpoor>412</VPTSpoor>
+    <PerronSpoorNummer>1</PerronSpoorNummer>
+    <LengteMedium>287</LengteMedium>
     <LengteLang>0</LengteLang>
   </SpoorCodeInput>
 </HARMInput>
